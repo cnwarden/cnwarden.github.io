@@ -1,4 +1,4 @@
-<p><!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <title>CFA</title>
@@ -6,4 +6,4 @@
   <body>
     Testing
   </body>
-  </html></p>
+  </html>
