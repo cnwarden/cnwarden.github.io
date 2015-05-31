@@ -11,3 +11,17 @@ The GIPS Executive Committee strongly encourages countries without an investment
 The GIPS Executive Committee will continue to promote the principles of fair representation and full disclosure and develop the GIPS standards so that they maintain their relevance within the changing investment management industry.
 
 The self-regulatory nature of the GIPS standards necessitates a strong commitment to ethical integrity. Self-regulation also assists regulators in exercising their responsibility for ensuring the fair disclosure of information within financial markets. The GIPS Executive Committee encourages regulators to:
+
+* Recognize the benefit of voluntary compliance with standards that represent global best practices;
+* Give consideration to taking enforcement actions against firms that falsely claim compliance with the GIPS standards; and
+* Recognize and encourage independent third-party verification.
+
+Where existing laws, regulations, or industry standards already impose requirements related to the calculation and presentation of investment performance, firms are **strongly encouraged to comply with the GIPS standards in addition to applicable regulatory requirements**. Compliance with applicable law and/or regulation does not necessarily lead to compliance with the GIPS standards. In cases in which laws and/or regulations **conflict with the GIPS standards**, firms are required to comply with the laws and regulations and *make full disclosure of the conflict in the compliant presentation*.
+
+# Country Sponsors
+The presence of a **local sponsoring organization** for investment performance standards, known as a "**country sponsor**", is essential for effective implementation of the GIPS standards and ongoing support within a country. Country sponsors collectively form the GIPS Council, which provides a formal role in the ongoing development and oversight of the GIPS standards. Country sponsors:
+
+* Promote the GIPS standards locally;
+* Provide local market support and input for the GIPS standards;
+* Present country-specific issues to the GIPS Executive Committee; and
+* Participate in the governance of the GIPS standards via membership in the GIPS Council and Regional Investment Performance Subcommittees.
