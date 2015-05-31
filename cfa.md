@@ -55,8 +55,6 @@ GIPS Executive Committee, which are available on the GIPS standards website (www
     * Firms should adopt the broadest, most meaningful definition of the firm. The scope of this definition should include all geographical (country, regional, etc.) offices operating under the same brand name regardless of the actual name of the individual investment management company.
     * Firms should provide to each existing client, on an annual basis, a compliant presentation of the composite in which the client’s portfolio is included.
 
----
-
 * **Input Data(输入数据)**: Consistency of input data used to calculate performance is critical to effective compliance with the GIPS standards and establishes the foundation for full, fair, and comparable investment performance presentations. *For periods beginning on or after 1 January 2011, all portfolios must be valued in accordance with the definition of fair value and the GIPS Valuation Principles*. (输入数据应保持一致性)
 
 * **Calculation Methodology(计算方法)**: Achieving comparability among investment management firms’ performance presentations requires uniformity in methods used to calculate returns. The GIPS standards mandate the use of certain calculation methodologies to facilitate comparability.
@@ -73,6 +71,33 @@ GIPS Executive Committee, which are available on the GIPS standards website (www
 
 * **Wrap Fee/Separately Managed Account (SMA) Portfolios**: Unless otherwise noted, this section supplements all of the required and recommended provisions in Sections 0–5. Firms should note that certain provisions in Sections 0–5 of the GIPS standards do not apply to wrap fee/SMA portfolios or are superseded by provisions within Section 8. The provisions that do not apply have been noted within Section 8.
 
+---
 
-# Next
-> Fundamentals of Compliance—Recommendations
+# II. GIPS Valuation Principles
+The GIPS standards are based on the ethical principles of fair representation and full disclosure. In order for the performance calculations to be meaningful, the valuations of portfolio investments must have integrity and fairly reflect their value. Effective 1 January 2011, the GIPS standards require firms to apply a fair value methodology following the definition and requirements listed below. The GIPS Valuation Principles, including the definition of fair value, were developed with consideration of the work done by the International Accounting Standards Board (IASB) and the Financial Accounting Standards Board (FASB) as well as other organizations.
+
+The shift to a broader fair value requirement has implications for all firms claiming compliance with the GIPS standards. For liquid securities in active markets, the change to fair value from market value will typically not result in a change to valuations. Firms must use the objective, observable, unadjusted quoted market prices for identical investments on the measurement date, if available.
+
+Markets are not always liquid and investment prices are not always objective and/or observable. For illiquid or hard to value investments, or for investments where no observable market value or market price is available, additional steps are necessary. A firm’s valuation policies and procedures must address situations where the market prices may be available for similar but not identical investments, inputs to valuations are subjective rather than objective, and/or markets are inactive instead of active. There is a recommended valuation hierarchy in Section C below. Firms must disclose if the composite’s valuation hierarchy materially differs from the recommended valuation hierarchy.
+
+Although a firm may use external third parties to value investments, the firm still retains responsibility for compliance with the GIPS standards, including the GIPS Valuation Principles.
+
+Firms claiming compliance with the GIPS standards must adhere to all the requirements and should comply with the recommendations below.
+
+## Fair Value Definition
+Fair value is defined as the amount at which an investment could be exchanged in a current arm’s length transaction between willing parties in which the parties each act knowledgeably and prudently. The valuation must be determined using the objective, observable, unadjusted quoted market price for an identical investment in an active market on the measurement date, if available. In the absence of an objective, observable, unadjusted quoted market price for an identical investment in an active market on the measurement date, the valuation must represent the firm’s best estimate of the market value. Fair value must include accrued income.
+
+## Valuation Requirements
+
+### Additional Real Estate Valuation Requirements
+
+### Additional Private Equity Valuation Requirements
+
+## Valuation Recommendations
+
+### Additional Real Estate Valuation Recommendations
+
+### Additional Private Equity Valuation Recommendations
+---
+
+III. GIPS Advertising Guidelines
