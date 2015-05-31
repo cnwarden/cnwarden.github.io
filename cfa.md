@@ -98,6 +98,33 @@ Fair value is defined as the amount at which an investment could be exchanged in
 ### Additional Real Estate Valuation Recommendations
 
 ### Additional Private Equity Valuation Recommendations
+
+
 ---
 
-III. GIPS Advertising Guidelines
+# III. GIPS Advertising Guidelines
+## Purpose of the GIPS Advertising Guidelines
+The GIPS Advertising Guidelines provide firms with options for advertising performance when mentioning the firm’s claim of compliance. The GIPS Advertising Guidelines do not replace the GIPS standards, nor do they absolve firms from presenting a compliant presentation as required by the GIPS standards. These guidelines only apply to firms that already satisfy all the requirements of the GIPS standards on a firm-wide basis and claim compliance with the GIPS standards in an advertisement. Firms that choose to claim compliance in an advertisement must follow the GIPS Advertising Guidelines or include a compliant presentation in the advertisement.
+
+### Definition of Advertisement
+
+For the purposes of these guidelines, an advertisement includes any materials that are distributed to or designed for use in newspapers, magazines, firm brochures, letters, media, websites, or any other written or electronic material addressed to more than one prospective client. Any written material, other than one-on-one presentations and individual client reporting, distributed to maintain existing clients or solicit new clients for a firm is considered an advertisement.
+
+### Relationship of GIPS Advertising Guidelines to Regulatory Requirements
+
+Firms advertising performance must adhere to all applicable laws and regulations governing advertisements. Firms are encouraged to seek legal or regulatory counsel because additional disclosures may be required. In cases where applicable laws and/or regulations conflict with the requirements of the GIPS standards and/or the GIPS Advertising Guidelines, firms are required to comply with the law or regulation.
+
+The calculation and advertisement of pooled unitized investment vehicles, such as mutual funds and open-ended investment companies, are regulated in most markets. The GIPS Advertising Guidelines are not intended to replace applicable laws and/or regulations when a firm is advertising performance solely for a pooled unitized investment vehicle.
+
+### Other Information
+
+The advertisement may include other information beyond what is required under the GIPS Advertising Guidelines provided the information is shown with equal or lesser prominence relative to the information required by the GIPS Advertising Guidelines and the information does not conflict with the requirements of the GIPS standards and/or the GIPS Advertising Guidelines. Firms must adhere to the principles of fair representation and full disclosure when advertising and must not present performance or performance-related information that is false or misleading.
+
+
+# IV. Verification
+Verification is intended to provide a firm and its existing clients and prospective clients additional confidence in the firm’s claim of compliance with the GIPS standards. Verification may increase the knowledge of the firm’s performance measurement team and improve the consistency and quality of the firm’s compliant presentations. Verification may also provide improved internal processes and procedures as well as marketing advantages to the firm. Verification does not ensure the accuracy of any specific composite presentation.
+
+The GIPS standards recommend that firms be verified. Verification brings additional credibility to the claim of compliance and supports the overall guiding principles of fair representation and full disclosure of a firm’s investment performance.
+
+The verification procedures attempt to strike a balance between ensuring the quality, accuracy, and relevance of performance presentations and minimizing the cost to firms.
+
