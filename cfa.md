@@ -88,6 +88,23 @@ Firms claiming compliance with the GIPS standards must adhere to all the require
 Fair value is defined as the amount at which an investment could be exchanged in a current arm’s length transaction between willing parties in which the parties each act knowledgeably and prudently. The valuation must be determined using the objective, observable, unadjusted quoted market price for an identical investment in an active market on the measurement date, if available. In the absence of an objective, observable, unadjusted quoted market price for an identical investment in an active market on the measurement date, the valuation must represent the firm’s best estimate of the market value. Fair value must include accrued income.
 
 ## Valuation Requirements
+Firms must comply with the following valuation requirements:
+
+1. For periods beginning **on or after 1 January 2011**, portfolios must be valued in accordance with the definition of fair value and the GIPS Valuation Principles (Provision 1.A.2) Chapter II.
+
+2. Firms must value investments **using objective, observable, unadjusted quoted market prices** for identical investments in active markets on the measurement date, if available.
+
+3. Firms must comply with all applicable laws and regulations regarding the calculation and presentation of performance (Provision 0.A.2). Accordingly, firms must comply with applicable laws and regulations relating to valuation.
+
+4. If the compliant presentation conforms with laws and/or regulations that **conflict with the requirements of the GIPS standards**, firms must **disclose** this fact and disclose the manner in which the laws and/or regulations conflict with the GIPS standards (Provision 4.A.22). This includes any conflicts between laws and/or regulations and the GIPS Valuation Principles.
+
+5. Firms must **document** their policies and procedures used in establishing and maintaining compliance with the GIPS standards, including ensuring the existence and ownership of client assets, and must apply them consistently (Provision 0.A.5). Accordingly, firms must document their valuation policies, procedures, methodologies, and hierarchy, including any changes, and must apply them consistently.
+
+6. Firms must **disclose** that policies for valuing portfolios, calculating performance, and preparing compliant presentations are available upon request (Provision 4.A.12).
+
+7. For periods beginning **on or after 1 January 2011**, firms must disclose the use of subjective unobservable inputs for valuing portfolio investments (as described in the GIPS Valuation Principles) if the portfolio investments valued using subjective unobservable inputs are material to the composite (Provision 4.A.27).
+
+8. For periods beginning **on or after 1 January 2011**, firms must disclose if the composite’s valuation hierarchy materially differs from the recommended hierarchy in the GIPS Valuation Principles (Provision 4.A.28).
 
 ### Additional Real Estate Valuation Requirements
 
