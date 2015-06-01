@@ -11,9 +11,24 @@ The candidate should be able to:
 
 ---
 
-# Standard I: Professionalism
+- [Standard I: Professionalism](#Professionalism)
+- [Standard I(A) Knowledge of the Law](#Professionalism_Law)
+- [Standard I(B) Independence and Objectivity](#Professionalism_Independence)
+- [Standard I(C) Misrepresentation(虚假陈述)](#Professionalism_Misrepresentation)
+- [Standard I(D) Misconduct(不当行为)](#Professionalism_Misconduct)
+- [Standard II Integrity of Capital Markets](#II)
+- [Standard II(A) Material Nonpublic Information](#II_A)
+- [Standard II(B) Market Manipulation](#II_B)
+- [Standard III: Duties to Clients](#III)
+- [Standard IV: Duties to Employers](#IV)
+- [Standard V: Investment Analysis, Recommendations, and Actions](#V)
+- [Standard VI: Conflicts of Interest](#VI)
+- [Standard VII: Responsibilities as a CFA Institute Member or CFA Candidate](#VII)
 
-## Standard I(A) Knowledge of the Law
+
+# Standard I: Professionalism<a name="Professionalism"></a>
+
+## Standard I(A) Knowledge of the Law<a name="Professionalism_Law"></a>
 
 1. Relationship between the Code and Standards and Applicable Law
 2. Participation in or Association with Violations by Others
@@ -111,7 +126,7 @@ Colleen White is excited to use new technology to communicate with clients and p
 
 > Comment: White is in violation of Standard I(A) because her communications do not comply with the existing guidance and regulation governing use of social media. White must be aware of the evolving legal requirements pertaining to new and dynamic areas of the financial services industry that are applicable to her. She should seek guidance from appropriate, knowledgeable, and reliable sources, such as her firm’s compliance department, external service providers, or outside counsel, unless she diligently follows legal and regulatory trends affecting her professional responsibilities.
 
-## Standard I(B) Independence and Objectivity
+## Standard I(B) Independence and Objectivity<a name="Professionalism_Independence"></a>
 
 ### Guidance
 #### Buy-Side Clients
@@ -249,3 +264,660 @@ Amie Scott is a performance analyst within her firm with responsibilities for an
 Jill Stein is head of performance measurement for her firm. During the last quarter, many members of the organization’s research department were removed because of the poor quality of their recommendations. The subpar research caused one larger account holder to experience significant underperformance, which resulted in the client withdrawing his money after the end of the quarter. The head of sales requests that Stein remove this account from the firm’s performance composite because the performance decline can be attributed to the departed research team and not the client’s adviser.
 
 > Comment: Pressure from other internal departments can create situations that cause a member or candidate to violate the Code and Standards. Stein must maintain her independence and objectivity and refuse to exclude specific accounts from the firm’s performance composites to which they belong. As long as the client invested under a strategy similar to that of the defined composite, it cannot be excluded because of the poor stock selections that led to the underperformance and asset withdrawal.
+
+## Standard I(C) Misrepresentation(虚假陈述)<a name="Professionalism_Misrepresentation"></a>
+### Guidance
+
+Trust is the foundation of the investment profession. Investors must be able to rely on the statements and information provided to them by those with whom the investors have trusted their financial well-being. Investment professionals who make false or misleading statements not only harm investors but also reduce the level of investor confidence in the investment profession and threaten the integrity of capital markets as a whole.
+
+> **诚信很重要**
+
+A misrepresentation is any **untrue statement or omission of a fact or any statement that is otherwise false or misleading**. A member or candidate must not knowingly omit or misrepresent information or give a false impression of a firm, organization, or security in the member’s or candidate’s oral representations, advertising (whether in the press or through brochures), electronic communications, or written materials (whether publicly disseminated or not). In this context, “knowingly” means that the member or candidate either knows or should have known that the misrepresentation was being made or that omitted information could alter the investment decision-making process.
+
+Written materials include, but are not limited to, research reports, underwriting documents, company financial reports, market letters, newspaper columns, and books. Electronic communications include, but are not limited to, internet communications, webpages, mobile applications, and e-mails. Members and candidates who use webpages should regularly monitor materials posted on these sites to ensure that they contain current information. Members and candidates should also ensure that all reasonable precautions have been taken to protect the site’s integrity and security and that the site does not misrepresent any information and does provide full disclosure.
+
+*Standard I(C) prohibits members and candidates from guaranteeing clients any specific return on volatile investments.* Most investments contain some element of risk that makes their return inherently unpredictable. For such investments, guaranteeing either a particular rate of return or a guaranteed preservation of investment capital (e.g., “I can guarantee that you will earn 8% on equities this year” or “I can guarantee that you will not lose money on this investment”) is misleading to investors. Standard I(C) does not prohibit members and candidates from providing clients with information on investment products that have guarantees built into the structure of the products themselves or for which an institution has agreed to cover any losses.
+
+#### Impact on Investment Practice
+
+Members and candidates must not misrepresent any aspect of their practice, including (but not limited to) their qualifications or credentials, the qualifications or services provided by their firm, their performance record and the record of their firm, and the characteristics of an investment. Any misrepresentation made by a member or candidate relating to the member’s or candidate’s professional activities is a breach of this standard.
+
+Members and candidates should exercise care and diligence when incorporating third-party information. Misrepresentations resulting from the use of the credit ratings, research, testimonials, or marketing materials of outside parties become the responsibility of the investment professional when it affects that professional’s business practices.
+
+Investing through outside managers continues to expand as an acceptable method of investing in areas outside a firm’s core competencies. Members and candidates must disclose their intended use of external managers and must not represent those managers’ investment practices as their own. Although the level of involvement of outside managers may change over time, appropriate disclosures by members and candidates are important in avoiding misrepresentations, especially if the primary activity is to invest directly with a single external manager. Standard V(B)–Communication with Clients and Prospective Clients discusses in further detail communicating the firm’s investment practices.
+
+#### Performance Reporting
+
+The performance benchmark selection process is another area where misrepresentations may occur. Members and candidates may misrepresent the success of their performance record through presenting benchmarks that are not comparable to their strategies. Further, clients can be misled if the benchmark’s results are not reported on a basis comparable to that of the fund’s or client’s results. Best practice is selecting the most appropriate available benchmark from a universe of available options. The transparent presentation of appropriate performance benchmarks is an important aspect in providing clients with information that is useful in making investment decisions.
+
+However, Standard I(C) does not require that a benchmark always be provided in order to comply. Some investment strategies may not lend themselves to displaying an appropriate benchmark because of the complexity or diversity of the investments included. Furthermore, some investment strategies may use reference indices that do not reflect the opportunity set of the invested assets—for example, a hedge fund comparing its performance with a “cash plus” basis. When such a benchmark is used, members and candidates should make reasonable efforts to ensure that they disclose the reasons behind the use of this reference index to avoid misrepresentations of their performance. Members and candidates should discuss with clients on a continuous basis the appropriate benchmark to be used for performance evaluations and related fee calculations.
+
+Reporting misrepresentations may also occur when valuations for illiquid or non-traded securities are available from more than one source. When different options are available, members and candidates may be tempted to switch providers to obtain higher security valuations. The process of shopping for values may misrepresent a security’s worth, lead to misinformed decisions to sell or hold an investment, and result in overcharging clients advisory fees.
+
+Members and candidates should take reasonable steps to provide accurate and reliable security pricing information to clients on a consistent basis. Changing pricing providers should not be based solely on the justification that the new provider reports a higher current value of a security. Consistency in the reported information will improve the perception of the valuation process for illiquid securities. Clients will likely have additional confidence that they were able to make an informed decision about continuing to hold these securities in their portfolios.
+
+#### Social Media
+
+The advancement of online discussion forums and communication platforms, commonly referred to as “social media,” is placing additional responsibilities on members and candidates. When communicating through social media channels, members and candidates should provide only the same information they are allowed to distribute to clients and potential clients through other traditional forms of communication. The online or interactive aspects of social media do not remove the need to be open and honest about the information being distributed.
+
+Along with understanding and following existing and newly developing rules and regulations regarding the allowed use of social media, members and candidates should also ensure that all communications in this format adhere to the requirements of the Code and Standards. The perceived anonymity granted through these platforms may entice individuals to misrepresent their qualifications or abilities or those of their employer. Actions undertaken through social media that knowingly misrepresent investment recommendations or professional activities are considered a violation of Standard I(C).
+
+#### Omissions
+
+The omission of a fact or outcome can be misleading, especially given the growing use of models and technical analysis processes. Many members and candidates rely on such models and processes to scan for new investment opportunities, to develop investment vehicles, and to produce investment recommendations and ratings. When inputs are knowingly omitted, the resulting outcomes may provide misleading information to those who rely on it for making investment decisions. Additionally, the outcomes from models shall not be presented as fact because they represent the expected results based on the inputs and analysis process incorporated.
+
+Omissions in the performance measurement and attribution process can also misrepresent a manager’s performance and skill. Members and candidates should encourage their firms to develop strict policies for composite development to prevent cherry picking—situations in which selected accounts are presented as representative of the firm’s abilities. The omission of any accounts appropriate for the defined composite may misrepresent to clients the success of the manager’s implementation of its strategy.
+
+#### Plagiarism
+
+Standard I(C) also prohibits plagiarism in the preparation of material for distribution to employers, associates, clients, prospects, or the general public. Plagiarism is defined as copying or using in substantially the same form materials prepared by others without acknowledging the source of the material or identifying the author and publisher of such material. Members and candidates must not copy (or represent as their own) original ideas or material without permission and must acknowledge and identify the source of ideas or material that is not their own.
+
+The investment profession uses a myriad of financial, economic, and statistical data in the investment decision-making process. Through various publications and presentations, the investment professional is constantly exposed to the work of others and to the temptation to use that work without proper acknowledgment.
+
+Misrepresentation through plagiarism in investment management can take various forms. The simplest and most flagrant example is to take a research report or study done by another firm or person, change the names, and release the material as one’s own original analysis. This action is a clear violation of Standard I(C). Other practices include (1) using excerpts from articles or reports prepared by others either verbatim or with only slight changes in wording without acknowledgment, (2) citing specific quotations as attributable to “leading analysts” and “investment experts” without naming the specific references, (3) presenting statistical estimates of forecasts prepared by others and identifying the sources but without including the qualifying statements or caveats that may have been used, (4) using charts and graphs without stating their sources, and (5) copying proprietary computerized spreadsheets or algorithms without seeking the cooperation or authorization of their creators.
+
+In the case of distributing third-party, outsourced research, members and candidates may use and distribute such reports as long as they do not represent themselves as the report’s authors. Indeed, the member or candidate may add value for the client by sifting through research and repackaging it for clients. In such cases, clients should be fully informed that they are paying for the ability of the member or candidate to find the best research from a wide variety of sources. Members and candidates must not misrepresent their abilities, the extent of their expertise, or the extent of their work in a way that would mislead their clients or prospective clients. Members and candidates should disclose whether the research being presented to clients comes from another source—from either within or outside the member’s or candidate’s firm. This allows clients to understand who has the expertise behind the report or whether the work is being done by the analyst, other members of the firm, or an outside party.
+
+Standard I(C) also applies to plagiarism in oral communications, such as through group meetings; visits with associates, clients, and customers; use of audio/video media (which is rapidly increasing); and telecommunications, including electronic data transfer and the outright copying of electronic media.
+
+One of the most egregious practices in violation of this standard is the preparation of research reports based on multiple sources of information without acknowledging the sources. Examples of information from such sources include ideas, statistical compilations, and forecasts combined to give the appearance of original work. Although there is no monopoly on ideas, members and candidates must give credit where it is clearly due. Analysts should not use undocumented forecasts, earnings projections, asset values, and so on. Sources must be revealed to bring the responsibility directly back to the author of the report or the firm involved.
+
+#### Work Completed for Employer
+
+The preceding paragraphs address actions that would constitute a violation of Standard I(C). In some situations, however, members or candidates may use research conducted or models developed by others within the same firm without committing a violation. The most common example relates to the situation in which one (or more) of the original analysts is no longer with the firm. Research and models developed while employed by a firm are the property of the firm. The firm retains the right to continue using the work completed after a member or candidate has left the organization. The firm may issue future reports without providing attribution to the prior analysts. A member or candidate cannot, however, reissue a previously released report solely under his or her name.
+
+### Recommended Procedures for Compliance
+
+#### Factual Presentations
+
+Members and candidates can prevent unintentional misrepresentations of their qualifications or the services they or their firms provide if each member and candidate understands the limit of the firm’s or individual’s capabilities and the need to be accurate and complete in presentations. Firms can provide guidance for employees who make written or oral presentations to clients or potential clients by providing a written list of the firm’s available services and a description of the firm’s qualifications. This list should suggest ways of describing the firm’s services, qualifications, and compensation that are both accurate and suitable for client or customer presentations. Firms can also help prevent misrepresentation by specifically designating which employees are authorized to speak on behalf of the firm. Regardless of whether the firm provides guidance, members and candidates should make certain that they understand the services the firm can perform and its qualifications.
+
+#### Qualification Summary
+
+In addition, to ensure accurate presentations to clients, each member and candidate should prepare a summary of his or her own qualifications and experience and a list of the services the member or candidate is capable of performing. Firms can assist member and candidate compliance by periodically reviewing employee correspondence and documents that contain representations of individual or firm qualifications.
+
+#### Verify Outside Information
+
+When providing information to clients from a third party, members and candidates share a responsibility for the accuracy of the marketing and distribution materials that pertain to the third party’s capabilities, services, and products. Misrepresentation by third parties can damage the member’s or candidate’s reputation, the reputation of the firm, and the integrity of the capital markets. Members and candidates should encourage their employers to develop procedures for verifying information of third-party firms.
+
+#### Maintain Webpages
+
+Members and candidates who publish a webpage should regularly monitor materials posted on the site to ensure that the site contains current information. Members and candidates should also ensure that all reasonable precautions have been taken to protect the site’s integrity, confidentiality, and security and that the site does not misrepresent any information and provides full disclosure.
+
+#### Plagiarism Policy
+
+To avoid plagiarism in preparing research reports or conclusions of analysis, members and candidates should take the following steps:
+
+- Maintain copies: Keep copies of all research reports, articles containing research ideas, material with new statistical methodologies, and other materials that were relied on in preparing the research report.
+
+- Attribute quotations: Attribute to their sources any direct quotations, including projections, tables, statistics, model/product ideas, and new methodologies prepared by persons other than recognized financial and statistical reporting services or similar sources.
+
+- Attribute summaries: Attribute to their sources any paraphrases or summaries of material prepared by others. For example, to support his analysis of Brown Company’s competitive position, the author of a research report on Brown might summarize another analyst’s report on Brown’s chief competitor, but the author of the Brown report must acknowledge in his own report the reliance on the other analyst’s report.
+
+
+### Application of the Standard
+
+*Example 1 (Disclosure of Issuer-Paid Research):*
+
+Anthony McGuire is an issuer-paid analyst hired by publicly traded companies to electronically promote their stocks. McGuire creates a website that promotes his research efforts as a seemingly independent analyst. McGuire posts a profile and a strong buy recommendation for each company on the website indicating that the stock is expected to increase in value. He does not disclose the contractual relationships with the companies he covers on his website, in the research reports he issues, or in the statements he makes about the companies in internet chat rooms.
+
+> Comment: McGuire has violated Standard I(C) because the website is misleading to potential investors. Even if the recommendations are valid and supported with thorough research, his omissions regarding the true relationship between himself and the companies he covers constitute a misrepresentation. McGuire has also violated Standard VI(A)–Disclosure of Conflicts by not disclosing the existence of an arrangement with the companies through which he receives compensation in exchange for his services.
+
+*Example 2 (Correction of Unintentional Errors):*
+
+Hijan Yao is responsible for the creation and distribution of the marketing materials for his firm, which claims compliance with the GIPS standards. Yao creates and distributes a presentation of performance by the firm’s Asian equity composite that states the composite has ¥350 billion in assets. In fact, the composite has only ¥35 billion in assets, and the higher figure on the presentation is a result of a typographical error. Nevertheless, the erroneous material is distributed to a number of clients before Yao catches the mistake.
+
+> Comment: Once the error is discovered, Yao must take steps to cease distribution of the incorrect material and correct the error by informing those who have received the erroneous information. Because Yao did not knowingly make the misrepresentation, however, he did not violate Standard I(C). Because his firm claims compliance with the GIPS standards, it must also comply with the GIPS Guidance Statement on Error Correction in relation to the error.
+
+*Example 3 (Noncorrection of Known Errors):*
+
+Syed Muhammad is the president of an investment management firm. The promotional material for the firm, created by the firm’s marketing department, incorrectly claims that Muhammad has an advanced degree in finance from a prestigious business school in addition to the CFA designation. Although Muhammad attended the school for a short period of time, he did not receive a degree. Over the years, Muhammad and others in the firm have distributed this material to numerous prospective clients and consultants.
+
+> Comment: Even though Muhammad may not have been directly responsible for the misrepresentation of his credentials in the firm’s promotional material, he used this material numerous times over an extended period and should have known of the misrepresentation. Thus, Muhammad has violated Standard I(C).
+
+*Example 4 (Plagiarism):*
+
+Cindy Grant, a research analyst for a Canadian brokerage firm, has specialized in the Canadian mining industry for the past 10 years. She recently read an extensive research report on Jefferson Mining, Ltd., by Jeremy Barton, another analyst. Barton provided extensive statistics on the mineral reserves, production capacity, selling rates, and marketing factors affecting Jefferson’s operations. He also noted that initial drilling results on a new ore body, which had not been made public, might show the existence of mineral zones that could increase the life of Jefferson’s main mines, but Barton cited no specific data as to the initial drilling results. Grant called an officer of Jefferson, who gave her the initial drilling results over the telephone. The data indicated that the expected life of the main mines would be tripled. Grant added these statistics to Barton’s report and circulated it within her firm as her own report.
+
+> Comment: Grant plagiarized Barton’s report by reproducing large parts of it in her own report without acknowledgment.
+
+*Example 5 (Misrepresentation of Information):*
+
+When Ricki Marks sells mortgage-backed derivatives called “interest-only strips” (IOs) to public pension plan clients, she describes them as “guaranteed by the US government.” Purchasers of the IOs are entitled only to the interest stream generated by the mortgages, however, not the notional principal itself. One particular municipality’s investment policies and local law require that securities purchased by its public pension plans be guaranteed by the US government. Although the underlying mortgages are guaranteed, neither the investor’s investment nor the interest stream on the IOs is guaranteed. When interest rates decline, causing an increase in prepayment of mortgages, interest payments to the IOs’ investors decline, and these investors lose a portion of their investment.
+
+> Comment: Marks violated Standard I(C) by misrepresenting the terms and character of the investment.
+
+*Example 6 (Potential Information Misrepresentation):*
+
+Khalouck Abdrabbo manages the investments of several high-net-worth individuals in the United States who are approaching retirement. Abdrabbo advises these individuals that a portion of their investments be moved from equity to bank-sponsored certificates of deposit and money market accounts so that the principal will be “guaranteed” up to a certain amount. The interest is not guaranteed.
+
+> Comment: Although there is risk that the institution offering the certificates of deposits and money market accounts could go bankrupt, in the United States, these accounts are insured by the US government through the Federal Deposit Insurance Corporation. Therefore, using the term “guaranteed” in this context is not inappropriate as long as the amount is within the government-insured limit. Abdrabbo should explain these facts to the clients.
+
+*Example 7 (Plagiarism):*
+
+Steve Swanson is a senior analyst in the investment research department of Ballard and Company. Apex Corporation has asked Ballard to assist in acquiring the majority ownership of stock in the Campbell Company, a financial consulting firm, and to prepare a report recommending that stockholders of Campbell agree to the acquisition. Another investment firm, Davis and Company, had already prepared a report for Apex analyzing both Apex and Campbell and recommending an exchange ratio. Apex has given the Davis report to Ballard officers, who have passed it on to Swanson. Swanson reviews the Davis report and other available material on Apex and Campbell. From his analysis, he concludes that the common stocks of Campbell and Apex represent good value at their current prices; he believes, however, that the Davis report does not consider all the factors a Campbell stockholder would need to know to make a decision. Swanson reports his conclusions to the partner in charge, who tells him to “use the Davis report, change a few words, sign your name, and get it out.”
+
+> Comment: If Swanson does as requested, he will violate Standard I(C). He could refer to those portions of the Davis report that he agrees with if he identifies Davis as the source; he could then add his own analysis and conclusions to the report before signing and distributing it.
+
+*Example 8 (Plagiarism):*
+
+Claude Browning, a quantitative analyst for Double Alpha, Inc., returns from a seminar in great excitement. At that seminar, Jack Jorrely, a well-known quantitative analyst at a national brokerage firm, discussed one of his new models in great detail, and Browning is intrigued by the new concepts. He proceeds to test the model, making some minor mechanical changes but retaining the concepts, until he produces some very positive results. Browning quickly announces to his supervisors at Double Alpha that he has discovered a new model and that clients and prospective clients should be informed of this positive finding as ongoing proof of Double Alpha’s continuing innovation and ability to add value.
+
+> Comment: Although Browning tested Jorrely’s model on his own and even slightly modified it, he must still acknowledge the original source of the idea. Browning can certainly take credit for the final, practical results; he can also support his conclusions with his own test. The credit for the innovative thinking, however, must be awarded to Jorrely.
+
+*Example 9 (Plagiarism):*
+
+Fernando Zubia would like to include in his firm’s marketing materials some “plain-language” descriptions of various concepts, such as the price-to-earnings (P/E) multiple and why standard deviation is used as a measure of risk. The descriptions come from other sources, but Zubia wishes to use them without reference to the original authors. Would this use of material be a violation of Standard I(C)?
+
+> Comment: Copying verbatim any material without acknowledgement, including plain-language descriptions of the P/E multiple and standard deviation, violates Standard I(C). Even though these concepts are general, best practice would be for Zubia to describe them in his own words or cite the sources from which the descriptions are quoted. Members and candidates would be violating Standard I(C) if they either were responsible for creating marketing materials without attribution or knowingly use plagiarized materials.
+
+*Example 10 (Plagiarism):*
+
+Through a mainstream media outlet, Erika Schneider learns about a study that she would like to cite in her research. Should she cite both the mainstream intermediary source as well as the author of the study itself when using that information?
+
+> Comment: In all instances, a member or candidate must cite the actual source of the information. Best practice for Schneider would be to obtain the information directly from the author and review it before citing it in a report. In that case, Schneider would not need to report how she found out about the information. For example, suppose Schneider read in the Financial Times about a study issued by CFA Institute; best practice for Schneider would be to obtain a copy of the study from CFA Institute, review it, and then cite it in her report. If she does not use any interpretation of the report from the Financial Times and the newspaper does not add value to the report itself, the newspaper is merely a conduit of the original information and does not need to be cited. If she does not obtain the report and review the information, Schneider runs the risk of relying on second-hand information that may misstate facts. If, for example, the Financial Times erroneously reported some information from the original CFA Institute study and Schneider copied that erroneous information without acknowledging CFA Institute, she could be the object of complaints. Best practice would be either to obtain the complete study from its original author and cite only that author or to use the information provided by the intermediary and cite both sources.
+
+*Example 11 (Misrepresentation of Information):*
+
+Paul Ostrowski runs a two-person investment management firm. Ostrowski’s firm subscribes to a service from a large investment research firm that provides research reports that can be repackaged by smaller firms for those firms’ clients. Ostrowski’s firm distributes these reports to clients as its own work.
+
+> Comment: Ostrowski can rely on third-party research that has a reasonable and adequate basis, but he cannot imply that he is the author of such research. If he does, Ostrowski is misrepresenting the extent of his work in a way that misleads the firm’s clients or prospective clients.
+
+*Example 12 (Misrepresentation of Information):*
+
+Tom Stafford is part of a team within Appleton Investment Management responsible for managing a pool of assets for Open Air Bank, which distributes structured securities to offshore clients. He becomes aware that Open Air is promoting the structured securities as a much less risky investment than the investment management policy followed by him and the team to manage the original pool of assets. Also, Open Air has procured an independent rating for the pool that significantly overstates the quality of the investments. Stafford communicates his concerns to his supervisor, who responds that Open Air owns the product and is responsible for all marketing and distribution. Stafford’s supervisor goes on to say that the product is outside of the US regulatory regime that Appleton follows and that all risks of the product are disclosed at the bottom of page 184 of the prospectus.
+
+> Comment: As a member of the investment team, Stafford is qualified to recognize the degree of accuracy of the materials that characterize the portfolio, and he is correct to be worried about Appleton’s responsibility for a misrepresentation of the risks. Thus, he should continue to pursue the issue of Open Air’s inaccurate promotion of the portfolio according to the firm’s policies and procedures.
+
+The Code and Standards stress protecting the reputation of the firm and the sustainability and integrity of the capital markets. Misrepresenting the quality and risks associated with the investment pool may lead to negative consequences for others well beyond the direct investors.
+
+*Example 13 (Avoiding a Misrepresentation):*
+
+Trina Smith is a fixed-income portfolio manager at a pension fund. She has observed that the market for highly structured mortgages is the focus of salespeople she meets and that these products represent a significant number of trading opportunities. In discussions about this topic with her team, Smith learns that calculating yields on changing cash flows within the deal structure requires very specialized vendor software. After more research, they find out that each deal is unique and that deals can have more than a dozen layers and changing cash flow priorities. Smith comes to the conclusion that, because of the complexity of these securities, the team cannot effectively distinguish between potentially good and bad investment options. To avoid misrepresenting their understanding, the team decides that the highly structured mortgage segment of the securitized market should not become part of the core of the fund’s portfolio; they will allow some of the less complex securities to be part of the core.
+
+> Comment: Smith is in compliance with Standard I(C) by not investing in securities that she and her team cannot effectively understand. Because she is not able to describe the risk and return profile of the securities to the pension fund beneficiaries and trustees, she appropriately limits the fund’s exposure to this sector.
+
+*Example 14 (Misrepresenting Composite Construction):*
+
+Robert Palmer is head of performance for a fund manager. When asked to provide performance numbers to fund rating agencies, he avoids mentioning that the fund manager is quite liberal in composite construction. The reason accounts are included/excluded is not fully explained. The performance values reported to the rating agencies for the composites, although accurate for the accounts shown each period, may not present a true representation of the fund manager’s ability.
+
+> Comment: “Cherry picking” accounts to include in either published reports or information provided to rating agencies conflicts with Standard I(C). Moving accounts into or out of a composite to influence the overall performance results materially misrepresents the reported values over time. Palmer should work with his firm to strengthen its reporting practices concerning composite construction to avoid misrepresenting the firm’s track record or the quality of the information being provided.
+
+*Example 15 (Presenting Out-of-Date Information):*
+
+David Finch is a sales director at a commercial bank, where he directs the bank’s client advisers in the sale of third-party mutual funds. Each quarter, he holds a division-wide training session where he provides fact sheets on investment funds the bank is allowed to offer to clients. These fact sheets, which can be redistributed to potential clients, are created by the fund firms and contain information about the funds, including investment strategy and target distribution rates.
+
+Finch knows that some of the fact sheets are out of date; for example, one long-only fund approved the use of significant leverage last quarter as a method to enhance returns. He continues to provide the sheets to the sales team without updates because the bank has no control over the marketing material released by the mutual fund firms.
+
+> Comment: Finch is violating Standard I(C) by providing information that misrepresents aspects of the funds. By not providing the sales team and, ultimately, the clients with the updated information, he is misrepresenting the potential risks associated with the funds with outdated fact sheets. Finch can instruct the sales team to clarify the deficiencies in the fact sheets with clients and ensure they have the most recent fund prospectus document before accepting orders for investing in any fund.
+
+*Example 16 (Overemphasis of Firm Results):*
+
+Bob Anderson is chief compliance officer for Optima Asset Management Company, a firm currently offering eight funds to clients. Seven of the eight had 10-year returns below the median for their respective sectors. Anderson approves a recent advertisement, which includes this statement: “Optima Asset Management is achieving excellent returns for its investors. The Optima Emerging Markets Equity fund, for example, has 10-year returns that exceed the sector median by more than 10%.”
+
+> Comment: From the information provided it is difficult to determine whether a violation has occurred as long as the sector outperformance is correct. Anderson may be attempting to mislead potential clients by citing the performance of the sole fund that achieved such results. Past performance is often used to demonstrate a firm’s skill and abilities in comparison to funds in the same sectors.
+
+> However, if all the funds outperformed their respective benchmarks, then Anderson’s assertion that the company “is achieving excellent returns” may be factual. Funds may exhibit positive returns for investors, exceed benchmarks, and yet have returns below the median in their sectors.
+
+> Members and candidates need to ensure that their marketing efforts do not include statements that misrepresent their skills and abilities to remain compliant with Standard I(C). Unless the returns of a single fund reflect the performance of a firm as a whole, the use of a singular fund for performance comparisons should be avoided.
+
+## Standard I(D) Misconduct(不当行为)<a name="Professionalism_Misconduct"></a>
+### Guidance
+
+Whereas Standard I(A) addresses the obligation of members and candidates to comply with applicable law that governs their professional activities, Standard I(D) addresses all conduct that reflects poorly on the professional integrity, good reputation, or competence of members and candidates. Any act that involves lying, cheating, stealing, or other dishonest conduct is a violation of this standard if the offense reflects adversely on a member’s or candidate’s professional activities. Although CFA Institute discourages any sort of unethical behavior by members and candidates, the Code and Standards are primarily aimed at conduct and actions related to a member’s or candidate’s professional life.
+
+Conduct that damages trustworthiness or competence may include behavior that, although not illegal, nevertheless negatively affects a member’s or candidate’s ability to perform his or her responsibilities. For example, abusing alcohol during business hours might constitute a violation of this standard because it could have a detrimental effect on the member’s or candidate’s ability to fulfill his or her professional responsibilities. Personal bankruptcy may not reflect on the integrity or trustworthiness of the person declaring bankruptcy, but if the circumstances of the bankruptcy involve fraudulent or deceitful business conduct, the bankruptcy may be a violation of this standard.
+
+In some cases, the absence of appropriate conduct or the lack of sufficient effort may be a violation of Standard I(D). The integrity of the investment profession is built on trust. A member or candidate—whether an investment banker, rating or research analyst, or portfolio manager—is expected to conduct the necessary due diligence to properly understand the nature and risks of an investment before making an investment recommendation. By not taking these steps and, instead, relying on someone else in the process to perform them, members or candidates may violate the trust their clients have placed in them. This loss of trust may have a significant impact on the reputation of the member or candidate and the operations of the financial market as a whole.
+
+Individuals may attempt to abuse the CFA Institute Professional Conduct Program by actively seeking CFA Institute enforcement of the Code and Standards, and Standard I(D) in particular, as a method of settling personal, political, or other disputes unrelated to professional ethics. CFA Institute is aware of this issue, and appropriate disciplinary policies, procedures, and enforcement mechanisms are in place to address misuse of the Code and Standards and the Professional Conduct Program in this way.
+
+### Recommended Procedures for Compliance
+
+In addition to ensuring that their own behavior is consistent with Standard I(D), to prevent general misconduct, members and candidates should encourage their firms to adopt the following policies and procedures to support the principles of Standard I(D):
+
+- Code of ethics: Develop and/or adopt a code of ethics to which every employee must subscribe, and make clear that any personal behavior that reflects poorly on the individual involved, the institution as a whole, or the investment industry will not be tolerated.
+
+- List of violations: Disseminate to all employees a list of potential violations and associated disciplinary sanctions, up to and including dismissal from the firm.
+
+- Employee references: Check references of potential employees to ensure that they are of good character and not ineligible to work in the investment industry because of past infractions of the law.
+
+### Application of the Standard
+
+*Example 1 (Professionalism and Competence):*
+
+Simon Sasserman is a trust investment officer at a bank in a small affluent town. He enjoys lunching every day with friends at the country club, where his clients have observed him having numerous drinks. Back at work after lunch, he clearly is intoxicated while making investment decisions. His colleagues make a point of handling any business with Sasserman in the morning because they distrust his judgment after lunch.
+
+> Comment: Sasserman’s excessive drinking at lunch and subsequent intoxication at work constitute a violation of Standard I(D) because this conduct has raised questions about his professionalism and competence. His behavior reflects poorly on him, his employer, and the investment industry.
+
+*Example 2 (Fraud and Deceit):*
+
+Howard Hoffman, a security analyst at ATZ Brothers, Inc., a large brokerage house, submits reimbursement forms over a two-year period to ATZ’s self-funded health insurance program for more than two dozen bills, most of which have been altered to increase the amount due. An investigation by the firm’s director of employee benefits uncovers the inappropriate conduct. ATZ subsequently terminates Hoffman’s employment and notifies CFA Institute.
+
+> Comment: Hoffman violated Standard I(D) because he engaged in intentional conduct involving fraud and deceit in the workplace that adversely reflected on his integrity.
+
+*Example 3 (Fraud and Deceit):*
+
+Jody Brink, an analyst covering the automotive industry, volunteers much of her spare time to local charities. The board of one of the charitable institutions decides to buy five new vans to deliver hot lunches to low-income elderly people. Brink offers to donate her time to handle purchasing agreements. To pay a long-standing debt to a friend who operates an automobile dealership—and to compensate herself for her trouble—she agrees to a price 20% higher than normal and splits the surcharge with her friend. The director of the charity ultimately discovers the scheme and tells Brink that her services, donated or otherwise, are no longer required.
+
+> Comment: Brink engaged in conduct involving dishonesty, fraud, and misrepresentation and has violated Standard I(D).
+
+*Example 4 (Personal Actions and Integrity):*
+
+Carmen Garcia manages a mutual fund dedicated to socially responsible investing. She is also an environmental activist. As the result of her participation in nonviolent protests, Garcia has been arrested on numerous occasions for trespassing on the property of a large petrochemical plant that is accused of damaging the environment.
+
+> Comment: Generally, Standard I(D) is not meant to cover legal transgressions resulting from acts of civil disobedience in support of personal beliefs because such conduct does not reflect poorly on the member’s or candidate’s professional reputation, integrity, or competence.
+
+*Example 5 (Professional Misconduct):*
+
+Meredith Rasmussen works on a buy-side trading desk of an investment management firm and concentrates on in-house trades for a hedge fund subsidiary managed by a team at the investment management firm. The hedge fund has been very successful and is marketed globally by the firm. From her experience as the trader for much of the activity of the fund, Rasmussen has become quite knowledgeable about the hedge fund’s strategy, tactics, and performance. When a distinct break in the market occurs and many of the securities involved in the hedge fund’s strategy decline markedly in value, Rasmussen observes that the reported performance of the hedge fund does not reflect this decline. In her experience, the lack of effect is a very unlikely occurrence. She approaches the head of trading about her concern and is told that she should not ask any questions and that the fund is big and successful and is not her concern. She is fairly sure something is not right, so she contacts the compliance officer, who also tells her to stay away from the issue of the hedge fund’s reporting.
+
+> Comment: Rasmussen has clearly come across an error in policies, procedures, and compliance practices within the firm’s operations. According to the firm’s procedures for reporting potentially unethical activity, she should pursue the issue by gathering some proof of her reason for doubt. Should all internal communications within the firm not satisfy her concerns, Rasmussen should consider reporting the potential unethical activity to the appropriate regulator.
+
+> See also Standard IV(A) for guidance on whistleblowing and Standard IV(C) for the duties of a supervisor.
+
+
+# Standard II: Integrity of Capital Markets<a name="II"></a>
+## Standard II(A) Material Nonpublic Information<a name="II_A"></a>
+
+Trading or inducing others to trade on material nonpublic information erodes confidence in capital markets, institutions, and investment professionals by supporting the idea that those with inside information and special access can take unfair advantage of the general investing public. Although trading on inside information may lead to short-term profits, in the long run, individuals and the profession as a whole suffer from such trading. These actions have caused and will continue to cause investors to avoid capital markets because the markets are perceived to be “rigged” in favor of the knowledgeable insider. When the investing public avoids capital markets, the markets and capital allocation become less efficient and less supportive of strong and vibrant economies. Standard II(A) promotes and maintains a high level of confidence in market integrity, which is one of the foundations of the investment profession.
+
+The prohibition on using this information goes beyond the direct buying and selling of individual securities or bonds. Members and candidates must not use material nonpublic information to influence their investment actions related to derivatives (e.g., swaps or option contracts), mutual funds, or other alternative investments. Any trading based on material nonpublic information constitutes a violation of Standard II(A). The expansion of financial products and the increasing interconnectivity of financial markets globally have resulted in new potential opportunities for trading on material nonpublic information.
+
+### What Is “Material” Information?
+
+Information is “material” if its disclosure would probably have an impact on the price of a security or if reasonable investors would want to know the information before making an investment decision. In other words, information is material if it would significantly alter the total mix of information currently available about a security in such a way that the price of the security would be affected.
+
+The specificity of the information, the extent of its difference from public information, its nature, and its reliability are key factors in determining whether a particular piece of information fits the definition of material. For example, material information may include, but is not limited to, information on the following:**省略**
+
+In addition to the substance and specificity of the information, the source or relative reliability of the information also determines materiality. The less reliable a source, the less likely the information provided would be considered material. For example, factual information from a corporate insider regarding a significant new contract for a company is likely to be material, whereas an assumption based on speculation by a competitor about the same contract is likely to be less reliable and, therefore, not material. Additionally, information about trials of a new drug, product, or service under development from qualified personnel involved in the trials is likely to be material, whereas educated conjecture by subject experts not connected to the trials is unlikely to be material.
+
+Also, the more ambiguous the effect of the information on price, the less material that information is considered. If it is unclear whether and to what extent the information will affect the price of a security, the information may not be considered material. The passage of time may also render information that was once important immaterial.
+
+### What Constitutes “Nonpublic” Information?
+
+Information is “nonpublic” until it has been disseminated or is available to the marketplace in general (as opposed to a select group of investors). “Disseminated” can be defined as “made known.” For example, a company report of profits that is posted on the internet and distributed widely through a press release or accompanied by a filing has been effectively disseminated to the marketplace. Members and candidates must have a reasonable expectation that people have received the information before it can be considered public. It is not necessary, however, to wait for the slowest method of delivery. Once the information is disseminated to the market, it is public information that is no longer covered by this standard.
+
+Members and candidates must be particularly aware of information that is selectively disclosed by corporations to a small group of investors, analysts, or other market participants. Information that is made available to analysts remains nonpublic until it is made available to investors in general. Corporations that disclose information on a limited basis create the potential for insider-trading violations.
+
+Issues of selective disclosure often arise when a corporate insider provides material information to analysts in a briefing or conference call before that information is released to the public. Analysts must be aware that a disclosure made to a room full of analysts does not necessarily make the disclosed information “public.” Analysts should also be alert to the possibility that they are selectively receiving material nonpublic information when a company provides them with guidance or interpretation of such publicly available information as financial statements or regulatory filings.
+
+A member or candidate may use insider information provided legitimately by the source company for the specific purpose of conducting due diligence according to the business agreement between the parties for such activities as mergers, loan underwriting, credit ratings, and offering engagements. In such instances, the investment professional would not be considered in violation of Standard II(A) by using the material information. However, the use of insider information provided by the source company for other purposes, especially to trade or entice others to trade the securities of the firm, conflicts with this standard.
+
+
+### Mosaic Theory(马赛克理论)
+
+A financial analyst gathers and interprets large quantities of information from many sources. The analyst may use significant conclusions derived from the analysis of public and nonmaterial nonpublic information as the basis for investment recommendations and decisions even if those conclusions would have been material inside information had they been communicated directly to the analyst by a company. Under the “mosaic theory,” financial analysts are free to act on this collection, or mosaic, of information without risking violation.
+
+The practice of financial analysis depends on the free flow of information. For the fair and efficient operation of the capital markets, analysts and investors must have the greatest amount of information possible to facilitate making well-informed investment decisions about how and where to invest capital. Accurate, timely, and intelligible communication is essential if analysts and investors are to obtain the data needed to make informed decisions about how and where to invest capital. These disclosures must go beyond the information mandated by the reporting requirements of the securities laws and should include specific business information about items used to guide a company’s future growth, such as new products, capital projects, and the competitive environment. Analysts seek and use such information to compare and contrast investment alternatives.
+
+Much of the information used by analysts comes directly from companies. Analysts often receive such information through contacts with corporate insiders, especially investor-relations staff and financial officers. Information may be disseminated in the form of press releases, through oral presentations by company executives in analysts’ meetings or conference calls, or during analysts’ visits to company premises. In seeking to develop the most accurate and complete picture of a company, analysts should also reach beyond contacts with companies themselves and collect information from other sources, such as customers, contractors, suppliers, and the companies’ competitors.
+
+Analysts are in the business of formulating opinions and insights that are not obvious to the general investing public about the attractiveness of particular securities. In the course of their work, analysts actively seek out corporate information not generally known to the market for the express purpose of analyzing that information, forming an opinion on its significance, and informing their clients, who can be expected to trade on the basis of the recommendation. Analysts’ initiatives to discover and analyze information and communicate their findings to their clients significantly enhance market efficiency, thus benefiting all investors (see Dirks v. Securities and Exchange Commission). Accordingly, violations of Standard II(A) will not result when a perceptive analyst reaches a conclusion about a corporate action or event through an analysis of public information and items of nonmaterial nonpublic information.
+
+Investment professionals should note, however, that although analysts are free to use mosaic information in their research reports, they should save and document all their research [see Standard V(C)–Record Retention]. Evidence of the analyst’s knowledge of public and nonmaterial nonpublic information about a corporation strengthens the assertion that the analyst reached his or her conclusions solely through appropriate methods rather than through the use of material nonpublic information.
+
+### Social Media
+
+The continuing advancement in technology allows members, candidates, and the industry at large to exchange information at rates not previously available. It is important for investment professionals to understand the implications of using information from the internet and social media platforms because all such information may not actually be considered public.
+
+Some social media platforms require membership in specific groups in order to access the published content. Members and candidates participating in groups with membership limitations should verify that material information obtained from these sources can also be accessed from a source that would be considered available to the public (e.g., company filings, webpages, and press releases).
+
+Members and candidates may use social media platforms to communicate with clients or investors without conflicting with this standard. As long as the information reaches all clients or is open to the investing public, the use of these platforms would be comparable with other traditional forms of communications, such as e-mails and press releases. Members and candidates, as required by Standard I(A), should also complete all appropriate regulatory filings related to information distributed through social media platforms.
+
+### Using Industry Experts
+
+The increased demand for insights for understanding the complexities of some industries has led to an expansion of engagement with outside experts. As the level of engagement increased, new businesses formed to connect analysts and investors with individuals who have specialized knowledge of their industry (e.g., technology or pharmaceuticals). These networks offer investors the opportunity to reach beyond their usual business circles to speak with experts regarding economic conditions, industry trends, and technical issues relating to specific products and services.
+
+Members and candidates may provide compensation to individuals for their insights without violating this standard. However, members and candidates are ultimately responsible for ensuring that they are not requesting or acting on confidential information received from external experts, which is in violation of security regulations and laws or duties to others. As the recent string of insider-trading cases displayed, some experts are willing to provide confidential and protected information for the right incentive.
+
+Firms connecting experts with members or candidates often require both parties to sign agreements concerning the disclosure of material nonpublic information. Even with the protections from such compliance practices, if an expert provides material nonpublic information, members and candidates would be prohibited from taking investment actions on the associated firm until the information became publicly known to the market.
+
+### Investment Research Reports
+
+When a particularly well-known or respected analyst issues a report or makes changes to his or her recommendation, that information alone may have an effect on the market and thus may be considered material. Theoretically, under Standard II(A), such a report would have to be made public at the time it was distributed to clients. The analyst is not a company insider, however, and does not have access to inside information. Presumably, the analyst created the report from information available to the public (mosaic theory) and by using his or her expertise to interpret the information. The analyst’s hard work, paid for by the client, generated the conclusions.
+
+Simply because the public in general would find the conclusions material does not require that the analyst make his or her work public. Investors who are not clients of the analyst can either do the work themselves or become clients of the analyst to gain access to the analyst’s expertise.
+
+
+## Recommended Procedures for Compliance
+
+### Achieve Public Dissemination
+
+If a member or candidate determines that information is material, the member or candidate should make reasonable efforts to achieve public dissemination of the information. These efforts usually entail encouraging the issuing company to make the information public. If public dissemination is not possible, the member or candidate must communicate the information only to the designated supervisory and compliance personnel within the member’s or candidate’s firm and must not take investment action or alter current investment recommendations on the basis of the information. Moreover, members and candidates must not knowingly engage in any conduct that may induce company insiders to privately disclose material nonpublic information.
+
+### Adopt Compliance Procedures
+
+Members and candidates should encourage their firms to adopt compliance procedures to prevent the misuse of material nonpublic information. Particularly important is improving compliance in such areas as the review of employee and proprietary trading, the review of investment recommendations, documentation of firm procedures, and the supervision of interdepartmental communications in multiservice firms. Compliance procedures should suit the particular characteristics of a firm, including its size and the nature of its business.
+
+Members and candidates are encouraged to inform their supervisor and compliance personnel of suspected inappropriate use of material nonpublic information as the basis for security trading activities or recommendations being made within their firm.
+
+### Adopt Disclosure Procedures
+
+Members and candidates should encourage their firms to develop and follow disclosure policies designed to ensure that information is disseminated to the marketplace in an equitable manner. For example, analysts from small firms should receive the same information and attention from a company as analysts from large firms receive. Similarly, companies should not provide certain information to buy-side analysts but not to sell-side analysts, or vice versa. Furthermore, a company should not discriminate among analysts in the provision of information or “blackball” particular analysts who have given negative reports on the company in the past.
+
+Within investment and research firms, members and candidates should encourage the development of and compliance with procedures for distributing new and updated investment opinions to clients. Recommendations of this nature may represent material market-moving information that needs to be communicated to all clients fairly.
+
+### Issue Press Releases
+
+Companies should consider issuing press releases prior to analyst meetings and conference calls and scripting those meetings and calls to decrease the chance that further information will be disclosed. If material nonpublic information is disclosed for the first time in an analyst meeting or call, the company should promptly issue a press release or otherwise make the information publicly available.
+
+### Firewall Elements
+
+An information barrier commonly referred to as a “firewall” is the most widely used approach for preventing the communication of material nonpublic information within firms. It restricts the flow of confidential information to those who need to know the information to perform their jobs effectively. The minimum elements of such a system include, but are not limited to, the following:
+
+- substantial control of relevant interdepartmental communications, preferably through a clearance area within the firm in either the compliance or legal department;
+
+- review of employee trading through the maintenance of “watch,” “restricted,” and “rumor” lists;
+
+- documentation of the procedures designed to limit the flow of information between departments and of the actions taken to enforce those procedures; and
+
+- heightened review or restriction of proprietary trading while a firm is in possession of material nonpublic information.
+
+### Appropriate Interdepartmental Communications
+
+Although documentation requirements must, for practical reasons, take into account the differences between the activities of small firms and those of large, multiservice firms, firms of all sizes and types benefit by improving the documentation of their internal enforcement of firewall procedures. Therefore, even at small firms, procedures concerning interdepartmental communication, the review of trading activity, and the investigation of possible violations should be compiled and formalized.
+
+### Physical Separation of Departments
+
+As a practical matter, to the greatest extent possible, firms should consider the physical separation of departments and files to prevent the communication of sensitive information that should not be shared. For example, the investment banking and corporate finance areas of a brokerage firm should be separated from the sales and research departments, and a bank’s commercial lending department should be segregated from its trust and research departments.
+
+### Prevention of Personnel Overlap
+
+There should be no overlap of personnel between the investment banking and corporate finance areas of a brokerage firm and the sales and research departments or between a bank’s commercial lending department and its trust and research departments. For a firewall to be effective in a multiservice firm, an employee should be on only one side of the firewall at any time. Inside knowledge may not be limited to information about a specific offering or the current financial condition of a company. Analysts may be exposed to much information about the company, including new product developments or future budget projections that clearly constitute inside knowledge and thus preclude the analyst from returning to his or her research function. For example, an analyst who follows a particular company may provide limited assistance to the investment bankers under carefully controlled circumstances when the firm’s investment banking department is involved in a deal with the company. That analyst must then be treated as though he or she were an investment banker; the analyst must remain on the investment banking side of the wall until any information he or she learns is publicly disclosed. In short, the analyst cannot use any information learned in the course of the project for research purposes and cannot share that information with colleagues in the research department.
+
+### A Reporting System
+
+A primary objective of an effective firewall procedure is to establish a reporting system in which authorized people review and approve communications between departments. If an employee behind a firewall believes that he or she needs to share confidential information with someone on the other side of the wall, the employee should consult a designated compliance officer to determine whether sharing the information is necessary and how much information should be shared. If the sharing is necessary, the compliance officer should coordinate the process of “looking over the wall” so that the necessary information will be shared and the integrity of the procedure will be maintained.
+
+A single supervisor or compliance officer should have the specific authority and responsibility of deciding whether information is material and whether it is sufficiently public to be used as the basis for investment decisions. Ideally, the supervisor or compliance officer responsible for communicating information to a firm’s research or brokerage area would not be a member of that area.
+
+### Personal Trading Limitations
+
+Firms should consider restrictions or prohibitions on personal trading by employees and should carefully monitor both proprietary trading and personal trading by employees. Firms should require employees to make periodic reports (to the extent that such reporting is not already required by securities laws) of their own transactions and transactions made for the benefit of family members. Securities should be placed on a restricted list when a firm has or may have material nonpublic information. The broad distribution of a restricted list often triggers the sort of trading the list was developed to avoid. Therefore, a watch list shown to only the few people responsible for compliance should be used to monitor transactions in specified securities. The use of a watch list in combination with a restricted list is an increasingly common means of ensuring effective control of personal trading.
+
+### Record Maintenance
+
+Multiservice firms should maintain written records of the communications between various departments. Firms should place a high priority on training and should consider instituting comprehensive training programs, particularly for employees in sensitive areas.
+
+### Proprietary Trading Procedures
+
+Procedures concerning the restriction or review of a firm’s proprietary trading while the firm possesses material nonpublic information will necessarily depend on the types of proprietary trading in which the firm may engage. A prohibition on all types of proprietary activity when a firm comes into possession of material nonpublic information is not appropriate. For example, when a firm acts as a market maker, a prohibition on proprietary trading may be counterproductive to the goals of maintaining the confidentiality of information and market liquidity. This concern is particularly important in the relationships between small, regional broker/dealers and small issuers. In many situations, a firm will take a small issuer public with the understanding that the firm will continue to be a market maker in the stock. In such instances, a withdrawal by the firm from market-making acts would be a clear tip to outsiders. Firms that continue market-making activity while in the possession of material nonpublic information should, however, instruct their market makers to remain passive with respect to the market—that is, to take only the contra side of unsolicited customer trades.
+
+In risk-arbitrage trading, the case for a trading prohibition is more compelling than it is in the case of market making. The impetus for arbitrage trading is neither passive nor reactive, and the potential for illegal profits is greater than in market making. The most prudent course for firms is to suspend arbitrage activity when a security is placed on the watch list. Those firms that continue arbitrage activity face a high hurdle in proving the adequacy of their internal procedures for preventing trading on material nonpublic information and must demonstrate a stringent review and documentation of firm trades.
+
+### Communication to All Employees
+
+Members and candidates should encourage their employers to circulate written compliance policies and guidelines to all employees. Policies and guidelines should be used in conjunction with training programs aimed at enabling employees to recognize material nonpublic information. Such information is not always clearly identifiable.
+
+Employees must be given sufficient training to either make an informed decision or to realize they need to consult a supervisor or compliance officer before engaging in questionable transactions. Appropriate policies reinforce that using material nonpublic information is illegal in many countries. Such trading activities based on material nonpublic information undermine the integrity of the individual, the firm, and the capital markets.
+
+Application of the Standard
+
+*Example 1 (Acting on Nonpublic Information):*
+
+Frank Barnes, the president and controlling shareholder of the SmartTown clothing chain, decides to accept a tender offer and sell the family business at a price almost double the market price of its shares. He describes this decision to his sister (SmartTown’s treasurer), who conveys it to her daughter (who owns no stock in the family company at present), who tells her husband, Staple. Staple, however, tells his stockbroker, Alex Halsey, who immediately buys SmartTown stock for himself.
+
+> Comment: The information regarding the pending sale is both material and nonpublic. Staple has violated Standard II(A) by communicating the inside information to his broker. Halsey also has violated the standard by buying the shares on the basis of material nonpublic information.
+
+*Example 2 (Controlling Nonpublic Information):*
+
+Samuel Peter, an analyst with Scotland and Pierce Incorporated, is assisting his firm with a secondary offering for Bright Ideas Lamp Company. Peter participates, via telephone conference call, in a meeting with Scotland and Pierce investment banking employees and Bright Ideas’ CEO. Peter is advised that the company’s earnings projections for the next year have significantly dropped. Throughout the telephone conference call, several Scotland and Pierce salespeople and portfolio managers walk in and out of Peter’s office, where the telephone call is taking place. As a result, they are aware of the drop in projected earnings for Bright Ideas. Before the conference call is concluded, the salespeople trade the stock of the company on behalf of the firm’s clients and other firm personnel trade the stock in a firm proprietary account and in employees’ personal accounts.
+
+> Comment: Peter has violated Standard II(A) because he failed to prevent the transfer and misuse of material nonpublic information to others in his firm. Peter’s firm should have adopted information barriers to prevent the communication of nonpublic information between departments of the firm. The salespeople and portfolio managers who traded on the information have also violated Standard II(A) by trading on inside information.
+
+*Example 3 (Selective Disclosure of Material Information):*
+
+Elizabeth Levenson is based in Taipei and covers the Taiwanese market for her firm, which is based in Singapore. She is invited, together with the other 10 largest shareholders of a manufacturing company, to meet the finance director of that company. During the meeting, the finance director states that the company expects its workforce to strike next Friday, which will cripple productivity and distribution. Can Levenson use this information as a basis to change her rating on the company from “buy” to “sell”?
+
+> Comment: Levenson must first determine whether the material information is public. According to Standard II(A), if the company has not made this information public (a small group forum does not qualify as a method of public dissemination), she cannot use the information.
+
+*Example 4 (Determining Materiality):*
+
+Leah Fechtman is trying to decide whether to hold or sell shares of an oil-and-gas exploration company that she owns in several of the funds she manages. Although the company has underperformed the index for some time already, the trends in the industry sector signal that companies of this type might become takeover targets. While she is considering her decision, her doctor, who casually follows the markets, mentions that she thinks that the company in question will soon be bought out by a large multinational conglomerate and that it would be a good idea to buy the stock right now. After talking to various investment professionals and checking their opinions on the company as well as checking industry trends, Fechtman decides the next day to accumulate more stock in the oil-and-gas exploration company.
+
+> Comment: Although information on an expected takeover bid may be of the type that is generally material and nonpublic, in this case, the source of information is unreliable, so the information cannot be considered material. Therefore, Fechtman is not prohibited from trading the stock on the basis of this information.
+
+*Example 5 (Applying the Mosaic Theory):*
+
+Jagdish Teja is a buy-side analyst covering the furniture industry. Looking for an attractive company to recommend as a buy, he analyzes several furniture makers by studying their financial reports and visiting their operations. He also talks to some designers and retailers to find out which furniture styles are trendy and popular. Although none of the companies that he analyzes are a clear buy, he discovers that one of them, Swan Furniture Company (SFC), may be in financial trouble. SFC’s extravagant new designs have been introduced at substantial cost. Even though these designs initially attracted attention, the public is now buying more conservative furniture from other makers. Based on this information and on a profit-and-loss analysis, Teja believes that SFC’s next quarter earnings will drop substantially. He issues a sell recommendation for SFC. Immediately after receiving that recommendation, investment managers start reducing the SFC stock in their portfolios.
+
+> Comment: Information on quarterly earnings data is material and nonpublic. Teja arrived at his conclusion about the earnings drop on the basis of public information and on pieces of nonmaterial nonpublic information (such as opinions of designers and retailers). Therefore, trading based on Teja’s correct conclusion is not prohibited by Standard II(A).
+
+*Example 6 (Applying the Mosaic Theory):*
+
+Roger Clement is a senior financial analyst who specializes in the European automobile sector at Rivoli Capital. Because he has been repeatedly nominated by many leading industry magazines and newsletters as a “best analyst” for the automobile industry, he is widely regarded as an authority on the sector. After speaking with representatives of Turgot Chariots—a European auto manufacturer with sales primarily in South Korea—and after conducting interviews with salespeople, labor leaders, his firm’s Korean currency analysts, and banking officials, Clement analyzed Turgot Chariots and concluded that (1) its newly introduced model will probably not meet sales expectations, (2) its corporate restructuring strategy may well face serious opposition from unions, (3) the depreciation of the Korean won should lead to pressure on margins for the industry in general and Turgot’s market segment in particular, and (4) banks could take a tougher-than-expected stance in the upcoming round of credit renegotiations with the company. For these reasons, he changes his conclusion about the company from “market outperform” to “market underperform.” Clement retains the support material used to reach his conclusion in case questions later arise.
+
+> Comment: To reach a conclusion about the value of the company, Clement has pieced together a number of nonmaterial or public bits of information that affect Turgot Chariots. Therefore, under the mosaic theory, Clement has not violated Standard II(A) in drafting the report.
+
+*Example 7 (Analyst Recommendations as Material Nonpublic Information):*
+
+The next day, Clement is preparing to be interviewed on a global financial news television program where he will discuss his changed recommendation on Turgot Chariots for the first time in public. While preparing for the program, he mentions to the show’s producers and Mary Zito, the journalist who will be interviewing him, the information he will be discussing. Just prior to going on the air, Zito sells her holdings in Turgot Chariots. She also phones her father with the information because she knows that he and other family members have investments in Turgot Chariots.
+
+> Comment: When Zito receives advance notice of Clement’s change of opinion, she knows it will have a material impact on the stock price, even if she is not totally aware of Clement’s underlying reasoning. She is not a client of Clement but obtains early access to the material nonpublic information prior to publication. Her trades are thus based on material nonpublic information and violate Standard II(A).
+
+> Zito further violates the Standard by relaying the information to her father. It would not matter if he or any other family member traded; the act of providing the information violates Standard II(A). The fact that the information is provided to a family member does not absolve someone of the prohibition of using or communicating material nonpublic information.
+
+*Example 8 (Acting on Nonpublic Information):*
+
+Ashton Kellogg is a retired investment professional who manages his own portfolio. He owns shares in National Savings, a large local bank. A close friend and golfing buddy, John Mayfield, is a senior executive at National. National has seen its stock price drop considerably, and the news and outlook are not good. In a conversation about the economy and the banking industry on the golf course, Mayfield relays the information that National will surprise the investment community in a few days when it announces excellent earnings for the quarter. Kellogg is pleasantly surprised by this information, and thinking that Mayfield, as a senior executive, knows the law and would not disclose inside information, he doubles his position in the bank. Subsequently, National announces that it had good operating earnings but had to set aside reserves for anticipated significant losses on its loan portfolio. The combined news causes the stock to go down 60%.
+
+> Comment: Even though Kellogg believes that Mayfield would not break the law by disclosing inside information and money was lost on the purchase, Kellogg should not have purchased additional shares of National. It is the member’s or candidate’s responsibility to make sure, before executing investment actions, that comments about earnings are not material nonpublic information. Kellogg has violated Standard II(A).
+
+*Example 9 (Mosaic Theory):*
+
+John Doll is a research analyst for a hedge fund that also sells its research to a select group of paying client investment firms. Doll’s focus is medical technology companies and products, and he has been in the business long enough and has been successful enough to build up a very credible network of friends and experts in the business. Doll has been working on a major research report recommending Boyce Health, a medical device manufacturer. He recently ran into an old acquaintance at a wedding who is a senior executive at Boyce, and Doll asked about the business. Doll was drawn to a statement that the executive, who has responsibilities in the new products area, made about a product: “I would not get too excited about the medium-term prospects; we have a lot of work to do first.” Doll incorporated this and other information about the new Boyce product in his long-term recommendation of Boyce.
+
+> Comment: Doll’s conversation with the senior executive is part of the mosaic of information used in recommending Boyce. When holding discussions with a firm executive, Doll would need to guard against soliciting or obtaining material nonpublic information. Before issuing the report, the executive’s statement about the continuing development of the product would need to be weighed against the other known public facts to determine whether it would be considered material.
+
+*Example 10 (Materiality Determination):*
+
+Larry Nadler, a trader for a mutual fund, gets a text message from another firm’s trader, whom he has known for years. The message indicates a software company is going to report strong earnings when the firm publicly announces in two days. Nadler has a buy order from a portfolio manager within his firm to purchase several hundred thousand shares of the stock. Nadler is aggressive in placing the portfolio manager’s order and completes the purchases by the following morning, a day ahead of the firm’s planned earnings announcement.
+
+> Comment: There are often rumors and whisper numbers before a release of any kind. The text message from the other trader would most likely be considered market noise. Unless Nadler knew that the trader had an ongoing business relationship with the public firm, he had no reason to suspect he was receiving material nonpublic information that would prevent him from completing the trading request of the portfolio manager.
+
+*Example 11 (Using an Expert Network):*
+
+Mary McCoy is the senior drug analyst at a mutual fund. Her firm hires a service that connects her to experts in the treatment of cancer. Through various phone conversations, McCoy enhances her understanding of the latest therapies for successful treatment. This information is critical to Mary making informed recommendations of the companies producing these drugs.
+
+> Comment: McCoy is appropriately using the expert networks to enhance her evaluation process. She has neither asked for nor received information that may be considered material and nonpublic, such as preliminary trial results. McCoy is allowed to seek advice from professionals within the industry that she follows.
+
+*Example 12 (Using an Expert Network):*
+
+Tom Watson is a research analyst working for a hedge fund. To stay informed, Watson relies on outside experts for information on such industries as technology and pharmaceuticals, where new advancements occur frequently. The meetings with the industry experts often are arranged through networks or placement agents that have specific policies and procedures in place to deter the exchange of material nonpublic information.
+
+Watson arranges a call to discuss future prospects for one of the fund’s existing technology company holdings, a company that was testing a new semiconductor product. The scientist leading the tests indicates his disappointment with the performance of the new semiconductor. Following the call, Watson relays the insights he received to others at the fund. The fund sells its current position in the company and writes many put options because the market is anticipating the success of the new semiconductor and the share price reflects the market’s optimism.
+
+> Comment: Watson has violated Standard II(A) by passing along material nonpublic information concerning the ongoing product tests, which the fund used to trade in the securities and options of the related company. Watson cannot simply rely on the agreements signed by individuals who participate in expert networks that state that he has not received information that would prohibit his trading activity. He must make his own determination whether information he received through these arrangements reaches a materiality threshold that would affect his trading abilities.
+
+## Standard II(B) Market Manipulation<a name="II_B"></a>
+### Guidance
+
+Standard II(B) requires that members and candidates uphold market integrity by prohibiting market manipulation. Market manipulation includes practices that distort security prices or trading volume with the intent to deceive people or entities that rely on information in the market. Market manipulation damages the interests of all investors by disrupting the smooth functioning of financial markets and lowering investor confidence.
+
+Market manipulation may lead to a lack of trust in the fairness of the capital markets, resulting in higher risk premiums and reduced investor participation. A reduction in the efficiency of a local capital market may negatively affect the growth and economic health of the country and may also influence the operations of the globally interconnected capital markets. Although market manipulation may be less likely to occur in mature financial markets than in emerging markets, cross-border investing increasingly exposes all global investors to the potential for such practices.
+
+Market manipulation includes (1) the dissemination of false or misleading information and (2) transactions that deceive or would be likely to mislead market participants by distorting the price-setting mechanism of financial instruments. The development of new products and technologies increases the incentives, means, and opportunities for market manipulation. Additionally, the increasing complexity and sophistication of the technologies used for communicating with market participants have created new avenues for manipulation.
+
+#### Information-Based Manipulation
+
+Information-based manipulation includes, but is not limited to, spreading false rumors to induce trading by others. For example, members and candidates must refrain from “pumping up” the price of an investment by issuing misleading positive information or overly optimistic projections of a security’s worth only to later “dump” the investment (i.e., sell it) once the price, fueled by the misleading information’s effect on other market participants, reaches an artificially high level.
+
+#### Transaction-Based Manipulation
+
+Transaction-based manipulation involves instances where a member or candidate knew or should have known that his or her actions could affect the pricing of a security. This type of manipulation includes, but is not limited to, the following:
+
+- transactions that artificially affect prices or volume to give the impression of activity or price movement in a financial instrument, which represent a diversion from the expectations of a fair and efficient market, and
+
+- securing a controlling, dominant position in a financial instrument to exploit and manipulate the price of a related derivative and/or the underlying asset.
+
+Standard II(B) is not intended to preclude transactions undertaken on legitimate trading strategies based on perceived market inefficiencies. The intent of the action is critical to determining whether it is a violation of this standard.
+
+### Application of the Standard
+
+*Example 1 (Independent Analysis and Company Promotion):*
+
+The principal owner of Financial Information Services (FIS) entered into an agreement with two microcap companies to promote the companies’ stock in exchange for stock and cash compensation. The principal owner caused FIS to disseminate e-mails, design and maintain several websites, and distribute an online investment newsletter—all of which recommended investment in the two companies. The systematic publication of purportedly independent analyses and recommendations containing inaccurate and highly promotional and speculative statements increased public investment in the companies and led to dramatically higher stock prices.
+
+> Comment: The principal owner of FIS violated Standard II(B) by using inaccurate reporting and misleading information under the guise of independent analysis to artificially increase the stock price of the companies. Furthermore, the principal owner violated Standard V(A)–Diligence and Reasonable Basis by not having a reasonable and adequate basis for recommending the two companies and violated Standard VI(A)–Disclosure of Conflicts by not disclosing to investors the compensation agreements (which constituted a conflict of interest).
+
+*Example 2 (Personal Trading Practices and Price):*
+
+John Gray is a private investor in Belgium who bought a large position several years ago in Fame Pharmaceuticals, a German small-cap security with limited average trading volume. He has now decided to significantly reduce his holdings owing to the poor price performance. Gray is worried that the low trading volume for the stock may cause the price to decline further as he attempts to sell his large position.
+
+Gray devises a plan to divide his holdings into multiple accounts in different brokerage firms and private banks in the names of family members, friends, and even a private religious institution. He then creates a rumor campaign on various blogs and social media outlets promoting the company.
+
+Gray begins to buy and sell the stock using the accounts in hopes of raising the trading volume and the price. He conducts the trades through multiple brokers, selling slightly larger positions than he bought on a tactical schedule, and over time, he is able to reduce his holding as desired without negatively affecting the sale price.
+
+> Comment: John violated Standard II(B) by fraudulently creating the appearance that there was a greater investor interest in the stock through the online rumors. Additionally, through his trading strategy, he created the appearance that there was greater liquidity in the stock than actually existed. He was able to manipulate the price through both misinformation and trading practices.
+
+*Example 3 (Creating Artificial Price Volatility):*
+
+Matthew Murphy is an analyst at Divisadero Securities & Co., which has a significant number of hedge funds among its most important brokerage clients. Some of the hedge funds hold short positions on Wirewolf Semiconductor. Two trading days before the publication of a quarter-end report, Murphy alerts his sales force that he is about to issue a research report on Wirewolf that will include the following opinions:
+
+quarterly revenues are likely to fall short of management’s guidance,
+
+earnings will be as much as 5 cents per share (or more than 10%) below consensus, and
+
+Wirewolf’s highly respected chief financial officer may be about to join another company.
+
+Knowing that Wirewolf has already entered its declared quarter-end “quiet period” before reporting earnings (and thus would be reluctant to respond to rumors), Murphy times the release of his research report specifically to sensationalize the negative aspects of the message in order to create significant downward pressure on Wirewolf’s stock—to the distinct advantage of Divisadero’s hedge fund clients. The report’s conclusions are based on speculation, not on fact. The next day, the research report is broadcast to all of Divisadero’s clients and to the usual newswire services.
+
+Before Wirewolf’s investor-relations department can assess the damage on the final trading day of the quarter and refute Murphy’s report, its stock opens trading sharply lower, allowing Divisadero’s clients to cover their short positions at substantial gains.
+
+> Comment: Murphy violated Standard II(B) by aiming to create artificial price volatility designed to have a material impact on the price of an issuer’s stock. Moreover, by lacking an adequate basis for the recommendation, Murphy also violated Standard V(A)–Diligence and Reasonable Basis.
+
+*Example 4 (Personal Trading and Volume):*
+
+Rajesh Sekar manages two funds—an equity fund and a balanced fund—whose equity components are supposed to be managed in accordance with the same model. According to that model, the funds’ holdings in stock of Digital Design Inc. (DD) are excessive. Reduction of the DD holdings would not be easy, however, because the stock has low liquidity in the stock market. Sekar decides to start trading larger portions of DD stock back and forth between his two funds to slowly increase the price; he believes market participants will see growing volume and increasing price and become interested in the stock. If other investors are willing to buy the DD stock because of such interest, then Sekar will be able to get rid of at least some of his overweight position without inducing price decreases. In this way, the whole transaction will be for the benefit of fund participants, even if additional brokers’ commissions are incurred.
+
+> Comment: Sekar’s plan would be beneficial for his funds’ participants but is based on artificial distortion of both trading volume and the price of the DD stock and thus constitutes a violation of Standard II(B).
+
+*Example 5 (“Pump-Priming” Strategy):*
+
+Sergei Gonchar is chairman of the ACME Futures Exchange, which is launching a new bond futures contract. To convince investors, traders, arbitrageurs, hedgers, and so on, to use its contract, the exchange attempts to demonstrate that it has the best liquidity. To do so, it enters into agreements with members in which they commit to a substantial minimum trading volume on the new contract over a specific period in exchange for substantial reductions of their regular commissions.
+
+> Comment: The formal liquidity of a market is determined by the obligations set on market makers, but the actual liquidity of a market is better estimated by the actual trading volume and bid–ask spreads. Attempts to mislead participants about the actual liquidity of the market constitute a violation of Standard II(B). In this example, investors have been intentionally misled to believe they chose the most liquid instrument for some specific purpose, but they could eventually see the actual liquidity of the contract significantly reduced after the term of the agreement expires. If the ACME Futures Exchange fully discloses its agreement with members to boost transactions over some initial launch period, it will not violate Standard II(B). ACME’s intent is not to harm investors but, on the contrary, to give them a better service. For that purpose, it may engage in a liquidity-pumping strategy, but the strategy must be disclosed.
+
+*Example 6 (Creating Artificial Price Volatility):*
+
+Emily Gordon, an analyst of household products companies, is employed by a research boutique, Picador & Co. Based on information that she has gathered during a trip through Latin America, she believes that Hygene, Inc., a major marketer of personal care products, has generated better-than-expected sales from its new product initiatives in South America. After modestly boosting her projections for revenue and for gross profit margin in her worksheet models for Hygene, Gordon estimates that her earnings projection of US$2.00 per diluted share for the current year may be as much as 5% too low. She contacts the chief financial officer (CFO) of Hygene to try to gain confirmation of her findings from her trip and to get some feedback regarding her revised models. The CFO declines to comment and reiterates management’s most recent guidance of US$1.95–US$2.05 for the year.
+
+Gordon decides to try to force a comment from the company by telling Picador & Co. clients who follow a momentum investment style that consensus earnings projections for Hygene are much too low; she explains that she is considering raising her published estimate by an ambitious US$0.15 to US$2.15 per share. She believes that when word of an unrealistically high earnings projection filters back to Hygene’s investor-relations department, the company will feel compelled to update its earnings guidance. Meanwhile, Gordon hopes that she is at least correct with respect to the earnings direction and that she will help clients who act on her insights to profit from a quick gain by trading on her advice.
+
+> Comment: By exaggerating her earnings projections in order to try to fuel a quick gain in Hygene’s stock price, Gordon is in violation of Standard II(B). Furthermore, by virtue of previewing her intentions of revising upward her earnings projections to only a select group of clients, she is in violation of Standard III(B)–Fair Dealing. However, it would have been acceptable for Gordon to write a report that
+
+> - framed her earnings projection in a range of possible outcomes,
+
+> - outlined clearly the assumptions used in her Hygene models that took into consideration the findings from her trip through Latin America, and
+
+> - was distributed to all Picador & Co. clients in an equitable manner.
+
+*Example 7 (Pump and Dump Strategy):*
+
+In an effort to pump up the price of his holdings in Moosehead & Belfast Railroad Company, Steve Weinberg logs on to several investor chat rooms on the internet to start rumors that the company is about to expand its rail network in anticipation of receiving a large contract for shipping lumber.
+
+> Comment: Weinberg has violated Standard II(B) by disseminating false information about Moosehead & Belfast with the intent to mislead market participants.
+
+*Example 8 (Manipulating Model Inputs):*
+
+Bill Mandeville supervises a structured financing team for Superior Investment Bank. His responsibilities include packaging new structured investment products and managing Superior’s relationship with relevant rating agencies. To achieve the best rating possible, Mandeville uses mostly positive scenarios as model inputs—scenarios that reflect minimal downside risk in the assets underlying the structured products. The resulting output statistics in the rating request and underwriting prospectus support the idea that the new structured products have minimal potential downside risk. Additionally, Mandeville’s compensation from Superior is partially based on both the level of the rating assigned and the successful sale of new structured investment products but does not have a link to the long-term performance of the instruments.
+
+Mandeville is extremely successful and leads Superior as the top originator of structured investment products for the next two years. In the third year, the economy experiences difficulties and the values of the assets underlying structured products significantly decline. The subsequent defaults lead to major turmoil in the capital markets, the demise of Superior Investment Bank, and the loss of Mandeville’s employment.
+
+> Comment: Mandeville manipulates the inputs of a model to minimize associated risk to achieve higher ratings. His understanding of structured products allows him to skillfully decide which inputs to include in support of the desired rating and price. This information manipulation for short-term gain, which is in violation of Standard II(B), ultimately causes significant damage to many parties and the capital markets as a whole. Mandeville should have realized that promoting a rating and price with inaccurate information could cause not only a loss of price confidence in the particular structured product but also a loss of investor trust in the system. Such loss of confidence affects the ability of the capital markets to operate efficiently.
+
+*Example 9 (Information Manipulation):*
+
+Allen King is a performance analyst for Torrey Investment Funds. King believes that the portfolio manager for the firm’s small- and microcap equity fund dislikes him because the manager never offers him tickets to the local baseball team’s games but does offer tickets to other employees. To incite a potential regulatory review of the manager, King creates user profiles on several online forums under the portfolio manager’s name and starts rumors about potential mergers for several of the smaller companies in the portfolio. As the prices of these companies’ stocks increase, the portfolio manager sells the position, which leads to an investigation by the regulator as King desired.
+
+> Comment: King has violated Standard II(B) even though he did not personally profit from the market’s reaction to the rumor. In posting the false information, King misleads others into believing the companies were likely to be acquired. Although his intent was to create trouble for the portfolio manager, his actions clearly manipulated the factual information that was available to the market.
+
+# Standard III: Duties to Clients<a name="III"></a>(对客户的责任)
+
+## Standard III(A) Loyalty, Prudence, and Care(忠诚,审慎,关心)
+
+Standard III(A) clarifies that client interests are paramount(*最重要的*). A member’s or candidate’s responsibility to a client includes a duty of loyalty and a duty to exercise reasonable care. Investment actions must be carried out for the sole benefit of the client and in a manner the member or candidate believes, given the known facts and circumstances, to be in the best interest of the client. Members and candidates must exercise the same level of prudence, judgment, and care that they would apply in the management and disposition of their own interests in similar circumstances.
+
+Prudence(*谨慎*) requires caution and discretion(*慎重*). The exercise of prudence by investment professionals requires that they act with the care, skill, and diligence(*勤勉*) that a reasonable person acting in a like capacity and familiar with such matters would use. In the context of managing a client’s portfolio, prudence requires following the investment parameters set forth by the client and balancing risk and return. Acting with care requires members and candidates to act in a prudent and judicious manner in avoiding harm to clients.
+
+Standard III(A) sets *minimum expectations* for members and candidates when fulfilling their responsibilities to their clients. Regulatory and legal requirements for such duties can vary across the investment industry depending on a variety of factors, including job function of the investment professional, the existence of an adviser/client relationship, and the nature of the recommendations being offered. From the perspective of the end user of financial services, these different standards can be arcane and confusing, leaving investors unsure of what level of service to expect from investment professionals they employ. The single standard of conduct described in Standard III(A) benefits investors by establishing a benchmark for the duties of loyalty, prudence, and care and clarifies that all CFA Institute members and candidates, regardless of job title, local laws, or cultural differences, are required to comply with these fundamental responsibilities. Investors hiring members or candidates who must adhere to the duty of loyalty, prudence, and care set forth in this standard can be confident that these responsibilities are a requirement regardless of any legally imposed fiduciary duties.
+
+Standard III(A), however, is not a substitute for a member’s or candidate’s legal or regulatory obligations. As stated in Standard I(A), members and candidates must abide by the most strict requirements imposed on them by regulators or the Code and Standards, including any legally imposed fiduciary duty. Members and candidates must also be aware of whether they have “custody” or effective control of client assets. If so, a heightened level of responsibility arises. Members and candidates are considered to have custody if they have any direct or indirect access to client funds. Members and candidates must manage any pool of assets in their control in accordance with the terms of the governing documents (such as trust documents and investment management agreements), which are the primary determinant of the manager’s powers and duties. Whenever their actions are contrary to provisions of those instruments or applicable law, members and candidates are at risk of violating Standard III(A).
+
+- **Understanding the Application of Loyalty, Prudence, and Care**
+
+Standard III(A) establishes a minimum benchmark for the duties of loyalty, prudence, and care that are required of all members and candidates regardless of whether a legal fiduciary(*信托的*) duty applies. Although fiduciary duty often encompasses the principles of loyalty, prudence, and care, Standard III(A) does not render all members and candidates fiduciaries. The responsibilities of members and candidates for fulfilling their obligations under this standard depend greatly on the nature of their professional responsibilities and the relationships they have with clients. The conduct of members and candidates may or may not rise to the level of being a fiduciary, depending on the type of client, whether the member or candidate is giving investment advice, and the many facts and circumstances surrounding a particular transaction or client relationship.
+
+Fiduciary duties are often imposed by law or regulation when an individual or institution is charged with the duty of acting for the benefit of another party, such as managing investment assets. The duty required in fiduciary relationships exceeds what is acceptable in many other business relationships because a fiduciary is in an enhanced position of trust. Although members and candidates must comply with any legally imposed fiduciary duty, the Code and Standards neither impose such a legal responsibility nor require all members or candidates to act as fiduciaries. However, Standard III(A) requires members and candidates to work in the client’s best interest no matter what the job function.
+
+A member or candidate who does not provide advisory services to a client but who acts only as a trade execution professional must prudently work in the client’s interest when completing requested trades. Acting in the client’s best interest requires these professionals to use their skills and diligence to execute trades in the most favorable terms that can be achieved. Members and candidates operating in such positions must use care to operate within the parameters set by the client’s trading instructions.
+
+Members and candidates may also operate in a blended environment where they execute client trades and offer advice on a limited set of investment options. The extent of the advisory arrangement and limitations should be outlined in the agreement with the client at the outset of the relationship. For instance, members and candidates should inform clients that the advice provided will be limited to the propriety products of the firm and not include other products available on the market. Clients who want access to a wider range of investment products would have the information necessary to decide not to engage with members or candidates working under these restrictions.
+
+Members and candidates operating in this blended context would comply with their obligations by recommending the allowable products that are consistent with the client’s objectives and risk tolerances. They would exercise care through diligently aligning the client’s needs with the attributes of the products being recommended. Members and candidates should place the client’s interests first by disregarding any firm or personal interest in motivating a recommended transaction.
+
+There is a large variety of professional relationships that members and candidates have with their clients. Standard III(A) requires them to fulfill the obligations outlined explicitly or implicitly in the client agreements to the best of their abilities and with loyalty, prudence, and care. Whether a member or candidate is structuring a new securitization transaction, completing a credit rating analysis, or leading a public company, he or she must work with prudence and care in delivering the agreed-on services.
+
+- **Identifying the Actual Investment Client**
+
+The first step for members and candidates in fulfilling their duty of loyalty to clients is to determine the identity of the “client” to whom the duty of loyalty is owed. In the context of an investment manager managing the personal assets of an individual, the client is easily identified. When the manager is responsible for the portfolios of pension plans or trusts, however, the client is not the person or entity who hires the manager but, rather, the beneficiaries of the plan or trust. The duty of loyalty is owed to the ultimate beneficiaries.
+
+In some situations, an actual client or group of beneficiaries may not exist. Members and candidates managing a fund to an index or an expected mandate owe the duty of loyalty, prudence, and care to invest in a manner consistent with the stated mandate. The decisions of a fund’s manager, although benefiting all fund investors, do not have to be based on an individual investor’s requirements and risk profile. Client loyalty and care for those investing in the fund are the responsibility of members and candidates who have an advisory relationship with those individuals.
+
+Situations involving potential conflicts of interest with respect to responsibilities to clients may be extremely complex because they may involve a number of competing interests. The duty of loyalty, prudence, and care applies to a large number of persons in varying capacities, but the exact duties may differ in many respects in accord with the relationship with each client or each type of account in which the assets are managed. Members and candidates must not only put their obligations to clients first in all dealings but also endeavor to avoid all real or potential conflicts of interest.
+
+Members and candidates with positions whose responsibilities do not include direct investment management also have “clients” that must be considered. Just as there are various types of advisory relationships, members and candidates must look at their roles and responsibilities when making a determination of who their clients are. Sometimes the client is easily identifiable; such is the case in the relationship between a company executive and the firm’s public shareholders. At other times, the client may be the investing public as a whole, in which case the goals of independence and objectivity of research surpass the goal of loyalty to a single organization.
+
+- **Developing the Client’s Portfolio**
+
+The duty of loyalty, prudence, and care owed to the individual client is especially important because the professional investment manager typically possesses greater knowledge in the investment arena than the client does. This disparity places the individual client in a vulnerable position; the client must trust the manager. The manager in these situations should ensure that the client’s objectives and expectations for the performance of the account are realistic and suitable to the client’s circumstances and that the risks involved are appropriate. In most circumstances, recommended investment strategies should relate to the long-term objectives and circumstances of the client.
+
+Particular care must be taken to detect whether the goals of the investment manager or the firm in conducting business, selling products, and executing security transactions potentially conflict with the best interests and objectives of the client. When members and candidates cannot avoid potential conflicts between their firm and clients’ interests, they must provide clear and factual disclosures of the circumstances to the clients.
+
+Members and candidates must follow any guidelines set by their clients for the management of their assets. Some clients, such as charitable organizations and pension plans, have strict investment policies that limit investment options to certain types or classes of investment or prohibit investment in certain securities. Other organizations have aggressive policies that do not prohibit investments by type but, instead, set criteria on the basis of the portfolio’s total risk and return.
+
+Investment decisions must be judged in the context of the total portfolio rather than by individual investment within the portfolio. The member’s or candidate’s duty is satisfied with respect to a particular investment if the individual has thoroughly considered the investment’s place in the overall portfolio, the risk of loss and opportunity for gains, tax implications, and the diversification, liquidity, cash flow, and overall return requirements of the assets or the portion of the assets for which the manager is responsible.
+
+
+- **Soft Commission Policies**
+
+An investment manager often has discretion over the selection of brokers executing transactions. Conflicts may arise when an investment manager uses client brokerage to purchase research services, a practice commonly called “soft dollars” or “soft commissions.” A member or candidate who pays a higher brokerage commission than he or she would normally pay to allow for the purchase of goods or services, without corresponding benefit to the client, violates the duty of loyalty to the client.
+
+From time to time, a client will direct a manager to use the client’s brokerage to purchase goods or services for the client, a practice that is commonly called “directed brokerage.” Because brokerage commission is an asset of the client and is used to benefit that client, not the manager, such a practice does not violate any duty of loyalty. However, a member or candidate is obligated to seek “best price” and “best execution” and be assured by the client that the goods or services purchased from the brokerage will benefit the account beneficiaries. “Best execution” refers to a trading process that seeks to maximize the value of the client’s portfolio within the client’s stated investment objectives and constraints. In addition, the member or candidate should disclose to the client that the client may not be getting best execution from the directed brokerage.
+
+- **Proxy Voting Policies**
+
+The duty of loyalty, prudence, and care may apply in a number of situations facing the investment professional besides those related directly to investing assets.
+
+Part of a member’s or candidate’s duty of loyalty includes voting proxies in an informed and responsible manner. Proxies have economic value to a client, and members and candidates must ensure that they properly safeguard and maximize this value. An investment manager who fails to vote, casts a vote without considering the impact of the question, or votes blindly with management on nonroutine governance issues (e.g., a change in company capitalization) may violate this standard. Voting of proxies is an integral part of the management of investments.
+
+A cost–benefit analysis may show that voting all proxies may not benefit the client, so voting proxies may not be necessary in all instances. Members and candidates should disclose to clients their proxy voting policies.
+
+## Standard III(B) Fair Dealing(公平对待)
+## Standard III(C) Suitability(合适性)
+## Standard III(D) Performance Presentation(陈述投资业绩)
+## Standard III(E) Preservation of Confidentiality(保密)
+
+
+# Standard IV: Duties to Employers<a name="IV"></a>
+## Standard IV(A) Loyalty(忠诚)
+## Standard IV(B) Additional Compensation Arrangements(附加报酬)
+## Standard IV(C) Responsibilities of Supervisors(上级的责任)
+
+
+# Standard V: Investment Analysis, Recommendations, and Actions<a name="V"></a>
+## Standard V(A) Diligence and Reasonable Basis(勤奋和合理的基础)
+## Standard V(B) Communication with Clients and Prospective Clients(与客户和潜在客户的交流)
+## Standard V(C) Record Retention(保存记录)
+
+# Standard VI: Conflicts of Interest<a name="VI"></a>(利益冲突)
+## Standard VI(A) Disclosure of Conflicts(利益冲突的披露)
+## Standard VI(B) Priority of Transactions()交易优先次序)
+## Standard VI(C) Referral Fees(披露介绍费)
+
+# Standard VII: Responsibilities as a CFA Institute Member or CFA Candidate<a name="VII"></a>(作为CFA的责任)
+## Standard VII(A) Conduct as Participants in CFA Institute Programs(成员考生的行为)
+## Standard VII(B) Reference to CFA Institute, the CFA Designation, and the CFA Program(引用CFA协会,名衔的考试)
+
+
