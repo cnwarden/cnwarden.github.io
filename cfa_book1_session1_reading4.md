@@ -162,9 +162,32 @@ Firms should comply with the following valuation recommendations:
 
 ### Additional Real Estate Valuation Recommendations
 
+**All are recommendations**
+
+1. Although appraisal standards may allow for a range of estimated values, it is recommended that *a single value be obtained from external valuers or appraisers because only one value is used in performance reporting*.
+
+2. It is recommended that the external appraisal firm be *rotated every three to five years*.
+
+3. Firms should explain and disclose *material differences* between the valuation used in performance reporting and the valuation used in financial reporting as of each annual period end (Provision 6.B.4).
+
+4. For periods prior to 1 January 2011, firms should disclose material changes to valuation policies and/or methodologies (Provision 6.B.5).
+
 ### Additional Private Equity Valuation Recommendations
 
+1. Firms should explain and disclose material differences between the valuations used in performance reporting and the valuations used in financial reporting as of each annual period end (Provision 7.B.3).
 
+2. For periods prior to 1 January 2011, firms should disclose material changes to valuation policies and/or methodologies (Provision 7.B.4).
+
+3. The following considerations should be incorporated into the valuation process:
+    
+    a. The quality and reliability of the data used in each methodology;
+    
+    b. The comparability of enterprise or transaction data;
+
+    c. The stage of development of the enterprise; and
+
+    d. Any additional considerations unique to the enterprise.
+    
 ---
 
 # III. GIPS Advertising Guidelines
@@ -185,6 +208,41 @@ The calculation and advertisement of pooled unitized investment vehicles, such a
 
 The advertisement may include other information beyond what is required under the GIPS Advertising Guidelines provided the information is shown with equal or lesser prominence relative to the information required by the GIPS Advertising Guidelines and the information does not conflict with the requirements of the GIPS standards and/or the GIPS Advertising Guidelines. Firms must adhere to the principles of fair representation and full disclosure when advertising and must not present performance or performance-related information that is false or misleading.
 
+### Requirements of the GIPS Advertising Guidelines
+
+All advertisements that include a claim of compliance with the GIPS standards by following the GIPS Advertising Guidelines must disclose the following:
+
+1. The definition of the firm.
+2. How a prospective client can obtain a compliant presentation and/or the firm’s list of composite descriptions.
+3. The GIPS compliance statement for advertisements:
+
+    > “**[Insert name of firm] claims compliance with the Global Investment Performance Standards (GIPS®).**”
+    
+    All advertisements that include a claim of compliance with the GIPS standards by following the GIPS Advertising Guidelines and that present performance must also **disclose the following information**, which must be taken or derived from a compliant presentation:
+4. The composite description.
+5. Composite total returns according to one of the following:
+    
+    a. One-, three-, and five-year annualized composite returns through the most recent period with the period-end date clearly identified. If the composite has been in existence for less than five years, firms must also present the annualized returns since the composite inception date. (For example, if a composite has been in existence for four years, firms must present one-, three-, and four-year annualized returns through the most recent period.) Returns for periods of less than one year must not be annualized.
+    
+    b. Period-to-date composite returns in addition to one-, three-, and five-year annualized composite returns through the same period of time as presented in the corresponding compliant presentation with the period end date clearly identified. If the composite has been in existence for less than five years, firms must also present the annualized returns since the composite inception date (For example, if a composite has been in existence for four years, firms must present one-, three-, and four-year annualized returns in addition to the period-to-date composite return.) Returns for periods of less than one year must not be annualized.
+    
+    c. Period-to-date composite returns in addition to five years of annual composite returns (or for each annual period since the composite inception date if the composite has been in existence for less than five years) with the period end date clearly identified. The annual returns must be calculated through the same period of time as presented in the corresponding compliant presentation.
+
+6. Whether returns are presented gross-of-fees and/or net-of-fees.
+
+7. The total return for the benchmark for the same periods for which the composite return is presented. Firms must present total returns for the same benchmark as presented in the corresponding compliant presentation.
+
+8. The benchmark description.
+
+9. If the firm determines no appropriate benchmark for the composite exists, the firm must disclose why no benchmark is presented.
+
+10. The currency used to express performance.
+
+11. The presence, use, and extent of leverage, derivatives, and short positions, if material, including a description of the frequency of use and characteristics of the instruments sufficient to identify risks.
+
+12. For any performance presented in an advertisement for periods prior to 1 January 2000 that does not comply with the GIPS standards, firms must disclose the periods of non-compliance.
+
+13. If the advertisement conforms with laws and/or regulations that conflict with the requirements of the GIPS standards and/or the GIPS Advertising Guidelines, firms must disclose this fact and disclose the manner in which the laws and/or regulations conflict with the GIPS standards and/or the GIPS Advertising Guidelines.
 
 # IV. Verification
 Verification is intended to provide a firm and its existing clients and prospective clients additional confidence in the firm’s claim of compliance with the GIPS standards. Verification may increase the knowledge of the firm’s performance measurement team and improve the consistency and quality of the firm’s compliant presentations. Verification may also provide improved internal processes and procedures as well as marketing advantages to the firm. Verification does not ensure the accuracy of any specific composite presentation.
@@ -192,4 +250,62 @@ Verification is intended to provide a firm and its existing clients and prospect
 The GIPS standards recommend that firms be verified. Verification brings additional credibility to the claim of compliance and supports the overall guiding principles of fair representation and full disclosure of a firm’s investment performance.
 
 The verification procedures attempt to strike a balance between ensuring the quality, accuracy, and relevance of performance presentations and minimizing the cost to firms.
+
+## Scope and Purpose of Verification
+
+1. Verification must be performed by a *qualified independent third party*.
+2. Verification assesses whether:
+
+    a. The firm has complied with all the composite construction requirements of the GIPS standards on a firm-wide basis and
+    b. The firm’s policies and procedures are designed to calculate and present performance in compliance with the GIPS standards.
+
+3. A single verification report is issued with respect to *the whole firm*. Verification cannot be carried out on a composite and, accordingly, does not provide assurance about the performance of *any specific composite*. **Firms must not state that a particular composite has been “verified” or make any claim to that effect**.
+
+4. The initial minimum period for which verification can be performed is *one year* (or from firm inception date through period end if less than one year) of a firm’s presented performance. The recommended period over which verification is performed is that part of the firm’s performance for which compliance with the GIPS standards is claimed.
+
+5. A verification report must opine that: (**The same with 2.Verification assesses** )
+
+    a. The firm has complied with all the composite construction requirements of the GIPS standards on a firm-wide basis, and
+    b. The firm’s policies and procedures are designed to calculate and present performance in compliance with the GIPS standards.
+
+    **The firm must not state that it has been verified unless a verification report has been issued.**
+    
+6. A principal verifier may accept the work of another verifier as part of the basis for the principal verifier’s opinion. A principal verifier may also choose to rely on the audit and/or internal control work of a qualified and reputable independent third party. In addition, a principal verifier may choose to rely on the other audit and/or internal control work performed by the verification firm. If reliance on another party’s work is planned, the scope of work, including time period covered, results of procedures performed, qualifications, competency, objectivity, and reputation of the other party, must be assessed by the principal verifier when making the determination as to whether to place any reliance on such work. Reliance considerations and conclusions must be documented by the principal verifier. The principal verifier must use professional skepticism when deciding whether to place reliance on work performed by another independent third party.
+
+7. Sample portfolio Selection: Verifiers must subject the entire firm to testing when performing verification procedures unless reliance is placed on work performed by a qualified and reputable independent third party or appropriate alternative control procedures have been performed by the verifier. Verifiers may use a sampling methodology when performing such procedures. Verifiers must consider the following criteria when selecting samples:
+
+    1. Number of composites at the firm;
+
+    1. Number of portfolios in each composite;
+
+    1. Type of composite;
+
+    1. Total firm assets;
+     
+    1. Internal control structure at the firm (system of checks and balances in place);
+     
+    1. Number of years being verified; and
+    
+    1. Computer applications, software used in the construction and maintenance of composites, the use of external performance measurers, and the method of calculating performance.
+
+    This list is not all-inclusive and contains only the minimum criteria that must be considered in the selection and evaluation of a sample. For example, one potentially useful approach would be to include in the sample a portfolio that has the largest impact on composite performance because of its size or because of extremely good or bad performance. Missing or incomplete documents, or the presence of errors, would normally be expected to warrant selecting a larger sample or applying additional verification procedures.
+    
+8. After performing the verification, the verifier may conclude that the firm is not in compliance with the GIPS standards or that the records of the firm cannot support a verification. In such situations, the verifier must issue a statement to the firm clarifying why a verification report could not be issued. A verification report must not be issued when the verifier knows that the firm is not in compliance with the GIPS standards or the records of the firm cannot support a verification.
+
+9. The minimum verification procedures are described below in Section B. The verification report must state that the verification has been conducted in accordance with these verification procedures.
+
+## Required Verification Procedures
+
+    
+    
+
+
+
+
+
+
+
+
+
+
 
