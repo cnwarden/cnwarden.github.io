@@ -15,7 +15,7 @@ output = """
 
 
 mkin = codecs.open(sys.argv[1], 'r', 'utf-8')
-output += markdown2.markdown(mkin.read(), extras=['fenced-code-blocks'])
+output += markdown2.markdown(mkin.read(), extras=['fenced-code-blocks', 'cuddled-lists'])
 output += '</body></html>'
 
 html_path = os.path.join(os.path.dirname(sys.argv[1]), os.path.splitext(sys.argv[1])[0] + ".html")
