@@ -8,15 +8,17 @@ output = """
         <meta charset="UTF-8"> 
         <meta http-equiv="X-UA-Compatible" content="chrome=1">
         <link rel="stylesheet" type="text/css" href="pygments-css/default.css" />
-        <link rel="stylesheet" type="text/css" href="css/github.css" />
+        <link rel="stylesheet" type="text/css" href="css/markdown.css" />
+        <link rel="stylesheet" type="text/css" href="css/owner.css" />
     </head>
 <body>
+    <div class="content">
 """
 
 
 mkin = codecs.open(sys.argv[1], 'r', 'utf-8')
 output += markdown2.markdown(mkin.read(), extras=['fenced-code-blocks', 'cuddled-lists'])
-output += '</body></html>'
+output += '</div></body></html>'
 
 html_path = os.path.join(os.path.dirname(sys.argv[1]), os.path.splitext(sys.argv[1])[0] + ".html")
 print "Printing to %s\n" % (html_path)
