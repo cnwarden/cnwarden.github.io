@@ -1,5 +1,14 @@
-CFA LEVEL 1
+Reading 4 : The GIPS Standards
 ===================
+The candidate should be able to:
+
+* describe the **key features** of the GIPS standards and the fundamentals of compliance;
+
+* describe the scope of the GIPS standards with respect to an investment **firm’s definition** and **historical performance record**;
+
+* explain how the GIPS standards are implemented in countries with existing standards for performance reporting and describe the appropriate response when the GIPS standards and local regulations **conflict**;
+
+* describe the **nine major sections** of the GIPS standards.
 
 # Implementing a Global Standard
 The presence of a local sponsoring organization for investment performance standards is essential for effective implementation and ongoing support of the GIPS standards within a country. Such country sponsors also provide an important link between the GIPS Executive Committee, the governing body for the GIPS standards, and the local markets in which investment managers operate.
@@ -108,9 +117,48 @@ Firms must comply with the following valuation requirements:
 
 ### Additional Real Estate Valuation Requirements
 
+9. Real estate investments must have an external valuation (Provision 6.A.4).
+
+10. The external valuation process must adhere to practices of the relevant valuation governing and standard setting body.
+
+11. The firm must not use external valuations where the valuer’s or appraiser’s fee is contingent upon the investment’s appraised value.
+
+12. External valuations must be performed by an independent external professionally designated, certified, or licensed commercial property valuer/appraiser. In markets where these professionals are not available, the firm must take necessary steps to ensure that only well-qualified independent property valuers or appraisers are used (Provision 6.A.5).
+
+13. Firms must disclose the internal valuation methodologies used to value real estate investments for the most recent period (Provision 6.A.10.b).
+
+14. For periods beginning on or after 1 January 2011, firms must disclose material changes to valuation policies and/or methodologies (Provision 6.A.10.c).
+
+15. For periods beginning on or after 1 January 2011, firms must disclose material differences between an external valuation and the valuation used in performance reporting and the reason for the differences (Provision 6.A.10.d).
+
+16. Firms must present, as of each annual period end, the percentage of composite assets valued using an external valuation during the annual period (Provision 6.A.16.b).
+
+
 ### Additional Private Equity Valuation Requirements
 
+1. The valuation methodology selected must be the most appropriate for a particular investment based on the nature, facts, and circumstances of the investment.
+
+2. Firms must disclose the valuation methodologies used to value private equity investments for the most recent period (Provision 7.A.13).
+
+3. For periods ending on or after 1 January 2011, firms must disclose material changes to valuation policies and/or methodologies (Provision 7.A.14).
+
+4. If the firm adheres to any industry valuation guidelines in addition to the GIPS Valuation Principles, the firm must disclose which guidelines have been applied (Provision 7.A.15).
+
 ## Valuation Recommendations
+
+Firms should comply with the following valuation recommendations:
+
+1. **Valuation Hierarchy**: firms should incorporate the following hierarchy into the policies and procedures for determining fair value for portfolio investments on a composite-specific basis.
+
+    a. Investments must be valued using objective, observable, unadjusted quoted market prices for identical investments in active markets on the measurement date, if available. If not available, then investments should be valued using;
+    
+    b. Objective, observable quoted market prices for similar investments in active markets. If not available or appropriate, then investments should be valued using;
+
+    c. Quoted prices for identical or similar investments in markets that are not active (markets in which there are few transactions for the investment, the prices are not current, or price quotations vary substantially over time and/or between market makers). If not available or appropriate, then investments should be valued based on;
+
+    d. Market-based inputs, other than quoted prices, that are observable for the investment. If not available or appropriate, then investments should be valued based on;
+
+    e. Subjective unobservable inputs for the investment where markets are not active at the measurement date. Unobservable inputs should only be used to measure fair value to the extent that observable inputs and prices are not available or appropriate. Unobservable inputs reflect the firm’s own assumptions about the assumptions that market participants would use in pricing the investment and should be developed based on the best information available under the circumstances.
 
 ### Additional Real Estate Valuation Recommendations
 
