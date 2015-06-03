@@ -10,6 +10,7 @@ output = """
         <link rel="stylesheet" type="text/css" href="pygments-css/default.css" />
         <link rel="stylesheet" type="text/css" href="css/markdown.css" />
         <link rel="stylesheet" type="text/css" href="css/owner.css" />
+        <link href='http://fonts.useso.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     </head>
 <body>
     <div class="content">
