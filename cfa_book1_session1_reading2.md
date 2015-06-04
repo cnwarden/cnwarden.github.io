@@ -45,23 +45,53 @@ The candidate should be able to:
 
 ## Standard I(A) Knowledge of the Law<a name="I_A"></a>
 
-1. Relationship between the Code and Standards and Applicable Law
-2. Participation in or Association with Violations by Others
-3. Investment Products and Applicable Laws
+**解题指南:知道那种标准适用,适用法律还是行为准则,所以要不断学习新的法律,如果不确定,可以咨询法律部门.时刻保持警惕.自己不能犯错误,如果他人违反准则,应当采取措施来停止行为,不过不行,至少自己也应当退出**
 
-Members and candidates must understand the applicable laws and regulations of the countries and jurisdictions where they engage in professional activities. These activities may include, but are not limited to, trading of securities or other financial instruments, providing investment advice, conducting research, or performing other investment services. On the basis of their reasonable and good faith understanding, members and candidates must comply with the laws and regulations that directly govern their professional activities and resulting outcomes and that protect the interests of the clients.
++ Relationship between the Code and Standards and Applicable Law(**行为规范和适用法律**)
++ Participation in or Association with Violations by Others(**参与或者和他人违反的行为的关系**)
++ Investment Products and Applicable Laws(**投资产品和适用法律**)
 
-When questions arise, members and candidates should know their firm’s policies and procedures for accessing compliance guidance. This standard does not require members and candidates to become experts, however, in compliance. Additionally, members and candidates are not required to have detailed knowledge of or be experts on all the laws that could potentially govern their activities.
+Members and candidates must understand the applicable laws and regulations of the countries and jurisdictions where they engage in professional activities. These activities may include, but are not limited to, trading of securities or other financial instruments, providing investment advice, conducting research, or performing other investment services. On the basis of their reasonable and good faith understanding, members and candidates *must comply with the laws and regulations that directly govern their professional activities and resulting outcomes and that protect the interests of the clients.(符合法律规定)*
 
-During times of changing regulations, members and candidates must remain vigilant in maintaining their knowledge of the requirements for their professional activities. New financial products and processes, along with uncovered ethical missteps, create an environment for recurring and potentially wide-ranging regulatory changes. Members and candidates are also continually provided improved and enhanced methods of communicating with both clients and potential clients, such as mobile applications and web-based social networking platforms. As new local, regional, and global requirements are updated to address these and other changes, members, candidates, and their firms must adjust their procedures and practices to remain in compliance.
+When questions arise, members and candidates should know their firm’s policies and procedures for accessing compliance guidance. This standard does not require members and candidates to become experts, however, in compliance. Additionally, *members and candidates are not required to have detailed knowledge of or be experts on all the laws that could potentially govern their activities.(不要求成员需要所有的法律知识)*
 
-### Relationship between the Code and Standards and Applicable Law
+During times of changing regulations, members and candidates must remain vigilant(警惕) in maintaining their knowledge of the requirements for their professional activities. New financial products and processes, along with uncovered ethical missteps, create an environment for recurring and potentially wide-ranging regulatory changes. Members and candidates are also continually provided improved and enhanced methods of communicating with both clients and potential clients, such as mobile applications and web-based social networking platforms. As new local, regional, and global requirements are updated to address these and other changes, members, candidates, and their firms must adjust their procedures and practices to remain in compliance.(*当有新规定时,应该警惕自己的行为时刻保持合规*)
 
+#### Relationship between the Code and Standards and Applicable Law
 
-### Participation in or Association with Violations by Others
+“Applicable law” is the law that governs the member’s or candidate’s conduct. 
+When applicable law and the Code and Standards require different conduct, members and candidates must follow the more strict of the applicable law or the Code and Standards.For example, applicable law or regulation may not require members and candidates to disclose referral fees received from or paid to others for the recommendation of investment products or services. Because the Code and Standards impose this obligation, however, members and candidates must disclose the existence of such fees.
 
+Members and candidates must adhere to the following principles:
 
-### Investment Products and Applicable Laws
++ Members and candidates **must comply with** applicable laws or regulations related to their professional activities.
++ Members and candidates **must not engage in conduct that constitutes a violation of the Code and Standards, even though it may otherwise be legal.**
++ In the absence of any applicable law or regulation or when the Code and Standards impose a **higher degree** of responsibility than applicable laws and regulations, members and candidates must adhere to the Code and Standards. 
+
+**解题指南:适用法律和行为标准那个更严格就采用那个,最低也是行为准则,不可能什么都不遵守**
+Members and candidates who practice in multiple jurisdictions may be subject to varied securities laws and regulations. If applicable law is stricter than the requirements of the Code and Standards, members and candidates must adhere to applicable law; otherwise, they must adhere to the Code and Standards.
+
+**复杂例子,三地,首先知道那个law applies,最严格的,然后如果law低于标准,则按照行为准则**
+> + Member resides in MS country, does business in LS country with a client who is a citizen of LS country; MS law applies, but *it states that the law of the client’s home country governs.(这里是客户当地法律,但当地法律比较松)* --> Member must adhere to the Code and Standards.	--> Because applicable law states that the law of the client’s home country governs (which is less strict than the Code and Standards), member must adhere to the Code and Standards.
+
+> + Member resides in MS country, does business in LS country with a client who is a citizen of MS country; MS law applies, but *it states that the law of the client’s home country governs.(这里需要说明使用何地的法律, 这里说的是client当地法律,但是当地more stricter than Standard)* -->	Member must adhere to the law of MS country. --> Because applicable law states that the law of the client’s home country governs and the law of the client’s home country is stricter than the Code and Standards, the member must adhere to the more strict applicable law.
+
+#### Participation in or Association with Violations by Others
+
++ Members and candidates are responsible for violations in which they knowingly participate or assist. If a member or candidate has reasonable grounds to believe that imminent or ongoing client or employer activities are illegal or unethical, the member or candidate must dissociate, or separate, from the activity. In extreme cases, dissociation may require a member or candidate to leave his or her employment. 
++ Members and candidates may take the following intermediate steps to dissociate from ethical violations of others when direct discussions with the person or persons committing the violation are unsuccessful. 
+
+    + The first step should be to attempt to *stop the behavior* by bringing it to the attention of the employer through a supervisor or the firm’s compliance department.
+    + If this attempt is unsuccessful, then members and candidates have a responsibility to *step away and dissociate* from the activity. 
++ CFA Institute strongly encourages members and candidates to report potential violations of the Code and Standards committed by fellow members and candidates. 
++ Additionally, CFA Institute encourages members, nonmembers, clients, and the investing public to report violations of the Code and Standards by CFA Institute members or CFA candidates by submitting a complaint in writing to the CFA Institute Professional Conduct Program via e-mail (pcprogram@cfainstitute.org) or the CFA Institute website (www.cfainstitute.org).
+
+#### Investment Products and Applicable Laws
+
++ The applicable laws and regulations of the countries or regions of origination and expected sale should be understood by those responsible for the supervision of the services or creation and maintenance of the products or packages.
++ Members or candidates should make reasonable efforts to review whether associated firms that are distributing products or services developed by their employing firm also abide by the laws and regulations of the countries and regions of distribution.
++ Members and candidates should undertake the necessary due diligence when transacting cross-border business to understand the multiple applicable laws and regulations in order to protect the reputation of their firm and themselves.
++ Given the complexity that can arise with business transactions in today’s market, there may be some uncertainty surrounding which laws or regulations are considered applicable when activities are being conducted in multiple jurisdictions. Members and candidates should seek the *appropriate guidance, potentially including the firm’s compliance or legal departments and legal counsel outside the organization, to gain a reasonable understanding of their responsibilities and how to implement them appropriately.*
 
 ### Recommended Procedures for Compliance(推荐的合规流程)
 主要分析对成员和公司的合规流程
@@ -93,66 +123,83 @@ When dissociating from an activity that violates the Code and Standards, members
 
 ### Application of the Standard
 
-*Example 1 (Notification of Known Violations)*:
+*Example 1 (Notification of Known Violations):*
 
-Michael Allen works for a brokerage firm and is responsible for an underwriting of securities. A company official gives Allen information indicating that the financial statements Allen filed with the regulator overstate the issuer’s earnings. Allen seeks the advice of the brokerage firm’s general counsel, who states that it would be difficult for the regulator to prove that Allen has been involved in any wrongdoing.
+Michael Allen works for a brokerage firm and is responsible for an (underwriting of securities:证券承销). A company official gives Allen information indicating that the financial statements Allen filed with the regulator overstate the issuer’s earnings. Allen seeks the advice of the brokerage firm’s general counsel, who states that it would be difficult for the regulator to prove that Allen has been involved in any wrongdoing.
 
 > Comment: Although it is recommended that members and candidates seek the advice of legal counsel, the reliance on such advice does not absolve a member or candidate from the requirement to comply with the law or regulation. Allen should report this situation to his supervisor, seek an independent legal opinion, and determine whether the regulator should be notified of the error.
 
-*Example 2 (Dissociating from a Violation):*
+*Example 2 (Dissociating from a Violation)(退出违反):*
 
-Lawrence Brown’s employer, an investment banking firm, is the principal underwriter for an issue of convertible debentures by the Courtney Company. Brown discovers that the Courtney Company has concealed severe third-quarter losses in its foreign operations. The preliminary prospectus has already been distributed.
+Lawrence Brown’s employer, an investment banking firm, is the principal underwriter for an issue of convertible debentures by the Courtney Company. Brown discovers that the Courtney Company has concealed(隐藏) severe third-quarter losses in its foreign operations. The preliminary prospectus(招股说明书) has already been distributed.
 
 > Comment: Knowing that the preliminary prospectus is misleading, Brown should report his findings to the appropriate supervisory persons in his firm. If the matter is not remedied and Brown’s employer does not dissociate from the underwriting, Brown should sever all his connections with the underwriting. Brown should also seek legal advice to determine whether additional reporting or other action should be taken.
 
-*Example 3 (Dissociating from a Violation):*
+*Example 3 (Dissociating from a Violation)(退出违反):*
 
-Kamisha Washington’s firm advertises its past performance record by showing the 10-year return of a composite of its client accounts. Washington discovers, however, that the composite omits the performance of accounts that have left the firm during the 10-year period, whereas the description of the composite indicates the inclusion of all firm accounts. This omission has led to an inflated performance figure. Washington is asked to use promotional material that includes the erroneous performance number when soliciting business for the firm.
+Kamisha Washington’s firm advertises its past performance record by showing the 10-year return of a composite of its client accounts. Washington discovers, however, that the composite *omits the performance of accounts that have left the firm during the 10-year period*, whereas the description of the composite indicates the inclusion of all firm accounts. This omission has led to an inflated performance figure. Washington is asked to use promotional material that includes the erroneous performance number when soliciting business for the firm.
 
 > Comment: Misrepresenting performance is a violation of the Code and Standards. Although she did not calculate the performance herself, Washington would be assisting in violating Standard I(A) if she were to use the inflated performance number when soliciting clients. She must dissociate herself from the activity. If discussing the misleading number with the person responsible is not an option for correcting the problem, she can bring the situation to the attention of her supervisor or the compliance department at her firm. If her firm is unwilling to recalculate performance, she must refrain from using the misleading promotional material and should notify the firm of her reasons. If the firm insists that she use the material, she should consider whether her obligation to dissociate from the activity requires her to seek other employment.
 
-*Example 4 (Following the Highest Requirements):*
+*Example 4 (Following the Highest Requirements)(最高的要求,本地法律和行为准则):*
 
 James Collins is an investment analyst for a major Wall Street brokerage firm. He works in a developing country with a rapidly modernizing economy and a growing capital market. Local securities laws are minimal—in form and content—and include no punitive prohibitions against insider trading.
 
 > Comment: Collins must abide by the requirements of the Code and Standards, which might be more strict than the rules of the developing country. He should be aware of the risks that a small market and the absence of a fairly regulated flow of information to the market represent to his ability to obtain information and make timely judgments. He should include this factor in formulating his advice to clients. In handling material nonpublic information that accidentally comes into his possession, he must follow Standard II(A)–Material Nonpublic Information.
 
-*Example 5 (Following the Highest Requirements):*
+*Example 5 (Following the Highest Requirements)(最高的要求,本地法律和行为准则):*
 
 Laura Jameson works for a multinational investment adviser based in the United States. Jameson lives and works as a registered investment adviser in the tiny, but wealthy, island nation of Karramba. Karramba’s securities laws state that no investment adviser registered and working in that country can participate in initial public offerings (IPOs) for the adviser’s personal account. Jameson, believing that, as a US citizen working for a US-based company, she should comply only with US law, has ignored this Karrambian law. In addition, Jameson believes that as a charterholder, as long as she adheres to the Code and Standards requirement that she disclose her participation in any IPO to her employer and clients when such ownership creates a conflict of interest, she is meeting the highest ethical requirements.
 
 > Comment: Jameson is in violation of Standard I(A). As a registered investment adviser in Karramba, Jameson is prevented by Karrambian securities law from participating in IPOs regardless of the law of her home country. In addition, because the law of the country where she is working is stricter than the Code and Standards, she must follow the stricter requirements of the local law rather than the requirements of the Code and Standards.
 
-*Example 6 (Laws and Regulations Based on Religious Tenets):*
+*Example 6 (Laws and Regulations Based on Religious Tenets)(基于宗教信条的法律和规定):*
 
-Amanda Janney is employed as a fixed-income portfolio manager for a large international firm. She is on a team within her firm that is responsible for creating and managing a fixed-income hedge fund to be sold throughout the firm’s distribution centers to high-net-worth clients. Her firm receives expressions of interest from potential clients from the Middle East who are seeking investments that comply with Islamic law. The marketing and promotional materials for the fixed-income hedge fund do not specify whether or not the fund is a suitable investment for an investor seeking compliance with Islamic law. Because the fund is being distributed globally, Janney is concerned about the reputation of the fund and the firm and believes disclosure of whether or not the fund complies with Islamic law could help minimize potential mistakes with placing this investment.
+Amanda Janney is employed as a fixed-income portfolio manager for a large international firm. She is on a team within her firm that is responsible for creating and managing a fixed-income hedge fund to be sold throughout the firm’s distribution centers to high-net-worth clients. Her firm receives expressions of interest from potential clients from the *Middle East who are seeking investments that comply with Islamic law*. The marketing and promotional materials for the fixed-income hedge fund do not specify whether or not the fund is a suitable investment for an investor seeking compliance with Islamic law. Because the fund is being distributed globally, Janney is concerned about the reputation of the fund and the firm and believes disclosure of whether or not the fund complies with Islamic law could help minimize potential mistakes with placing this investment.
 
-> Comment: As the financial market continues to become globalized, members and candidates will need to be aware of the differences between cultural and religious laws and requirements as well as the different governmental laws and regulations. Janney and the firm could be proactive in their efforts to acknowledge areas where the new fund may not be suitable for clients.
+> Comment: As the financial market continues to become globalized, members and candidates will need to be aware of the differences between cultural and religious laws and requirements as well as the different governmental laws and regulations. Janney and the firm could be proactive(主动的) in their efforts to acknowledge areas where the new fund may not be suitable for clients.
 
-*Example 7 (Reporting Potential Unethical Actions):*
+*Example 7 (Reporting Potential Unethical Actions)(报告潜在不道德行为):*
 
 Krista Blume is a junior portfolio manager for high-net-worth portfolios at a large global investment manager. She observes a number of new portfolios and relationships coming from a country in Europe where the firm did not have previous business and is told that a broker in that country is responsible for this new business. At a meeting on allocation of research resources to third-party research firms, Blume notes that this broker has been added to the list and is allocated payments for research. However, she knows the portfolios do not invest in securities in the broker’s country, and she has not seen any research come from this broker. Blume asks her supervisor about the name being on the list and is told that someone in marketing is receiving the research and that the name being on the list is OK. She believes that what may be going on is that the broker is being paid for new business through the inappropriate research payments, and she wishes to dissociate from the misconduct.
 
 > Comment: Blume should follow the firm’s policies and procedures for reporting potential unethical activity, which may include discussions with her supervisor or someone in a designated compliance department. She should communicate her concerns appropriately while advocating for disclosure between the new broker relationship and the research payments.
 
-*Example 8 (Failure to Maintain Knowledge of the Law):*
+*Example 8 (Failure to Maintain Knowledge of the Law)(没有维持法律知识):*
 
-Colleen White is excited to use new technology to communicate with clients and potential clients. She recently began posting investment information, including performance reports and investment opinions and recommendations, to her Facebook page. In addition, she sends out brief announcements, opinions, and thoughts via her Twitter account (for example, “Prospects for future growth of XYZ company look good! #makingmoney4U”). Prior to White’s use of these social media platforms, the local regulator had issued new requirements and guidance governing online electronic communication. White’s communications appear to conflict with the recent regulatory announcements.
+Colleen White is excited to use new technology to communicate with clients and potential clients. She recently began posting investment information, including performance reports and investment opinions and recommendations, to her Facebook page. In addition, she sends out brief announcements, opinions, and thoughts via her Twitter account (for example, “Prospects for future growth of XYZ company look good! makingmoney4U”). Prior to White’s use of these social media platforms, the local regulator had issued new requirements and guidance governing online electronic communication. White’s communications appear to conflict with the recent regulatory announcements.
 
 > Comment: White is in violation of Standard I(A) because her communications do not comply with the existing guidance and regulation governing use of social media. White must be aware of the evolving legal requirements pertaining to new and dynamic areas of the financial services industry that are applicable to her. She should seek guidance from appropriate, knowledgeable, and reliable sources, such as her firm’s compliance department, external service providers, or outside counsel, unless she diligently follows legal and regulatory trends affecting her professional responsibilities.
 
 ## Standard I(B) Independence and Objectivity<a name="I_B"></a>
 
+**解题指南:主要抓住不能收外界的影响,这些影响包括礼物,旅行费用,各种补贴等等**
+
+**Members and Candidates must use reasonable care and judgment to achieve and maintain independence and objectivity in their professional activities. Members and Candidates must not offer, solicit, or accept any gift, benefit, compensation, or consideration that reasonably could be expected to compromise their own or another’s independence and objectivity.必须独立客观的进行判断,不能提供,征求,接受各种能够影响自己独立和客观性的利益**
+
 ### Guidance
-#### Buy-Side Clients
-#### Fund Manager and Custodial Relationships(基金经理)
-#### Investment Banking Relationships(与投资银行的关系)
-#### Performance Measurement and Attribution
-#### Public Companies(上市公司)
-#### Credit Rating Agency Opinions(评级机构)
-#### Influence during the Manager Selection/Procurement Process
-#### Issuer-Paid Research(发行人支付酬金的研究报告)
-#### Travel Funding(旅行)
+
++ External sources may try to influence the investment process by offering analysts and portfolio managers a variety of benefits.
++ Receiving a gift, benefit, or consideration from a client can be distinguished from gifts given by entities seeking to influence a member or candidate to the detriment of other clients. 
++ Members and candidates may also come under pressure from their own firms to, for example, issue favorable research reports or recommendations for certain companies with potential or continuing business relationships with the firm. 
++ Left unmanaged, pressures that threaten independence place research analysts in a difficult position and may jeopardize their ability to act independently and objectively.
++ Members and candidates are personally responsible for maintaining independence and objectivity when preparing research reports, making investment recommendations, and taking investment action on behalf of clients.
++ Members and candidates also should be aware that some of their professional or social activities within CFA Institute or its member societies may subtly threaten their independence or objectivity.
+
+**下面列举了一些外部因素的来源**
+
+- Buy-Side Clients
+
+One source of pressure on sell-side analysts is buy-side clients.
+
+- Fund Manager and Custodial Relationships(基金经理)
+- Investment Banking Relationships(与投资银行的关系)
+- Performance Measurement and Attribution
+- Public Companies(上市公司)
+- Credit Rating Agency Opinions(评级机构)
+- Influence during the Manager Selection/Procurement Process
+- Issuer-Paid Research(发行人支付酬金的研究报告)
+- Travel Funding(旅行)
 
 ### Recommended Procedures for Compliance
 
@@ -174,7 +221,7 @@ Colleen White is excited to use new technology to communicate with clients and p
 
 ### Application of the Standard
 
-*Example 1 (Travel Expenses):*
+*Example 1 (Travel Expenses):(差旅费)*
 
 Steven Taylor, a mining analyst with Bronson Brokers, is invited by Precision Metals to join a group of his peers in a tour of mining facilities in several western US states. The company arranges for chartered group flights from site to site and for accommodations in Spartan Motels, the only chain with accommodations near the mines, for three nights. Taylor allows Precision Metals to pick up his tab, as do the other analysts, with one exception—John Adams, an employee of a large trust company who insists on following his company’s policy and paying for his hotel room himself.
 

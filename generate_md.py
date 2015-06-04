@@ -13,7 +13,13 @@ output = """
         <link href='http://fonts.useso.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     </head>
 <body>
-    <div class="content">
+    <div id="nav">
+        <ul>
+          <li class="pull_left"><a href="#">CFA</a></li>
+          <li class="pull_left"><a>About</a></li>
+        </ul>
+    </div>
+    <div id="content">
 """
 
 
