@@ -227,9 +227,9 @@ Steven Taylor, a mining analyst with Bronson Brokers, is invited by Precision Me
 
 > Comment: The policy of the company where Adams works complies closely with Standard I(B) by avoiding even the appearance of a conflict of interest, but Taylor and the other analysts were not necessarily violating Standard I(B). In general, when allowing companies to pay for travel and/or accommodations in these circumstances, members and candidates must use their judgment. They must be on guard that such arrangements not impinge on a member’s or candidate’s independence and objectivity. In this example, the trip was strictly for business and Taylor was not accepting irrelevant or lavish hospitality. The itinerary required chartered flights, for which analysts were not expected to pay. The accommodations were modest. These arrangements are not unusual and did not violate Standard I(B) as long as Taylor’s independence and objectivity were not compromised. In the final analysis, members and candidates should consider both whether they can remain objective and whether their integrity might be perceived by their clients to have been compromised.
 
-*Example 2 (Research Independence):*
+*Example 2 (Research Independence):(研究的独立性)*
 
-Susan Dillon, an analyst in the corporate finance department of an investment services firm, is making a presentation to a potential new business client that includes the promise that her firm will provide full research coverage of the potential client.
+Susan Dillon, an analyst in the corporate finance department of an investment services firm, is making a presentation to a potential new business client that includes the *promise that her firm will provide full research coverage of the potential client.*
 
 > Comment: Dillon may agree to provide research coverage, but she must not commit her firm’s research department to providing a favorable recommendation. The firm’s recommendation (favorable, neutral, or unfavorable) must be based on an independent and objective investigation and analysis of the company and its securities.
 
