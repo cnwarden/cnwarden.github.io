@@ -233,37 +233,37 @@ Susan Dillon, an analyst in the corporate finance department of an investment se
 
 > Comment: Dillon may agree to provide research coverage, but she must not commit her firm’s research department to providing a favorable recommendation. The firm’s recommendation (favorable, neutral, or unfavorable) must be based on an independent and objective investigation and analysis of the company and its securities.
 
-*Example 3 (Research Independence and Intrafirm Pressure):*
+*Example 3 (Research Independence and Intrafirm Pressure):(企业内压力)*
 
-Walter Fritz is an equity analyst with Hilton Brokerage who covers the mining industry. He has concluded that the stock of Metals & Mining is overpriced at its current level, but he is concerned that a negative research report will hurt the good relationship between Metals & Mining and the investment banking division of his firm. In fact, a senior manager of Hilton Brokerage has just sent him a copy of a proposal his firm has made to Metals & Mining to underwrite a debt offering. Fritz needs to produce a report right away and is concerned about issuing a less-than-favorable rating.
+Walter Fritz is an equity analyst with Hilton Brokerage who covers the mining industry. He has concluded that the stock of Metals & Mining is overpriced at its current level, but he is *concerned that a negative research report will hurt the good relationship* between Metals & Mining and the investment banking division of his firm. In fact, a senior manager of Hilton Brokerage has just sent him a copy of a proposal his firm has made to Metals & Mining to underwrite a debt offering. Fritz needs to produce a report right away and is concerned about issuing a less-than-favorable rating.
 
 > Comment: Fritz’s analysis of Metals & Mining must be objective and based solely on consideration of company fundamentals. Any pressure from other divisions of his firm is inappropriate. This conflict could have been eliminated if, in anticipation of the offering, Hilton Brokerage had placed Metals & Mining on a restricted list for its sales force.
 
-*Example 4 (Research Independence and Issuer Relationship Pressure):*
+*Example 4 (Research Independence and Issuer Relationship Pressure):(发行者压力)*
 
-As in Example 3, Walter Fritz has concluded that Metals & Mining stock is overvalued at its current level, but he is concerned that a negative research report might jeopardize a close rapport that he has nurtured over the years with Metals & Mining’s CEO, chief finance officer, and investment relations officer. Fritz is concerned that a negative report might result also in management retaliation—for instance, cutting him off from participating in conference calls when a quarterly earnings release is made, denying him the ability to ask questions on such calls, and/or denying him access to top management for arranging group meetings between Hilton Brokerage clients and top Metals & Mining managers.
+As in Example 3, Walter Fritz has concluded that Metals & Mining stock is overvalued at its current level, but he is concerned that a negative research report might jeopardize(使受危困) a close rapport(密切关系) that he has nurtured over the years with Metals & Mining’s CEO, chief finance officer, and investment relations officer. Fritz is concerned that a negative report might result also in management retaliation—for instance, cutting him off from participating in conference calls when a quarterly earnings release is made, denying him the ability to ask questions on such calls, and/or denying him access to top management for arranging group meetings between Hilton Brokerage clients and top Metals & Mining managers.
 
 > Comment: As in Example 3, Fritz’s analysis must be objective and based solely on consideration of company fundamentals. Any pressure from Metals & Mining is inappropriate. Fritz should reinforce the integrity of his conclusions by stressing that his investment recommendation is based on relative valuation, which may include qualitative issues with respect to Metals & Mining’s management.
 
-*Example 5 (Research Independence and Sales Pressure):*
+*Example 5 (Research Independence and Sales Pressure):(销售压力)*
 
 As support for the sales effort of her corporate bond department, Lindsey Warner offers credit guidance to purchasers of fixed-income securities. Her compensation is closely linked to the performance of the corporate bond department. Near the quarter’s end, Warner’s firm has a large inventory position in the bonds of Milton, Ltd., and has been unable to sell the bonds because of Milton’s recent announcement of an operating problem. Salespeople have asked her to contact large clients to push the bonds.
 
 > Comment: Unethical sales practices create significant potential violations of the Code and Standards. Warner’s opinion of the Milton bonds must not be affected by internal pressure or compensation. In this case, Warner must refuse to push the Milton bonds unless she is able to justify that the market price has already adjusted for the operating problem.
 
-*Example 6 (Research Independence and Prior Coverage):*
+*Example 6 (Research Independence and Prior Coverage):(以前的覆盖)*
 
 Jill Jorund is a securities analyst following airline stocks and a rising star at her firm. Her boss has been carrying a “buy” recommendation on International Airlines and asks Jorund to take over coverage of that airline. He tells Jorund that under no circumstances should the prevailing buy recommendation be changed.
 
 > Comment: Jorund must be independent and objective in her analysis of International Airlines. If she believes that her boss’s instructions have compromised her, she has two options: She can tell her boss that she cannot cover the company under these constraints, or she can take over coverage of the company, reach her own independent conclusions, and if they conflict with her boss’s opinion, share the conclusions with her boss or other supervisors in the firm so that they can make appropriate recommendations. Jorund must issue only recommendations that reflect her independent and objective opinion.
 
-*Example 7 (Gifts and Entertainment from Related Party):*
+*Example 7 (Gifts and Entertainment from Related Party):(相关的礼物和娱乐)*
 
 Edward Grant directs a large amount of his commission business to a New York–based brokerage house. In appreciation for all the business, the brokerage house gives Grant two tickets to the World Cup in South Africa, two nights at a nearby resort, several meals, and transportation via limousine to the game. Grant fails to disclose receiving this package to his supervisor.
 
 > Comment: Grant has violated Standard I(B) because accepting these substantial gifts may impede his independence and objectivity. Every member and candidate should endeavor to avoid situations that might cause or be perceived to cause a loss of independence or objectivity in recommending investments or taking investment action. By accepting the trip, Grant has opened himself up to the accusation that he may give the broker favored treatment in return.
 
-*Example 8 (Gifts and Entertainment from Client):*
+*Example 8 (Gifts and Entertainment from Client):(客户的礼物)*
 
 Theresa Green manages the portfolio of Ian Knowlden, a client of Tisbury Investments. Green achieves an annual return for Knowlden that is consistently better than that of the benchmark she and the client previously agreed to. As a reward, Knowlden offers Green two tickets to Wimbledon and the use of Knowlden’s flat in London for a week. Green discloses this gift to her supervisor at Tisbury.
 
