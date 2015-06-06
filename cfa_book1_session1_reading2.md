@@ -271,7 +271,7 @@ Theresa Green manages the portfolio of Ian Knowlden, a client of Tisbury Investm
 
 Best practices for monitoring include comparing the transaction costs of the Knowlden account with the costs of other accounts managed by Green and other similar accounts within Tisbury. The supervisor could also compare the performance returns with the returns of other clients with the same mandate. This comparison will assist in determining whether a pattern of favoritism by Green is disadvantaging other Tisbury clients or the possibility that this favoritism could affect her future behavior.
 
-*Example 9 (Travel Expenses from External Manager):*
+*Example 9 (Travel Expenses from External Manager):(差旅费)*
 
 Tom Wayne is the investment manager of the Franklin City Employees Pension Plan. He recently completed a successful search for a firm to manage the foreign equity allocation of the plan’s diversified portfolio. He followed the plan’s standard procedure of seeking presentations from a number of qualified firms and recommended that his board select Penguin Advisors because of its experience, well-defined investment strategy, and performance record. The firm claims compliance with the Global Investment Performance Standards (GIPS) and has been verified. Following the selection of Penguin, a reporter from the Franklin City Record calls to ask if there was any connection between this action and the fact that Penguin was one of the sponsors of an “investment fact-finding trip to Asia” that Wayne made earlier in the year. The trip was one of several conducted by the Pension Investment Academy, which had arranged the itinerary of meetings with economic, government, and corporate officials in major cities in several Asian countries. The Pension Investment Academy obtains support for the cost of these trips from a number of investment managers, including Penguin Advisors; the Academy then pays the travel expenses of the various pension plan managers on the trip and provides all meals and accommodations. The president of Penguin Advisors was also one of the travelers on the trip.
 
@@ -279,49 +279,49 @@ Tom Wayne is the investment manager of the Franklin City Employees Pension Plan.
 
 *Example 10 (Research Independence and Compensation Arrangements):*
 
-Javier Herrero recently left his job as a research analyst for a large investment adviser. While looking for a new position, he was hired by an investor-relations firm to write a research report on one of its clients, a small educational software company. The investor-relations firm hopes to generate investor interest in the technology company. The firm will pay Herrero a flat fee plus a bonus if any new investors buy stock in the company as a result of Herrero’s report.
+Javier Herrero recently left his job as a research analyst for a large investment adviser. While looking for a new position, he was hired by an investor-relations firm to write a research report on one of its clients, a small educational software company. The investor-relations firm hopes to generate investor interest in the technology company. The firm will *pay Herrero a flat fee plus a bonus* if any new investors buy stock in the company as a result of Herrero’s report.
 
-> Comment: If Herrero accepts this payment arrangement, he will be in violation of Standard I(B) because the compensation arrangement can reasonably be expected to compromise his independence and objectivity. Herrero will receive a bonus for attracting investors, which provides an incentive to draft a positive report regardless of the facts and to ignore or play down any negative information about the company. Herrero should accept only a flat fee that is not tied to the conclusions or recommendations of the report. Issuer-paid research that is objective and unbiased can be done under the right circumstances as long as the analyst takes steps to maintain his or her objectivity and includes in the report proper disclosures regarding potential conflicts of interest.
+> Comment: If Herrero accepts this payment arrangement, he will be in violation of Standard I(B) *because the compensation arrangement can reasonably be expected to compromise his independence and objectivity.* Herrero will receive a bonus for attracting investors, which provides an incentive to draft a positive report regardless of the facts and to ignore or play down any negative information about the company. Herrero should accept only a flat fee that is not tied to the conclusions or recommendations of the report. Issuer-paid research that is objective and unbiased can be done under the right circumstances as long as the analyst takes steps to maintain his or her objectivity and includes in the report proper disclosures regarding potential conflicts of interest.
 
 *Example 11 (Recommendation Objectivity and Service Fees):*
 
-Two years ago, Bob Wade, trust manager for Central Midas Bank, was approached by Western Funds about promoting its family of funds, with special interest in the service-fee class of funds. To entice Central to promote this class, Western Funds offered to pay the bank a service fee of 0.25%. Without disclosing the fee being offered to the bank, Wade asked one of the investment managers to review Western’s funds to determine whether they were suitable for clients of Central Midas Bank. The manager completed the normal due diligence review and determined that the new funds were fairly valued in the market with fee structures on a par with competitors. Wade decided to accept Western’s offer and instructed the team of portfolio managers to exclusively promote these funds and the service-fee class to clients seeking to invest new funds or transfer from their current investments.
+Two years ago, Bob Wade, trust manager for Central Midas Bank, was approached by Western Funds about promoting its family of funds, with special interest in the service-fee class of funds. To entice Central to promote this class, Western Funds offered to pay the bank a service fee of 0.25%. *Without disclosing the fee being offered to the bank,* Wade asked one of the investment managers to review Western’s funds to determine whether they were suitable for clients of Central Midas Bank. The manager completed the normal due diligence review and determined that the new funds were fairly valued in the market with fee structures on a par with competitors. Wade decided to accept Western’s offer and instructed the team of portfolio managers to exclusively promote these funds and the service-fee class to clients seeking to invest new funds or transfer from their current investments.
 
 Now, two years later, the funds managed by Western begin to underperform their peers. Wade is counting on the fees to reach his profitability targets and continues to push these funds as acceptable investments for Central’s clients.
 
 > Comment: Wade is violating Standard I(B) because the fee arrangement has affected the objectivity of his recommendations. Wade is relying on the fee as a component of the department’s profitability and is unwilling to offer other products that may affect the fees received.
 
-See also Standard VI(A)–Disclosure of Conflicts.
+> *See also Standard VI(A)–Disclosure of Conflicts.*
 
 *Example 12 (Recommendation Objectivity):*
 
-Bob Thompson has been doing research for the portfolio manager of the fixed-income department. His assignment is to do sensitivity analysis on securitized subprime mortgages. He has discussed with the manager possible scenarios to use to calculate expected returns. A key assumption in such calculations is housing price appreciation (HPA) because it drives “prepays” (prepayments of mortgages) and losses. Thompson is concerned with the significant appreciation experienced over the previous five years as a result of the increased availability of funds from subprime mortgages. Thompson insists that the analysis should include a scenario run with –10% for Year 1, –5% for Year 2, and then (to project a worst-case scenario) 0% for Years 3 through 5. The manager replies that these assumptions are too dire because there has never been a time in their available database when HPA was negative.
+Bob Thompson has been doing research for the portfolio manager of the fixed-income department. His assignment is to do sensitivity analysis on securitized subprime mortgages. He has discussed with the manager possible scenarios to use to calculate expected returns. A key assumption in such calculations is housing price appreciation (HPA) because it drives “prepays” (prepayments of mortgages) and losses. Thompson is concerned with the significant appreciation experienced over the previous five years as a result of the increased availability of funds from subprime mortgages. Thompson insists that the analysis should include a scenario run with –10% for Year 1, –5% for Year 2, and then (to project a worst-case scenario) 0% for Years 3 through 5. *The manager replies that these assumptions are too dire because there has never been a time in their available database when HPA was negative.*
 
 Thompson conducts his research to better understand the risks inherent in these securities and evaluates these securities in the worst-case scenario, an unlikely but possible environment. Based on the results of the enhanced scenarios, Thompson does not recommend the purchase of the securitization. Against the general market trends, the manager follows Thompson’s recommendation and does not invest. The following year, the housing market collapses. In avoiding the subprime investments, the manager’s portfolio outperforms its peer group that year.
 
 > Comment: Thompson’s actions in running the worst-case scenario against the protests of the portfolio manager are in alignment with the principles of Standard I(B). Thompson did not allow his research to be pressured by the general trends of the market or the manager’s desire to limit the research to historical norms.
 
-See also Standard V(A)–Diligence and Reasonable Basis.
+> *See also Standard V(A)–Diligence and Reasonable Basis.*
 
-*Example 13 (Influencing Manager Selection Decisions):*
+*Example 13 (Influencing Manager Selection Decisions):(影响上级的选择决定)*
 
 Adrian Mandel, CFA, is a senior portfolio manager for ZZYY Capital Management who oversees a team of investment professionals who manage labor union pension funds. A few years ago, ZZYY sought to win a competitive asset manager search to manage a significant allocation of the pension fund of the United Doughnut and Pretzel Bakers Union (UDPBU). UDPBU’s investment board is chaired by a recognized key decision maker and long-time leader of the union, Ernesto Gomez. To improve ZZYY’s chances of winning the competition, Mandel made significant monetary contributions to Gomez’s union reelection campaign fund. Even after ZZYY was hired as a primary manager of the pension, Mandel believed that his firm’s position was not secure. Mandel continued to contribute to Gomez’s reelection campaign chest as well as to entertain lavishly the union leader and his family at top restaurants on a regular basis. All of Mandel’s outlays were routinely handled as marketing expenses reimbursed by ZZYY’s expense accounts and were disclosed to his senior management as being instrumental in maintaining a strong close relationship with an important client.
 
 > Comment: Mandel not only offered but actually gave monetary gifts, benefits, and other considerations that reasonably could be expected to compromise Gomez’s objectivity. Therefore, Mandel was in violation of Standard I(B).
 
-*Example 14 (Influencing Manager Selection Decisions):*
+*Example 14 (Influencing Manager Selection Decisions):(影响上级的选择决定)*
 
 Adrian Mandel, CFA, had heard about the manager search competition for the UDPBU Pension Fund through a broker/dealer contact. The contact told him that a well-known retired professional golfer, Bobby “The Bear” Finlay, who had become a licensed broker/dealer serving as a pension consultant, was orchestrating the UDPBU manager search. Finlay had gained celebrity status with several labor union pension fund boards by entertaining their respective board members and regaling them with colorful stories of fellow pro golfers’ antics in clubhouses around the world. Mandel decided to improve ZZYY’s chances of being invited to participate in the search competition by befriending Finlay to curry his favor. Knowing Finlay’s love of entertainment, Mandel wined and dined Finlay at high-profile bistros where Finlay could glow in the fan recognition lavished on him by all the other patrons. Mandel’s endeavors paid off handsomely when Finlay recommended to the UDPBU board that ZZYY be entered as one of three finalist asset management firms in its search.
 
 > Comment: Similar to Example 13, Mandel lavished gifts, benefits, and other considerations in the form of expensive entertainment that could reasonably be expected to influence the consultant to recommend the hiring of his firm. Therefore, Mandel was in violation of Standard I(B).
 
-*Example 15 (Fund Manager Relationships):*
+*Example 15 (Fund Manager Relationships):(基金经理的关系)*
 
-Amie Scott is a performance analyst within her firm with responsibilities for analyzing the performance of external managers. While completing her quarterly analysis, Scott notices a change in one manager’s reported composite construction. The change concealed the bad performance of a particularly large account by placing that account into a new residual composite. This change allowed the manager to remain at the top of the list of manager performance. Scott knows her firm has a large allocation to this manager, and the fund’s manager is a close personal friend of the CEO. She needs to deliver her final report but is concerned with pointing out the composite change.
+Amie Scott is a performance analyst within her firm with responsibilities for analyzing the performance of external managers. While completing her quarterly analysis, Scott notices a change in one manager’s reported composite construction. The change concealed the bad performance of a particularly large account by placing that account into a new residual composite. This change allowed the manager to remain at the top of the list of manager performance. *Scott knows her firm has a large allocation to this manager, and the fund’s manager is a close personal friend of the CEO.* She needs to deliver her final report but is concerned with pointing out the composite change.
 
 > Comment: Scott would be in violation of Standard I(B) if she did not disclose the change in her final report. The analysis of managers’ performance should not be influenced by personal relationships or the size of the allocation to the outside managers. By not including the change, Scott would not be providing an independent analysis of the performance metrics for her firm.
 
-*Example 16 (Intrafirm Pressure):*
+*Example 16 (Intrafirm Pressure):(企业内压力)*
 
 Jill Stein is head of performance measurement for her firm. During the last quarter, many members of the organization’s research department were removed because of the poor quality of their recommendations. The subpar research caused one larger account holder to experience significant underperformance, which resulted in the client withdrawing his money after the end of the quarter. The head of sales requests that Stein remove this account from the firm’s performance composite because the performance decline can be attributed to the departed research team and not the client’s adviser.
 
@@ -330,7 +330,7 @@ Jill Stein is head of performance measurement for her firm. During the last quar
 ## Standard I(C) Misrepresentation(虚假陈述)<a name="I_C"></a>
 ### Guidance
 
-Trust is the foundation of the investment profession. Investors must be able to rely on the statements and information provided to them by those with whom the investors have trusted their financial well-being. Investment professionals who make false or misleading statements not only harm investors but also reduce the level of investor confidence in the investment profession and threaten the integrity of capital markets as a whole.
+Trust is the foundation of the investment profession. Investors must be able to rely on the statements and information provided to them by those with whom the investors have trusted their financial well-being. Investment professionals who **make false or misleading statements** not only harm investors but also reduce the level of investor confidence in the investment profession and threaten the integrity of capital markets as a whole.
 
 > **诚信很重要**
 
@@ -340,7 +340,7 @@ Written materials include, but are not limited to, research reports, underwritin
 
 *Standard I(C) prohibits members and candidates from guaranteeing clients any specific return on volatile investments.* Most investments contain some element of risk that makes their return inherently unpredictable. For such investments, guaranteeing either a particular rate of return or a guaranteed preservation of investment capital (e.g., “I can guarantee that you will earn 8% on equities this year” or “I can guarantee that you will not lose money on this investment”) is misleading to investors. Standard I(C) does not prohibit members and candidates from providing clients with information on investment products that have guarantees built into the structure of the products themselves or for which an institution has agreed to cover any losses.
 
-#### Impact on Investment Practice
++ Impact on Investment Practice
 
 Members and candidates must not misrepresent any aspect of their practice, including (but not limited to) their qualifications or credentials, the qualifications or services provided by their firm, their performance record and the record of their firm, and the characteristics of an investment. Any misrepresentation made by a member or candidate relating to the member’s or candidate’s professional activities is a breach of this standard.
 
@@ -348,7 +348,7 @@ Members and candidates should exercise care and diligence when incorporating thi
 
 Investing through outside managers continues to expand as an acceptable method of investing in areas outside a firm’s core competencies. Members and candidates must disclose their intended use of external managers and must not represent those managers’ investment practices as their own. Although the level of involvement of outside managers may change over time, appropriate disclosures by members and candidates are important in avoiding misrepresentations, especially if the primary activity is to invest directly with a single external manager. Standard V(B)–Communication with Clients and Prospective Clients discusses in further detail communicating the firm’s investment practices.
 
-#### Performance Reporting
++ Performance Reporting
 
 The performance benchmark selection process is another area where misrepresentations may occur. Members and candidates may misrepresent the success of their performance record through presenting benchmarks that are not comparable to their strategies. Further, clients can be misled if the benchmark’s results are not reported on a basis comparable to that of the fund’s or client’s results. Best practice is selecting the most appropriate available benchmark from a universe of available options. The transparent presentation of appropriate performance benchmarks is an important aspect in providing clients with information that is useful in making investment decisions.
 
@@ -358,19 +358,19 @@ Reporting misrepresentations may also occur when valuations for illiquid or non-
 
 Members and candidates should take reasonable steps to provide accurate and reliable security pricing information to clients on a consistent basis. Changing pricing providers should not be based solely on the justification that the new provider reports a higher current value of a security. Consistency in the reported information will improve the perception of the valuation process for illiquid securities. Clients will likely have additional confidence that they were able to make an informed decision about continuing to hold these securities in their portfolios.
 
-#### Social Media
++ Social Media
 
 The advancement of online discussion forums and communication platforms, commonly referred to as “social media,” is placing additional responsibilities on members and candidates. When communicating through social media channels, members and candidates should provide only the same information they are allowed to distribute to clients and potential clients through other traditional forms of communication. The online or interactive aspects of social media do not remove the need to be open and honest about the information being distributed.
 
 Along with understanding and following existing and newly developing rules and regulations regarding the allowed use of social media, members and candidates should also ensure that all communications in this format adhere to the requirements of the Code and Standards. The perceived anonymity granted through these platforms may entice individuals to misrepresent their qualifications or abilities or those of their employer. Actions undertaken through social media that knowingly misrepresent investment recommendations or professional activities are considered a violation of Standard I(C).
 
-#### Omissions
++ Omissions(遗漏)
 
 The omission of a fact or outcome can be misleading, especially given the growing use of models and technical analysis processes. Many members and candidates rely on such models and processes to scan for new investment opportunities, to develop investment vehicles, and to produce investment recommendations and ratings. When inputs are knowingly omitted, the resulting outcomes may provide misleading information to those who rely on it for making investment decisions. Additionally, the outcomes from models shall not be presented as fact because they represent the expected results based on the inputs and analysis process incorporated.
 
 Omissions in the performance measurement and attribution process can also misrepresent a manager’s performance and skill. Members and candidates should encourage their firms to develop strict policies for composite development to prevent cherry picking—situations in which selected accounts are presented as representative of the firm’s abilities. The omission of any accounts appropriate for the defined composite may misrepresent to clients the success of the manager’s implementation of its strategy.
 
-#### Plagiarism
++ Plagiarism(剽窃)
 
 Standard I(C) also prohibits plagiarism in the preparation of material for distribution to employers, associates, clients, prospects, or the general public. Plagiarism is defined as copying or using in substantially the same form materials prepared by others without acknowledging the source of the material or identifying the author and publisher of such material. Members and candidates must not copy (or represent as their own) original ideas or material without permission and must acknowledge and identify the source of ideas or material that is not their own.
 
@@ -384,48 +384,48 @@ Standard I(C) also applies to plagiarism in oral communications, such as through
 
 One of the most egregious practices in violation of this standard is the preparation of research reports based on multiple sources of information without acknowledging the sources. Examples of information from such sources include ideas, statistical compilations, and forecasts combined to give the appearance of original work. Although there is no monopoly on ideas, members and candidates must give credit where it is clearly due. Analysts should not use undocumented forecasts, earnings projections, asset values, and so on. Sources must be revealed to bring the responsibility directly back to the author of the report or the firm involved.
 
-#### Work Completed for Employer
++ Work Completed for Employer
 
-The preceding paragraphs address actions that would constitute a violation of Standard I(C). In some situations, however, members or candidates may use research conducted or models developed by others within the same firm without committing a violation. The most common example relates to the situation in which one (or more) of the original analysts is no longer with the firm. Research and models developed while employed by a firm are the property of the firm. The firm retains the right to continue using the work completed after a member or candidate has left the organization. The firm may issue future reports without providing attribution to the prior analysts. A member or candidate cannot, however, reissue a previously released report solely under his or her name.
+**如果去其他公司,不能使用上一家公司的研究成果**The preceding paragraphs address actions that would constitute a violation of Standard I(C). In some situations, however, members or candidates may use research conducted or models developed by others within the same firm without committing a violation. *The most common example relates to the situation in which one (or more) of the original analysts is no longer with the firm.* Research and models developed while employed by a firm are the property of the firm. The firm retains the right to continue using the work completed after a member or candidate has left the organization. The firm may issue future reports without providing attribution to the prior analysts. A member or candidate cannot, however, reissue a previously released report solely under his or her name.
 
 ### Recommended Procedures for Compliance
 
-#### Factual Presentations
++ Factual Presentations(事实展示)
 
 Members and candidates can prevent unintentional misrepresentations of their qualifications or the services they or their firms provide if each member and candidate understands the limit of the firm’s or individual’s capabilities and the need to be accurate and complete in presentations. Firms can provide guidance for employees who make written or oral presentations to clients or potential clients by providing a written list of the firm’s available services and a description of the firm’s qualifications. This list should suggest ways of describing the firm’s services, qualifications, and compensation that are both accurate and suitable for client or customer presentations. Firms can also help prevent misrepresentation by specifically designating which employees are authorized to speak on behalf of the firm. Regardless of whether the firm provides guidance, members and candidates should make certain that they understand the services the firm can perform and its qualifications.
 
-#### Qualification Summary
++ Qualification Summary
 
 In addition, to ensure accurate presentations to clients, each member and candidate should prepare a summary of his or her own qualifications and experience and a list of the services the member or candidate is capable of performing. Firms can assist member and candidate compliance by periodically reviewing employee correspondence and documents that contain representations of individual or firm qualifications.
 
-#### Verify Outside Information
++ Verify Outside Information
 
 When providing information to clients from a third party, members and candidates share a responsibility for the accuracy of the marketing and distribution materials that pertain to the third party’s capabilities, services, and products. Misrepresentation by third parties can damage the member’s or candidate’s reputation, the reputation of the firm, and the integrity of the capital markets. Members and candidates should encourage their employers to develop procedures for verifying information of third-party firms.
 
-#### Maintain Webpages
++ Maintain Webpages
 
 Members and candidates who publish a webpage should regularly monitor materials posted on the site to ensure that the site contains current information. Members and candidates should also ensure that all reasonable precautions have been taken to protect the site’s integrity, confidentiality, and security and that the site does not misrepresent any information and provides full disclosure.
 
-#### Plagiarism Policy
++ Plagiarism Policy
 
 To avoid plagiarism in preparing research reports or conclusions of analysis, members and candidates should take the following steps:
 
-- Maintain copies: Keep copies of all research reports, articles containing research ideas, material with new statistical methodologies, and other materials that were relied on in preparing the research report.
+    + Maintain copies: Keep copies of all research reports, articles containing research ideas, material with new statistical methodologies, and other materials that were relied on in preparing the research report.
 
-- Attribute quotations: Attribute to their sources any direct quotations, including projections, tables, statistics, model/product ideas, and new methodologies prepared by persons other than recognized financial and statistical reporting services or similar sources.
+    + Attribute quotations: Attribute to their sources any direct quotations, including projections, tables, statistics, model/product ideas, and new methodologies prepared by persons other than recognized financial and statistical reporting services or similar sources.
 
-- Attribute summaries: Attribute to their sources any paraphrases or summaries of material prepared by others. For example, to support his analysis of Brown Company’s competitive position, the author of a research report on Brown might summarize another analyst’s report on Brown’s chief competitor, but the author of the Brown report must acknowledge in his own report the reliance on the other analyst’s report.
+    + Attribute summaries: Attribute to their sources any paraphrases or summaries of material prepared by others. For example, to support his analysis of Brown Company’s competitive position, the author of a research report on Brown might summarize another analyst’s report on Brown’s chief competitor, but the author of the Brown report must acknowledge in his own report the reliance on the other analyst’s report.
 
 
 ### Application of the Standard
 
 *Example 1 (Disclosure of Issuer-Paid Research):*
 
-Anthony McGuire is an issuer-paid analyst hired by publicly traded companies to electronically promote their stocks. McGuire creates a website that promotes his research efforts as a seemingly independent analyst. McGuire posts a profile and a strong buy recommendation for each company on the website indicating that the stock is expected to increase in value. He does not disclose the contractual relationships with the companies he covers on his website, in the research reports he issues, or in the statements he makes about the companies in internet chat rooms.
+Anthony McGuire is an issuer-paid analyst hired by publicly traded companies to electronically promote their stocks. McGuire creates a website that promotes his research efforts as a seemingly independent analyst. McGuire posts a profile and a strong buy recommendation for each company on the website indicating that the stock is expected to increase in value. *He does not disclose the contractual relationships with the companies he covers on his website, in the research reports he issues, or in the statements he makes about the companies in internet chat rooms.*
 
-> Comment: McGuire has violated Standard I(C) because the website is misleading to potential investors. Even if the recommendations are valid and supported with thorough research, his omissions regarding the true relationship between himself and the companies he covers constitute a misrepresentation. McGuire has also violated Standard VI(A)–Disclosure of Conflicts by not disclosing the existence of an arrangement with the companies through which he receives compensation in exchange for his services.
+> Comment: McGuire has violated Standard I(C) because the website is **misleading to potential investors**. Even if the recommendations are valid and supported with thorough research, his omissions regarding the true relationship between himself and the companies he covers constitute a misrepresentation. McGuire has also violated Standard VI(A)–Disclosure of Conflicts by not disclosing the existence of an arrangement with the companies through which he receives compensation in exchange for his services.
 
-*Example 2 (Correction of Unintentional Errors):*
+*Example 2 (Correction of Unintentional Errors):(更正非故意的错误)*
 
 Hijan Yao is responsible for the creation and distribution of the marketing materials for his firm, which claims compliance with the GIPS standards. Yao creates and distributes a presentation of performance by the firm’s Asian equity composite that states the composite has ¥350 billion in assets. In fact, the composite has only ¥35 billion in assets, and the higher figure on the presentation is a result of a typographical error. Nevertheless, the erroneous material is distributed to a number of clients before Yao catches the mistake.
 
