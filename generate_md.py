@@ -1,6 +1,7 @@
 import markdown2
 import os, sys
 import codecs
+import re
 
 output = """
 <html>
@@ -22,8 +23,18 @@ output = """
     <div id="content">
 """
 
+headlines = []
+
+def grab_headlines(content):
+    regex_h1 = re.compile('^#\s+(.*?)<a.*a>$')
+    regex_h2 = re.compile('^##\s+(.*?)<a.*a>$')
+    for line in content.split('\r\n'):
+        m = regex_h1.match(line)
+        if m:
+            headlines.append(m.group(1))
 
 mkin = codecs.open(sys.argv[1], 'r', 'utf-8')
+#grab_headlines(mkin.read())
 output += markdown2.markdown(mkin.read(), extras=['fenced-code-blocks', 'cuddled-lists'])
 output += '</div></body></html>'
 

@@ -902,6 +902,8 @@ Allen King is a performance analyst for Torrey Investment Funds. King believes t
 
 # Standard III: Duties to Clients<a name="III"></a>(对客户的责任)
 
+**主要是和客户有关的,首先对客户忠诚,其次公平对待,提出合适的投资建议,投资行为,在陈述投资业绩的时候也要公平,最后还要对客户保密**
+
 ## Standard III(A) Loyalty, Prudence, and Care(忠诚,审慎,关心)<a name="III_A"></a>
 
 **代理客户的投资**
@@ -1327,13 +1329,13 @@ Andre Shrub owns and operates Conduit, an investment advisory firm. Prior to ope
 > See also Standard V(A)–Diligence and Reasonable Basis.
 
 ## Standard III(D) Performance Presentation(陈述投资业绩)<a name="III_D"></a>
-**When communicating investment performance information, Members and Candidates must make reasonable efforts to ensure that it is fair, accurate, and complete.**
+**When communicating investment performance information, Members and Candidates must make reasonable efforts to ensure that it is fair, accurate, and complete.(公正,准确,完备)**
 
 ### Guidance
 
-Standard III(D) requires members and candidates to provide credible performance information to clients and prospective clients and to avoid misstating performance or misleading clients and prospective clients about the investment performance of members or candidates or their firms. This standard encourages full disclosure of investment performance data to clients and prospective clients.
+Standard III(D) requires members and candidates to provide credible performance information to clients and prospective clients and to *avoid misstating performance or misleading clients and prospective clients* about the investment performance of members or candidates or their firms. This standard *encourages full disclosure of investment performance data* to clients and prospective clients.
 
-Standard III(D) covers any practice that would lead to misrepresentation of a member’s or candidate’s performance record, whether the practice involves performance presentation or performance measurement. This standard prohibits misrepresentations of past performance or reasonably expected performance. A member or candidate must give a fair and complete presentation of performance information whenever communicating data with respect to the performance history of individual accounts, composites or groups of accounts, or composites of an analyst’s or firm’s performance results. Furthermore, members and candidates should not state or imply that clients will obtain or benefit from a rate of return that was generated in the past.
+Standard III(D) covers any practice that would lead to misrepresentation of a member’s or candidate’s performance record, whether the practice involves performance presentation or performance measurement. **This standard prohibits misrepresentations of past performance or reasonably expected performance.** A member or candidate must give a fair and complete presentation of performance information whenever communicating data with respect to the performance history of individual accounts, composites or groups of accounts, or composites of an analyst’s or firm’s performance results. Furthermore, members and candidates should not state or imply that clients will obtain or benefit from a rate of return that was generated in the past.
 
 The requirements of this standard are not limited to members and candidates managing separate accounts. Whenever a member or candidate provides performance information for which the manager is claiming responsibility, such as for pooled funds, the history must be accurate. Research analysts promoting the success or accuracy of their recommendations must ensure that their claims are fair, accurate, and complete.
 
@@ -1420,7 +1422,7 @@ Richmond Equity Investors manages a long–short equity fund in which clients ca
 
 - The information concerns illegal activities on the part of the client;
 
-- Disclosure is required by law; or
+- Disclosure is required by law;
 
 - The client or prospective client permits disclosure of the information.
 
@@ -1428,19 +1430,19 @@ Richmond Equity Investors manages a long–short equity fund in which clients ca
 
 Standard III(E) requires that members and candidates preserve the confidentiality of information communicated to them by their clients, prospective clients, and former clients. This standard is applicable when (1) the member or candidate receives information because of his or her special ability to conduct a portion of the client’s business or personal affairs and (2) the member or candidate receives information that arises from or is relevant to that portion of the client’s business that is the subject of the special or confidential relationship. If disclosure of the information is required by law or the information concerns illegal activities by the client, however, the member or candidate may have an obligation to report the activities to the appropriate authorities.
 
-#### Status of Client
++ Status of Client
 
 This standard protects the confidentiality of client information even if the person or entity is no longer a client of the member or candidate. Therefore, members and candidates must continue to maintain the confidentiality of client records even after the client relationship has ended. If a client or former client expressly authorizes the member or candidate to disclose information, however, the member or candidate may follow the terms of the authorization and provide the information.
 
-#### Compliance with Laws
++ Compliance with Laws
 
-As a general matter, members and candidates must comply with applicable law. If applicable law requires disclosure of client information in certain circumstances, members and candidates must comply with the law. Similarly, if applicable law requires members and candidates to maintain confidentiality, even if the information concerns illegal activities on the part of the client, members and candidates should not disclose such information. Additionally, applicable laws, such as inter-departmental communication restrictions within financial institutions, can impose limitations on information flow about a client within an entity that may lead to a violation of confidentiality. When in doubt, members and candidates should consult with their employer’s compliance personnel or legal counsel before disclosing confidential information about clients.
+As a general matter, members and candidates must comply with applicable law. *If applicable law requires disclosure of client information in certain circumstances, members and candidates must comply with the law.* Similarly, if applicable law requires members and candidates to maintain confidentiality, even if the information concerns illegal activities on the part of the client, members and candidates should not disclose such information. Additionally, applicable laws, such as inter-departmental communication restrictions within financial institutions, can impose limitations on information flow about a client within an entity that may lead to a violation of confidentiality. When in doubt, members and candidates should consult with their employer’s compliance personnel or legal counsel before disclosing confidential information about clients.
 
-#### Electronic Information and Security
++ Electronic Information and Security
 
 Because of the ever-increasing volume of electronically stored information, members and candidates need to be particularly aware of possible accidental disclosures. Many employers have strict policies about how to electronically communicate sensitive client information and store client information on personal laptops, mobile devices, or portable disk/flash drives. In recent years, regulatory authorities have imposed stricter data security laws applying to the use of mobile remote digital communication, including the use of social media, that must be considered. Standard III(E) does not require members or candidates to become experts in information security technology, but they should have a thorough understanding of the policies of their employer. The size and operations of the firm will lead to differing policies for ensuring the security of confidential information maintained within the firm. Members and candidates should encourage their firm to conduct regular periodic training on confidentiality procedures for all firm personnel, including portfolio associates, receptionists, and other non-investment staff who have routine direct contact with clients and their records.
 
-#### Professional Conduct Investigations by CFA Institute
++ Professional Conduct Investigations by CFA Institute
 
 The requirements of Standard III(E) are not intended to prevent members and candidates from cooperating with an investigation by the CFA Institute Professional Conduct Program (PCP). When permissible under applicable law, members and candidates shall consider the PCP an extension of themselves when requested to provide information about a client in support of a PCP investigation into their own conduct. Members and candidates are encouraged to cooperate with investigations into the conduct of others. Any information turned over to the PCP is kept in the strictest confidence. Members and candidates will not be considered in violation of this standard by forwarding confidential information to the PCP.
 
