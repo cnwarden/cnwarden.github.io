@@ -1,0 +1,33 @@
+
+<html>
+    <head> 
+        <meta charset="UTF-8"> 
+        <meta http-equiv="X-UA-Compatible" content="chrome=1">
+        <link rel="stylesheet" type="text/css" href="pygments-css/default.css" />
+        <link rel="stylesheet" type="text/css" href="css/markdown.css" />
+        <link rel="stylesheet" type="text/css" href="css/owner.css" />
+        <link href='http://fonts.useso.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    </head>
+<body>
+    <div id="nav">
+        <ul>
+          <li class="pull_left"><a href="#">CFA</a></li>
+          <li class="pull_left"><a>About</a></li>
+        </ul>
+    </div>
+    <div id="content">
+<h1>C++</h1>
+
+<h4>What's the proper use of printf to display pointers padded with 0s</h4>
+
+<p><a href="http://stackoverflow.com/questions/1255099/whats-the-proper-use-of-printf-to-display-pointers-padded-with-0s">stackoverflow</a></p>
+
+<div class="codehilite"><pre><code><span class="cp">#include &lt;inttypes.h&gt;</span>
+<span class="cp">#include &lt;stdint.h&gt;</span>
+<span class="n">printf</span><span class="p">(</span><span class="s">&quot;%016&quot;</span> <span class="n">PRIxPTR</span> <span class="s">&quot;</span><span class="se">\n</span><span class="s">&quot;</span><span class="p">,</span> <span class="p">(</span><span class="kt">uintptr_t</span><span class="p">)</span><span class="n">ptr</span><span class="p">);</span>
+</code></pre></div>
+
+<p><a href="http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/">Linux performance tools</a></p>
+
+<h4>Htop</h4>
+</div></body></html>

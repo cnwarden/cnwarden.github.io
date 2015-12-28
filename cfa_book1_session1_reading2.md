@@ -46,6 +46,7 @@ The candidate should be able to:
 ## Standard I(A) Knowledge of the Law<a name="I_A"></a>
 
 **解题指南:知道那种标准适用,适用法律还是行为准则,所以要不断学习新的法律,如果不确定,可以咨询法律部门.时刻保持警惕.自己不能犯错误,如果他人违反准则,应当采取措施来停止行为,不过不行,至少自己也应当退出**
+**并不强制要求member进行向协会或者法律机构进行检举**
 
 + Relationship between the Code and Standards and Applicable Law(**行为规范和适用法律**)
 + Participation in or Association with Violations by Others(**参与或者和他人违反的行为的关系**)
