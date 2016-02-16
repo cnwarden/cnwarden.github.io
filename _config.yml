@@ -1,0 +1,14 @@
+# Site settings
+gems:
+    - jemoji
+title: XI ER QI
+email: cnwarden@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  www.xierqi.net
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cnwarden.github.io" # the base hostname & protocol for your site
+twitter_username: cnwarden
+github_username:  cnwarden
+
+# Build settings
+markdown: kramdown

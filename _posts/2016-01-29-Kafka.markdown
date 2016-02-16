@@ -1,0 +1,25 @@
+---
+layout: post_mine
+title:  "Kafka"
+categories: Tech
+---
+
+# When Kafka born
+
+Back in 2010 (IIRC), LinkedIn wanted to move to something different to handle event log processing because the existing system was fragile, not very scalable, and used XML (!) as the format.  Flume(v1) was still very much in its early days.  Cloudera was invited over to talk about Flume to see if it would meet our needs.  Two big points came out of that discussion:
+
+1. Flume was extremely hard to manage because it didn't multiplex connections.  It was essentially one socket per log type.  This was thought to be sort of ridiculous, especially given that syslog and other daemons had been doing this for a very long time.  To add to the overhead, Flume required that there be a different configuration file per socket that was opened. 
+
+2. We wanted a client pull rather than a  push to client for various reasons, many of which Jay Kreps and others from the Kafka team have documented elsewhere.  It was asked if Flume could be modified to reverse the polarity a bit.  The answer was (mostly) no.  ("Patches accepted!")
+
+It was pretty clear that the team was going to need to build something different to handle our needs.  Thus Kafka was born. Since that time, I believe the first point has been fixed but the second is still true in Flume v2.
+
+# Second Option
+
+* I believe Kafka provides back pressure to prevent overflowing a broker. I don't believe Flume, Flume NG supports the same. Kafka brokers default to storing events for two weeks on disk.
+
+* To get data out of Flume, you use a sink, which writes to your target store (HDFS, HBase, Cassandra etc). Flume will re-try connections to your sinks if they are offline. Because Flume pushes data, you have to do some interesting work to sink data to two data stores.. which requires replicating your channels, one for each sink. Start with figure 1: [Architecture of Flume NG : Apache Flume](http://blogs.apache.org/flume/entry/flume_ng_architecture)
+
+	** With Kafka you pull data, so each consumer has and manages it's own read pointer. This allows a large number of consumers of each Kafka queue, that pull data at their own pace.
+
+	** With this, you could deliver your event streams to HBase, Cassandra, Storm, Hadoop, RDBMS all in parallel.
