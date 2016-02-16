@@ -54,7 +54,7 @@ categories: update
 
 ### [K近邻](#)
 
-### [朴素贝叶斯](#)
+### [朴素贝叶斯](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 
 ![zhihu](/images/zhihu_16.png)[请用简单易懂的语言描述朴素贝叶斯分类器](https://www.zhihu.com/question/19960417)
 
