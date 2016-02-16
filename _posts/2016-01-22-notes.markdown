@@ -60,6 +60,8 @@ categories: update
 
 ![zhihu](/images/zhihu_16.png)[朴素贝叶斯分类器和一般的贝叶斯分类器有什么区别](https://www.zhihu.com/question/20138060)
 
+[数学之美番外篇：平凡而又神奇的贝叶斯方法](http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/)
+
 ## 2016-02-15
 
 `SVM`
