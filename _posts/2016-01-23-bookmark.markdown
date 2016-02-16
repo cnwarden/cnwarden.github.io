@@ -7,7 +7,8 @@ categories: Tech
 
 # 知乎书签
 
-[通过 Airbnb 出租或者找到房子的整体体验是怎样的？](https://www.zhihu.com/question/19848555/answer/86286654)
+![zhihu](/images/zhihu_16.png)[通过 Airbnb 出租或者找到房子的整体体验是怎样的？](https://www.zhihu.com/question/19848555/answer/86286654)
+![zhihu](/images/zhihu_16.png)[日文字体](https://www.zhihu.com/question/19998028)
 
 # 安全座椅
 
