@@ -56,7 +56,7 @@ categories: update
 
 ### [朴素贝叶斯](#)
 
-![zhihu](images/zhihu.png)[请用简单易懂的语言描述朴素贝叶斯分类器](https://www.zhihu.com/question/19960417)
+![zhihu](/images/zhihu.png)[请用简单易懂的语言描述朴素贝叶斯分类器](https://www.zhihu.com/question/19960417)
 
 [朴素贝叶斯分类器和一般的贝叶斯分类器有什么区别](https://www.zhihu.com/question/20138060)
 
