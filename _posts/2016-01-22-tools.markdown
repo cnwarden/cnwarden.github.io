@@ -8,6 +8,10 @@ categories: update
 Tools
 ----------------------------
 
+## Angular 2
+
+[webpack](https://github.com/AngularClass/angular2-webpack-starter)
+
 ## VS Code
 
 [Hidden derived js](https://code.visualstudio.com/docs/languages/typescript#_hiding-derived-javascript-files)
