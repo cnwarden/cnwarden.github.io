@@ -11,6 +11,7 @@ Tools
 ## Angular 2
 
 [webpack](https://github.com/AngularClass/angular2-webpack-starter)
+[bookmark-1](http://www.sitepoint.com/angular-2-components-inputs-outputs/)
 
 ## VS Code
 
