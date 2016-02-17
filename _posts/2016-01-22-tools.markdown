@@ -11,7 +11,10 @@ Tools
 ## Angular 2
 
 [webpack](https://github.com/AngularClass/angular2-webpack-starter)
+
 [bookmark-1](http://www.sitepoint.com/angular-2-components-inputs-outputs/)
+
+[es example](https://github.com/spalger/esjs-angular2-test/blob/master/app/app.component.ts)
 
 ## VS Code
 
