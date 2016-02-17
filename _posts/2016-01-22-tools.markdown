@@ -8,6 +8,19 @@ categories: update
 Tools
 ----------------------------
 
+## VS Code
+
+[Hidden derived js](https://code.visualstudio.com/docs/languages/typescript#_hiding-derived-javascript-files)
+
+```json
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.exclude":{
+        "**/*.js": { "when": "$(basename).ts"}
+    }
+}
+```
+
 ### SublimeText
 
 [MarkdownLight](https://packagecontrol.io/packages/MarkdownLight)
