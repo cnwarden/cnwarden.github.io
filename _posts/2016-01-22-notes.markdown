@@ -62,6 +62,14 @@ categories: update
 
 [数学之美番外篇：平凡而又神奇的贝叶斯方法](http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/)
 
+### [决策树](#)
+
+[极大似然估计MLE](https://en.wikipedia.org/wiki/Maximum_likelihood)
+
+[2](http://blog.csdn.net/yanqingan/article/details/6125812)
+
+
+
 ## 2016-02-15
 
 `SVM`
