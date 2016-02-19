@@ -11,6 +11,8 @@ categories: update
 
 [机器学习该怎么入门？](https://www.zhihu.com/question/20691338)
 
+[如何快速成为数据分析师](https://www.zhihu.com/question/29265587)
+
 [机器学习有很多关于核函数的说法，核函数的定义和作用是什么？](https://www.zhihu.com/question/24627666)
 
 [如何用简单易懂的例子解释隐马尔可夫模型？](https://www.zhihu.com/question/20962240)
@@ -72,8 +74,11 @@ categories: update
 
 [希尔伯特空间](https://zh.wikipedia.org/wiki/希尔伯特空间)
 
-[](#)
+### [EM算法]
 
+![zhihu](/images/zhihu_16.png)[怎么通俗易懂地解释EM算法并且举个例子](https://www.zhihu.com/question/27976634)
+
+[EM（Expectation-Maximization）算法](http://blog.csdn.net/livecoldsun/article/details/40833829)
 
 ## 2016-02-15
 
