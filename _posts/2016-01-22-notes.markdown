@@ -68,6 +68,9 @@ categories: update
 
 [2](http://blog.csdn.net/yanqingan/article/details/6125812)
 
+[欧几里得空间](https://zh.wikipedia.org/wiki/欧几里得空间)
+
+[希尔伯特空间](https://zh.wikipedia.org/wiki/希尔伯特空间)
 
 
 ## 2016-02-15
