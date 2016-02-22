@@ -1,9 +1,10 @@
 ---
 layout: post_mine
-title:  auto generation
+title:  test
 date:   2016-02-22 07:19:20
 categories: update
 ---
+
 
 # 知乎问答：技术分析在对冲基金，投行自营交易部门的交易员眼里有多高的地位？
 
