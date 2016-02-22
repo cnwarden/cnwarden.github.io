@@ -8,6 +8,7 @@ categories: Tech
 # Dev
 
 [Emmet Cheat Sheat](http://docs.emmet.io/cheat-sheet/)
+[VS Code css](https://code.visualstudio.com/Docs/languages/css)
 
 # 知乎书签
 
