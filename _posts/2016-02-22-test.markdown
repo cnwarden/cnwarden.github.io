@@ -50,3 +50,5 @@ categories: update
 
 ### [中国经济不得不说的隐忧：东北经济](http://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=1128663519&idx=4&sn=27fe27d8bf98dcd39e918562784f0016&scene=0#wechat_redirect)
 
+### [今日头条【“树”不倒，人不散-数据结构树快速回顾】](http://toutiao.com/item/6253959549284254209/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
