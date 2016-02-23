@@ -17,3 +17,5 @@ categories: update
 
 ### [知乎问答：设计量化交易策略时有哪些会被新手忽视的重要的误区？如何能更好的提升交易系统的完整性？](http://www.zhihu.com/question/31138745/answer/54881777)
 
+### [知乎问答：如何评价 Kaizo Trap（孔明的陷阱） 这个短视频？](http://www.zhihu.com/question/40365972/answer/86325688)
+
