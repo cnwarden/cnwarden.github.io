@@ -22,5 +22,5 @@ categories: update
 
 ### [换个思路看12306，其核心模型设计思路到底复杂在哪里？](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=402866528&idx=1&sn=3a3e9a4c177ae9d1964b27694dba4628&scene=0&key=710a5d99946419d93b3ce410e39d163267d8ac8c4d5a175b0f280d0237ae5e6616545225c9732a572d2ba67e898bff15&ascene=7&uin=MjI4OTg2NjU%3D&devicetype=android-21&version=26030d33&nettype=cmnet&pass_ticket=4babP2Z%2B0aOBs83rgrsmfwSa0hppbQCXFYjvXwYCdAw%3D)
 
-### [今日头条【2016十家公司前端面试小记】](http://toutiao.com/item/6254324044569510401/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+### [今日头条【2016十家公司前端面试小记】](http://toutiao.com/item/6254324044569510401/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
