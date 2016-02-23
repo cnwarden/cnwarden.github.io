@@ -20,3 +20,5 @@ categories: update
 
 ### [开春赏花指南！春暖花开的日子就该来这里](https://mp.weixin.qq.com/s?__biz=MjM5NDcxMTE2NA==&mid=406088732&idx=1&sn=a212f3be2e9ba17389867c9f84cc2823&scene=0&key=710a5d99946419d90856bb6470100ba254e588e5148ff13f560453814bfc7138cecc7ef093722d54e62f2b1f49912e26&ascene=7&uin=MjI4OTg2NjU%3D&devicetype=android-21&version=26030d33&nettype=cmnet&pass_ticket=4babP2Z%2B0aOBs83rgrsmfwSa0hppbQCXFYjvXwYCdAw%3D)
 
+### [换个思路看12306，其核心模型设计思路到底复杂在哪里？](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=402866528&idx=1&sn=3a3e9a4c177ae9d1964b27694dba4628&scene=0&key=710a5d99946419d93b3ce410e39d163267d8ac8c4d5a175b0f280d0237ae5e6616545225c9732a572d2ba67e898bff15&ascene=7&uin=MjI4OTg2NjU%3D&devicetype=android-21&version=26030d33&nettype=cmnet&pass_ticket=4babP2Z%2B0aOBs83rgrsmfwSa0hppbQCXFYjvXwYCdAw%3D)
+
