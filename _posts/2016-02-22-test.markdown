@@ -46,3 +46,5 @@ categories: update
 
 ### [今日头条【Python 全栈开发 -- 开发环境篇】](http://toutiao.com/item/6254351600416981505/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+### [知乎问答：为什么劳力士没有陀飞轮？](http://www.zhihu.com/question/21533456/answer/87735044 （分享自知乎网）)
+
