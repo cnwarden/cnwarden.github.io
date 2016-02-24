@@ -52,3 +52,7 @@ categories: update
 
 ### [战略反攻开始了](http://mp.weixin.qq.com/s?__biz=MjM5MTY4NzM2OQ==&mid=402133784&idx=1&sn=611af26de553835a25e48b37ae2ee80f&scene=2&srcid=02206tRvnpH77jJBwBiwAWWp&from=timeline&isappinstalled=0#wechat_redirect)
 
+### [知乎问答：选股策略回测用matlab好还是用python好？](http://www.zhihu.com/question/30801713/answer/83455657)
+
+### [今日头条【Spark 2.0面纱半揭，相关细节引人遐想】](http://toutiao.com/item/6254667237861360130/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
