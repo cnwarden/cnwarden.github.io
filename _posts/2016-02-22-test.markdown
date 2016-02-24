@@ -54,3 +54,5 @@ categories: update
 
 ### [今日头条【谈谈MATLAB大数据处理】](http://toutiao.com/item/6254402402850439682/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+### [深度&nbsp;|&nbsp;Hadoop数据操作系统YARN全解析](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=402875530&idx=1&sn=08bc46908201bcfb7f3f563a54e44862&scene=0#wechat_redirect)
+
