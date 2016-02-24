@@ -72,3 +72,9 @@ categories: update
 
 ### [最近微信朋友圈和聊天发现有些人大小字体？到底怎么了](http://mp.weixin.qq.com/s?__biz=MzA4ODczODExNQ==&mid=402215094&idx=2&sn=8444eb8c11f7e6af0b82a5d6bf896dfc&scene=0#wechat_redirect)
 
+### [今日头条【react.js入门笔记】](http://toutiao.com/item/6254688948602274306/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+### [今日头条【机器学习掀起脑洞大开的创业风暴】](http://toutiao.com/item/6254004778083287554/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+### [今日头条【曾经风靡大江南北的方便面为啥没人爱吃了？康师傅20年来第一次慌了】](http://toutiao.com/item/6254732244976402945/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
