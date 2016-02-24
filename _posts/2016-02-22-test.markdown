@@ -56,3 +56,9 @@ categories: update
 
 ### [今日头条【Spark 2.0面纱半揭，相关细节引人遐想】](http://toutiao.com/item/6254667237861360130/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+### [今日头条【窥探算法之美妙--详细讲解寻找最长重复字符串的原理】](http://toutiao.com/item/6254485122842624514/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+### [今日头条【我国邻国原本有15个，为啥现在变成了14个国家！】](http://toutiao.com/item/6252872750638039553/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+### [育婴师都不知道的，史上最全儿童意外伤害处理方法！](http://mp.weixin.qq.com/s?__biz=MjM5MjUxODI4MA==&mid=403543010&idx=4&sn=dca3368156ae36b994d4770357c5bdd4&scene=0#wechat_redirect)
+
