@@ -150,3 +150,5 @@ categories: update
 
 ### [知乎问答：Boston Dynamics 的机器人 Atlas 和本田公司的机器人 ASIMO 哪个更加先进？](http://www.zhihu.com/question/22276239/answer/87960123)
 
+### [知乎问答：如何排出精美的中文论文？](http://www.zhihu.com/question/23229794/answer/87980498)
+
