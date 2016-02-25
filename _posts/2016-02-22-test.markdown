@@ -140,3 +140,5 @@ categories: update
 
 ### [今日头条【老王聊架构：架构师应该拥有什么样的坚守和执念？】](http://toutiao.com/item/6254842190443315713/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+### [即将召开的两会中的热点问题，这14本书提前告诉你](http://mp.weixin.qq.com/s?__biz=MjM5NjE2NjgyMA==&mid=404413984&idx=1&sn=144861af2f4e3b9bbe9c3b313047d922&scene=0#wechat_redirect)
+
