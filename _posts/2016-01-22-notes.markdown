@@ -21,6 +21,14 @@ categories: update
 
 [如何准备机器学习工程师的面试?](https://www.zhihu.com/question/23259302)
 
+## 人物
+
+[Michael Collins](http://www.cs.columbia.edu/~mcollins/)
+
+[Percy Liang](http://cs.stanford.edu/~pliang/)
+
+[Coursera](https://www.coursera.org/course/nlangp?authMode=login&action=enroll&sessionId=970276)
+
 ## BOOK
 
 [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/)
