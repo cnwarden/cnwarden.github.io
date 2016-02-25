@@ -92,3 +92,5 @@ categories: update
 
 ### [开源项目的正确打开方式：如何发明完美符合自己业务特点的轮子？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=402884021&idx=1&sn=cbd9c385f7eaa691c6f2eb36bfadd9d8&scene=0#wechat_redirect)
 
+### [今日头条【Java堆外内存之突破JVM枷锁】](http://toutiao.com/item/6254875430268961282/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
