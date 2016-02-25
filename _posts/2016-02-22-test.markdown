@@ -94,3 +94,9 @@ categories: update
 
 ### [今日头条【Java堆外内存之突破JVM枷锁】](http://toutiao.com/item/6254875430268961282/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+### [今日头条【大数据公开课无码高清剧透】](http://toutiao.com/item/6254830415358460418/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+### [今日头条【社交网络数据挖掘的前沿技术】](http://toutiao.com/item/6254791387401683457/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+### [今日头条【非欧几何诞生，学界漠视四十多年】](http://toutiao.com/item/6254879539688636930/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
