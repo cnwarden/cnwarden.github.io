@@ -90,3 +90,5 @@ categories: update
 
 ### [原来大家都在找的城北花鸟鱼虫搬到这里了。。。](http://mp.weixin.qq.com/s?__biz=MjM5ODE2ODM0MA==&mid=410176011&idx=1&sn=e11e1c626bcfe361089c9a1cc62b13bb&scene=0#wechat_redirect)
 
+### [开源项目的正确打开方式：如何发明完美符合自己业务特点的轮子？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=402884021&idx=1&sn=cbd9c385f7eaa691c6f2eb36bfadd9d8&scene=0#wechat_redirect)
+
