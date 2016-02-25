@@ -152,3 +152,7 @@ categories: update
 
 ### [知乎问答：如何排出精美的中文论文？](http://www.zhihu.com/question/23229794/answer/87980498)
 
+### [知乎文章：知识分子 - “史上最悲壮论文”，班车司机与诺贝尔奖](http://zhuanlan.zhihu.com/zhishifenzi/20413127)
+
+### [知乎文章：Langmuir先生的泡泡 - 油价太低怕裁员？也许大数据能救你一命](http://zhuanlan.zhihu.com/langmuir-bubble/20593168)
+
