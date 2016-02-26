@@ -15,3 +15,5 @@ title:  fav
 
 [周小川今天到底说了什么？重点都在这里](http://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=1140437992&idx=1&sn=37013e86a0badb41badc6c858fd1f1ff&scene=0#wechat_redirect)
 
+[今日头条【阿里云：2015大数据技术十大热点(PPT)】](http://toutiao.com/item/6255037016610701825/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
