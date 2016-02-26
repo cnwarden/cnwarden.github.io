@@ -172,3 +172,5 @@ categories: update
 
 ### [今日头条【为了应对数据大爆炸 百度投向了这个开源新项目】](http://toutiao.com/item/6255212039350780417/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+### [【识局焦点】从卖房炒股到疯狂买房不到一年：国际经验为何不适用中国楼市？](http://mp.weixin.qq.com/s?__biz=MjM5NzE4MTUyMw==&mid=402365136&idx=1&sn=f230e59bed3d317ea2328d6fbd43e9da&scene=0#wechat_redirect)
+
