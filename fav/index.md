@@ -13,3 +13,5 @@ title:  fav
 
 [今日头条【Yahoo 发布 CaffeOnSpark 人工智能源代码】](http://toutiao.com/item/6255502610367775233/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[周小川今天到底说了什么？重点都在这里](http://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=1140437992&idx=1&sn=37013e86a0badb41badc6c858fd1f1ff&scene=0#wechat_redirect)
+
