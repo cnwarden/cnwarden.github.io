@@ -17,3 +17,7 @@ title:  fav
 
 [今日头条【阿里云：2015大数据技术十大热点(PPT)】](http://toutiao.com/item/6255037016610701825/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[知乎问答：该如何评价高通骁龙820这款处理器？自主架构一定比华为麒麟950的公版ARM好吗？](http://www.zhihu.com/question/40765796)
+
+[None](http://www.zhihu.com/question/40765796)
+
