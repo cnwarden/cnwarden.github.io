@@ -3,7 +3,9 @@ layout: post_mine
 title:  machine learning
 ---
 
-# [NLP](https://en.wikipedia.org/wiki/Natural_language_processing)
+[NLP](https://en.wikipedia.org/wiki/Natural_language_processing)
+
+---------------------------------------------------------------
 
 # PROJECTS
 
