@@ -41,3 +41,7 @@ title:  fav
 
 [今日头条【谈谈MVC的版本变迁及新版本6.0发展方向】](http://toutiao.com/item/6256196281648022017/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【Hadoop技巧（01）：插件，终端权限】](http://toutiao.com/item/6256536495193063938/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【比较R语言机器学习算法的性能】](http://toutiao.com/item/6256528823479697921/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
