@@ -32,6 +32,10 @@ Stanford relation extractor is a Java implementation to find relations between t
 
 * [IOB2 notation](https://en.wikipedia.org/wiki/Inside_Outside_Beginning)
 
+# :star: RESOURCE
+
+* [http://www-nlp.stanford.edu/links/statnlp.html](http://www-nlp.stanford.edu/links/statnlp.html)
+
 # BOOKS
 
 * [The Handbook of Computational Linguistics and Natural Language Processing](https://books.google.com.hk/books?id=zBmom42eWPcC&pg=RA3-PT688&lpg=RA3-PT688&dq=Ratnaparkhi+thesis&source=bl&ots=N8F7p1qF62&sig=QS5ukHtyWeQYC_HOKsV1LfKZzmg&hl=zh-TW&sa=X&ved=0ahUKEwi05Pav-JvLAhWKl5QKHRXvDxcQ6AEIPTAE#v=onepage&q=Ratnaparkhi%20thesis&f=false)
