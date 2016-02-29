@@ -21,6 +21,8 @@ Stanford relation extractor is a Java implementation to find relations between t
 
 # [清华大学自然语言处理与社会人文计算实验室](http://nlp.csai.tsinghua.edu.cn/site2/)
 
+* [http://www.cis.upenn.edu/~chinese/](http://www.cis.upenn.edu/~chinese/)
+
 # TASK
 
 * [Chunk](http://www.chokkan.org/software/crfsuite/tutorial.html)
