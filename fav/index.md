@@ -55,3 +55,5 @@ title:  fav
 
 [2016年昌平区32件为民实事，哪件和你有关？](http://mp.weixin.qq.com/s?__biz=MzA4MTI4MDQzNQ==&mid=402017336&idx=1&sn=ba2c49cdfeb6aaef816f27fdd8d3d5c2&scene=0#wechat_redirect)
 
+[蜜蜡、琥珀等是否能作为孩子的磨牙棒使用？ - 三元小武的回答 - 知乎](http://www.zhihu.com/question/30737849/answer/49380476)
+
