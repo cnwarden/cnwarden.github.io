@@ -47,3 +47,7 @@ title:  fav
 
 [今日头条【Apache Arrow：一个跨平台的内存数据交换格式】](http://toutiao.com/item/6256524710197068290/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【overloader：在Python中实现重载】](http://toutiao.com/item/6256303507788268034/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【大数据：干货|自然语言处理(NLP)概念浅析及国内外学习资料】](http://toutiao.com/item/6256531098914783746/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
