@@ -15,10 +15,16 @@ It supports the most common NLP tasks, such as `tokenization, sentence segmentat
 
 Stanford relation extractor is a Java implementation to find relations between two entities. The current relation extraction model is trained on the relation types (except the `kill` relation) and data from the paper `Roth and Yih, Global inference for entity and relation identification via a linear programming formulation, 2007`, except instead of using the gold NER tags, we used the NER tags predicted by [Stanford NER classifier](http://nlp.stanford.edu/software/CRF-NER.shtml) to improve generalization.
 
+# TASK
+
+* [Chunk](http://www.chokkan.org/software/crfsuite/tutorial.html)
+
+> Text chunking divides a text into syntactically correlated parts of words. For example, the sentence “He reckons the current account deficit will narrow to only # 1.8 billion in September.” can be divided as follows:
+> [NP He ] [VP reckons ] [NP the current account deficit ] [VP will narrow ] [PP to ] [NP only # 1.8 billion ] [PP in ] [NP September ]
+
 # BOOKS
 
 * [The Handbook of Computational Linguistics and Natural Language Processing](https://books.google.com.hk/books?id=zBmom42eWPcC&pg=RA3-PT688&lpg=RA3-PT688&dq=Ratnaparkhi+thesis&source=bl&ots=N8F7p1qF62&sig=QS5ukHtyWeQYC_HOKsV1LfKZzmg&hl=zh-TW&sa=X&ved=0ahUKEwi05Pav-JvLAhWKl5QKHRXvDxcQ6AEIPTAE#v=onepage&q=Ratnaparkhi%20thesis&f=false)
-* 
 
 # PROJECTS
 
