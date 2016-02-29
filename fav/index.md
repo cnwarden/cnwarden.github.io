@@ -19,8 +19,6 @@ title:  fav
 
 [知乎问答：该如何评价高通骁龙820这款处理器？自主架构一定比华为麒麟950的公版ARM好吗？](http://www.zhihu.com/question/40765796)
 
-[None](http://www.zhihu.com/question/40765796)
-
 [一个习惯，帮你克服拖延症](http://mp.weixin.qq.com/s?__biz=MjM5NjA3OTM0MA==&mid=405534994&idx=1&sn=7115142fe2359db8f8629c24dcc9a81d&scene=0#wechat_redirect)
 
 [姐妹花争艳！](http://mp.weixin.qq.com/s?__biz=MzAxODIwNDkzMw==&mid=403886337&idx=1&sn=3dc740f73eb01388998769d78233322f&scene=0#wechat_redirect)
