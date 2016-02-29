@@ -22,6 +22,6 @@ Stanford relation extractor is a Java implementation to find relations between t
 
 # PROJECTS
 
-[UW NLPTools](https://github.com/knowitall/nlptools)
+* [UW NLPTools](https://github.com/knowitall/nlptools)
 
 
