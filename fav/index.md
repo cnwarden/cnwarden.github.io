@@ -31,3 +31,9 @@ title:  fav
 
 [德国和波兰有合并的可能性吗？ - 欧洲 - 知乎](https://www.zhihu.com/question/40354388)
 
+[今日头条【python进阶之路之文件处理】](http://toutiao.com/item/6256533668299276802/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【Guava库介绍之实用工具类】](http://toutiao.com/item/6256475483257438721/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【深度学习之一：CNN初见】](http://toutiao.com/item/6256362607825912321/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
