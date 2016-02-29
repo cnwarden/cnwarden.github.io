@@ -21,3 +21,13 @@ title:  fav
 
 [None](http://www.zhihu.com/question/40765796)
 
+[一个习惯，帮你克服拖延症](http://mp.weixin.qq.com/s?__biz=MjM5NjA3OTM0MA==&mid=405534994&idx=1&sn=7115142fe2359db8f8629c24dcc9a81d&scene=0#wechat_redirect)
+
+[姐妹花争艳！](http://mp.weixin.qq.com/s?__biz=MzAxODIwNDkzMw==&mid=403886337&idx=1&sn=3dc740f73eb01388998769d78233322f&scene=0#wechat_redirect)
+
+[今日头条【几个分布式基础算法】](http://toutiao.com/item/6256319278711046657/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[长文观点丨为什么我不再使用MVC框架？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=402913644&idx=1&sn=62bb9b5ab901480fed123b55205e1bfe&scene=0#wechat_redirect)
+
+[奥美庄淑芬TEDxTianhe演讲：打造你自己的品牌](http://mp.weixin.qq.com/s?__biz=MjM5NjU2NDkyNA==&mid=404293046&idx=1&sn=37bc41d5e2e3a09c40579ec611e1dfb7&scene=0#wechat_redirect)
+
