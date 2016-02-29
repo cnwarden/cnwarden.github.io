@@ -51,3 +51,5 @@ title:  fav
 
 [今日头条【大数据：干货|自然语言处理(NLP)概念浅析及国内外学习资料】](http://toutiao.com/item/6256531098914783746/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【延庆规划建设均围绕冬奥会 高铁有望2018年通车】](http://toutiao.com/item/6256437525624128001/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
