@@ -45,3 +45,5 @@ title:  fav
 
 [今日头条【比较R语言机器学习算法的性能】](http://toutiao.com/item/6256528823479697921/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【Apache Arrow：一个跨平台的内存数据交换格式】](http://toutiao.com/item/6256524710197068290/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
