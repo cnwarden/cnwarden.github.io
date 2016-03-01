@@ -73,3 +73,9 @@ Stanford relation extractor is a Java implementation to find relations between t
 
 * [REDDIT NLP](https://www.reddit.com/r/NLP/)
 
+# 学习笔记
+
+[Markov Process](https://en.wikipedia.org/wiki/Markov_chain)
+
+
+
