@@ -89,3 +89,11 @@ title:  fav
 
 [尤果女郎梦瑶&nbsp;复古写真。](http://mp.weixin.qq.com/s?__biz=MzAwMzI3NDYxMg==&mid=404950131&idx=1&sn=0b1c12715e0d1993da0a332576ca1a08&scene=7#wechat_redirect)
 
+[颤抖吧，房价！上海常住人口40年来首现负增长！](http://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=1151527168&idx=1&sn=75b9e35c61b3288e76084c40c4546df7&scene=0#wechat_redirect)
+
+[今日头条【想使用 MongoDB ，你应该了解这8个方面！】](http://toutiao.com/item/6256926326293266945/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【机器学习：入门方法与学习路径 (附资料)】](http://toutiao.com/item/6257002171842167298/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【机器学习简史——经理人必读】](http://toutiao.com/item/6256658044734669314/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
