@@ -75,3 +75,7 @@ title:  fav
 
 [今日头条【Kindle推出借阅服务后，有哪些书值得看？】](http://toutiao.com/item/6256413567633850882/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【做GUI要学Sketch！你用了吗？】](http://toutiao.com/item/6256552296428077569/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【和格灵深瞳CTO聊人工智能：情感和灵魂是非主流】](http://toutiao.com/item/6256845376133792257/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
