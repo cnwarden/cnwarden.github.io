@@ -79,3 +79,7 @@ title:  fav
 
 [今日头条【和格灵深瞳CTO聊人工智能：情感和灵魂是非主流】](http://toutiao.com/item/6256845376133792257/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【和格灵深瞳CTO聊人工智能：情感和灵魂是非主流】](http://toutiao.com/item/6256845376133792257/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【在首席架构师眼里，架构的本质是】](http://toutiao.com/item/6256911399339950593/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
