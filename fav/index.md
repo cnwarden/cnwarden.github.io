@@ -71,3 +71,7 @@ title:  fav
 
 [今日头条【回龙观、东小口2020年全面实现城市化】](http://toutiao.com/item/6256804680945369602/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[也许你并不懂Kindle，不信？你看......](http://mp.weixin.qq.com/s?__biz=MjM5NDI3NjE0MQ==&mid=402209244&idx=1&sn=12b96b3812bb83235b9175de5483e0f2&scene=0#wechat_redirect)
+
+[今日头条【Kindle推出借阅服务后，有哪些书值得看？】](http://toutiao.com/item/6256413567633850882/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
