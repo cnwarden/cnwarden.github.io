@@ -63,3 +63,7 @@ title:  fav
 
 [就是新鲜，按照这些方法挑菜，真是赚到了！](http://mp.weixin.qq.com/s?__biz=MjM5NDcxMTE2NA==&mid=406353697&idx=4&sn=69fcf30cf8c2e56ba9d4049a0fbc4b99&scene=0#wechat_redirect)
 
+[我为何放弃Gulp与Grunt，转投npm&nbsp;scripts](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=402925313&idx=1&sn=496b5b65a778c099f009ab308f2936da&scene=0#wechat_redirect)
+
+[今日头条【《Think Python》最新中译版：序言】](http://toutiao.com/item/6256590077120479745/?iid=3578109516&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
