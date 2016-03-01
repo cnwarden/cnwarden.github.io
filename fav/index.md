@@ -105,3 +105,11 @@ title:  fav
 
 [今日头条【针对架构设计的几个痛点，我总结出的架构原则和模式】](http://toutiao.com/item/6256320275680330242/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[淘宝刷单，是如何产生快递记录的？ - 周克的回答 - 知乎](http://www.zhihu.com/question/21469434/answer/88692394)
+
+[如何同时提升学术能力和编程能力？ - 曲晓峰的回答 - 知乎](http://www.zhihu.com/question/40884327/answer/88700898)
+
+[国内图片社交 App 中谁最有可能成为下一个 Instagram？ - 覃超的回答 - 知乎](http://www.zhihu.com/question/30189129/answer/88695302)
+
+[微信红包的随机算法是怎样实现的？ - 陈鹏的回答 - 知乎](http://www.zhihu.com/question/22625187/answer/85530416)
+
