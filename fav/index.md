@@ -97,3 +97,11 @@ title:  fav
 
 [今日头条【机器学习简史——经理人必读】](http://toutiao.com/item/6256658044734669314/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【2月书讯：终究还是来了！】](http://toutiao.com/item/6256696292609622530/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【10个最有用的IntelliJ IDEA 插件】](http://toutiao.com/item/6257026723712336385/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【Axure教程：微信启动闪屏界面制作】](http://toutiao.com/item/6256910251845485057/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【针对架构设计的几个痛点，我总结出的架构原则和模式】](http://toutiao.com/item/6256320275680330242/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
