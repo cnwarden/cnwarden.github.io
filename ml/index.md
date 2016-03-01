@@ -7,6 +7,24 @@ title:  machine learning
 
 ---------------------------------------------------------------
 
+# :star: 置顶
+
+[机器学习专家与统计学家观点上有哪些不同？](https://www.zhihu.com/question/29687860)
+
+[机器学习该怎么入门？](https://www.zhihu.com/question/20691338)
+
+[如何快速成为数据分析师](https://www.zhihu.com/question/29265587)
+
+[机器学习有很多关于核函数的说法，核函数的定义和作用是什么？](https://www.zhihu.com/question/24627666)
+
+[如何用简单易懂的例子解释隐马尔可夫模型？](https://www.zhihu.com/question/20962240)
+
+[「社会网络分析」是怎样的学科?](https://www.zhihu.com/question/28939731)
+
+[如何准备机器学习工程师的面试?](https://www.zhihu.com/question/23259302)
+
+[自然语言处理怎么最快入门？](https://www.zhihu.com/question/19895141)
+
 # PROJECTS
 
 ## [OpenNLP](http://opennlp.apache.org/)
