@@ -133,3 +133,5 @@ title:  fav
 
 [绿树春花，这样的北京植物园，您真的去过么？](http://mp.weixin.qq.com/s?__biz=MjM5NDcxMTE2NA==&mid=406501018&idx=1&sn=614589d44c0281e310697ec90caeb53e&scene=0#wechat_redirect)
 
+[CFA考试各科目学习方法集锦](http://mp.weixin.qq.com/s?__biz=MjM5NTEzNjA2MA==&mid=403769055&idx=2&sn=af8b4bae7a9823b9af615d0340c99c58&scene=0#wechat_redirect)
+
