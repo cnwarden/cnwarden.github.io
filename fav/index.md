@@ -135,3 +135,13 @@ title:  fav
 
 [CFA考试各科目学习方法集锦](http://mp.weixin.qq.com/s?__biz=MjM5NTEzNjA2MA==&mid=403769055&idx=2&sn=af8b4bae7a9823b9af615d0340c99c58&scene=0#wechat_redirect)
 
+[今日头条【并发之痛 Thread，Goroutine，Actor】](http://toutiao.com/item/6257295282237604354/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【Stack Overflow 2016最新架构探秘】](http://toutiao.com/item/6257238367692390913/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【对话架构师：亿级短视频社交美拍架构实战】](http://toutiao.com/item/6240712819407323649/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【面向对象设计的七大原则】](http://toutiao.com/group/6257317857354039553/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【机器学习评价指标大汇总】](http://toutiao.com/item/6257310726537347586/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
