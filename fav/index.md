@@ -127,3 +127,7 @@ title:  fav
 
 [今日头条【Apache Kudu 0.7.0 发布，Hadoop 存储系统】](http://toutiao.com/item/6256525626744766978/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【哲学教授:谷歌不会自取其辱 若证实可获诺贝尔】](http://toutiao.com/item/6257280482359116290/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【效率极低人士的7个习惯（经典）】](http://toutiao.com/item/6254304143863710210/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
