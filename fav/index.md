@@ -121,3 +121,9 @@ title:  fav
 
 [今日头条【搭载Wi-Fi和蓝牙的树莓派三代，仅售229软妹币】](http://toutiao.com/item/6256910812015755777/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【海昏侯墓主人身份今晨公布：刘贺，真的是你！】](http://toutiao.com/item/6257265667456631297/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【最适合送给程序员男友的礼物：树莓派3】](http://toutiao.com/item/6257210007096394242/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【Apache Kudu 0.7.0 发布，Hadoop 存储系统】](http://toutiao.com/item/6256525626744766978/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
