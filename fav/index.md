@@ -169,3 +169,5 @@ title:  fav
 
 [今日头条【MIT最新PYTHON课程开课ing.....】](http://toutiao.com/item/6257688367434039809/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[解放战争期间延安沦陷有没有有产生有趣的打脸案例？ - 失重神教的回答 - 知乎](http://www.zhihu.com/question/40134533/answer/89103112)
+
