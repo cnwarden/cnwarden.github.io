@@ -157,3 +157,5 @@ title:  fav
 
 [今日头条【Raft 为什么是更易理解的分布式一致性算法】](http://toutiao.com/item/6257076024245223938/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【58同城高性能移动Push推送平台架构演进之路】](http://toutiao.com/item/6257634242671411714/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
