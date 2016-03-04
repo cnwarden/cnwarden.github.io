@@ -193,3 +193,5 @@ title:  fav
 
 [今日头条【[可视化]一张图看懂Python3】](http://toutiao.com/item/6258055831187620353/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[如何评价 2016 年 3 月 2 日联合国安理会全票通过制裁朝鲜的决议？ - 失重神教的回答 - 知乎](http://www.zhihu.com/question/40960127/answer/89114392)
+
