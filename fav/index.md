@@ -187,3 +187,5 @@ title:  fav
 
 [今日头条【电商总结（三）构建数据库的主从架构】](http://toutiao.com/item/6257822653097181697/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[CFA考试考什么？如何进行考试？怎样才算通过...](http://mp.weixin.qq.com/s?__biz=MjM5NDI3NjE0MQ==&mid=402246883&idx=3&sn=5c563092a34f7cfab71376ed4270156f&scene=0#wechat_redirect)
+
