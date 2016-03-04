@@ -185,3 +185,5 @@ title:  fav
 
 [今日头条【基于Spark的异构分布式深度学习平台】](http://toutiao.com/item/6257841774828454402/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【电商总结（三）构建数据库的主从架构】](http://toutiao.com/item/6257822653097181697/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
