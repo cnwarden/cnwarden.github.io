@@ -183,3 +183,5 @@ title:  fav
 
 [能利用爬虫技术做到哪些很酷很有趣很有用的事情？ - 曹政的回答 - 知乎](http://www.zhihu.com/question/27621722/answer/89138720)
 
+[今日头条【基于Spark的异构分布式深度学习平台】](http://toutiao.com/item/6257841774828454402/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
