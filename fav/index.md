@@ -195,3 +195,7 @@ title:  fav
 
 [如何评价 2016 年 3 月 2 日联合国安理会全票通过制裁朝鲜的决议？ - 失重神教的回答 - 知乎](http://www.zhihu.com/question/40960127/answer/89114392)
 
+[有哪些定期会发生的数据、事件和会议会引起市场剧烈变化？ - 研金必琴的回答 - 知乎](http://www.zhihu.com/question/28947137/answer/89220162)
+
+[Angular2 相比 Vue 有什么优势？ - Vue.js - 知乎](http://www.zhihu.com/question/40975678)
+
