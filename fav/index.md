@@ -179,3 +179,7 @@ title:  fav
 
 [今日头条【5分钟教你看懂汽车参数配置表（第八篇：操控配置）】](http://toutiao.com/item/6257816395317248514/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[Python 的练手项目有哪些值得推荐？ - 石伟的回答 - 知乎](http://www.zhihu.com/question/29372574/answer/88744491)
+
+[能利用爬虫技术做到哪些很酷很有趣很有用的事情？ - 曹政的回答 - 知乎](http://www.zhihu.com/question/27621722/answer/89138720)
+
