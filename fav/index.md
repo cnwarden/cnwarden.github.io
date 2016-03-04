@@ -191,3 +191,5 @@ title:  fav
 
 [女神](http://mp.weixin.qq.com/s?__biz=MzAxODIwNDkzMw==&mid=403964799&idx=1&sn=aeaf03128042e5d0e1a884d846199df1&scene=0#wechat_redirect)
 
+[今日头条【[可视化]一张图看懂Python3】](http://toutiao.com/item/6258055831187620353/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
