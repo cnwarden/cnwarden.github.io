@@ -213,3 +213,7 @@ title:  fav
 
 [今日头条【大道至简的数据体系构建方法论】](http://toutiao.com/item/6258273344441811458/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【如何做到流畅阅读英文资料和听懂国外公开课？】](http://toutiao.com/item/6258505880250089985/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【python通过protobuf实现rpc】](http://toutiao.com/item/6258573805472449025/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
