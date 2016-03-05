@@ -209,3 +209,5 @@ title:  fav
 
 [为何微积分具有如此的优越性？ - 数学 - 知乎](http://www.zhihu.com/question/40285961)
 
+[史上最全VR势力版图解密：52P派杰权威报告(上)](http://mp.weixin.qq.com/s?__biz=MjM5ODgxNTk4Mw==&mid=440832770&idx=1&sn=d9dec7a538372084b16d69a1a3b24930&scene=0#wechat_redirect)
+
