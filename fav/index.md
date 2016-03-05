@@ -211,3 +211,5 @@ title:  fav
 
 [史上最全VR势力版图解密：52P派杰权威报告(上)](http://mp.weixin.qq.com/s?__biz=MjM5ODgxNTk4Mw==&mid=440832770&idx=1&sn=d9dec7a538372084b16d69a1a3b24930&scene=0#wechat_redirect)
 
+[今日头条【大道至简的数据体系构建方法论】](http://toutiao.com/item/6258273344441811458/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
