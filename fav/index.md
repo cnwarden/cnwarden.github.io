@@ -199,3 +199,7 @@ title:  fav
 
 [Angular2 相比 Vue 有什么优势？ - Vue.js - 知乎](http://www.zhihu.com/question/40975678)
 
+[今日头条【[可视化]一张图看懂Python3】](http://toutiao.com/item/6258055831187620353/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【好雨云的微服务架构实践】](http://toutiao.com/item/6258163056363176449/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
