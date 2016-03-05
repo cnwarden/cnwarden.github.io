@@ -203,3 +203,7 @@ title:  fav
 
 [今日头条【好雨云的微服务架构实践】](http://toutiao.com/item/6258163056363176449/?iid=3764603574&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[回龙观某婴幼儿游泳馆突然关门，办了卡的我们怎么办？](http://mp.weixin.qq.com/s?__biz=MjM5ODE2ODM0MA==&mid=410733112&idx=1&sn=1ed71acf161c8c029c071a9533d7742c&scene=0#wechat_redirect)
+
+[知乎专栏](http://zhuanlan.zhihu.com/vn-py/20613026)
+
