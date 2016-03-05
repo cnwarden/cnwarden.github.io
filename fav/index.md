@@ -207,3 +207,5 @@ title:  fav
 
 [知乎专栏](http://zhuanlan.zhihu.com/vn-py/20613026)
 
+[为何微积分具有如此的优越性？ - 数学 - 知乎](http://www.zhihu.com/question/40285961)
+
