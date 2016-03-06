@@ -219,3 +219,5 @@ title:  fav
 
 [北京·161中学回龙观学校](http://mp.weixin.qq.com/s?__biz=MjM5NzAwMjk4Mw==&mid=403353022&idx=3&sn=858f4bae2455f66438c86d5be8ba8f21&scene=1&srcid=0304oGRsK2RjgJw3B3D0sFHe&from=groupmessage&isappinstalled=0#wechat_redirect)
 
+[如何用简单易懂的例子解释条件随机场（CRF）模型？它和HMM有什么区别？ - 祝皓玥的回答 - 知乎](http://www.zhihu.com/question/35866596/answer/80007208)
+
