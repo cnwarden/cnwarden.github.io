@@ -221,3 +221,11 @@ title:  fav
 
 [如何用简单易懂的例子解释条件随机场（CRF）模型？它和HMM有什么区别？ - 祝皓玥的回答 - 知乎](http://www.zhihu.com/question/35866596/answer/80007208)
 
+[如何用简单易懂的例子解释条件随机场（CRF）模型？它和HMM有什么区别？ - 杨超的回答 - 知乎](http://www.zhihu.com/question/35866596/answer/80458104)
+
+[为什么 C++ 的构建系统和依赖管理这么混乱？ - C++ - 知乎](http://www.zhihu.com/question/37316844)
+
+[淘宝、阿里巴巴等电商平台的站内搜索中其词库估计都是如何建设的？ - 搜索引擎 - 知乎](http://www.zhihu.com/question/19721067)
+
+[你所在研究领域（ML\CV\NLP等AI子领域）在解决什么问题，最新进展是什么，有哪些重要文章？ - 人工智能 - 知乎](http://www.zhihu.com/question/39394409)
+
