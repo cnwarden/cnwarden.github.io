@@ -253,3 +253,5 @@ title:  fav
 
 [真不愧御姐！](http://mp.weixin.qq.com/s?__biz=MzAxODIwNDkzMw==&mid=404017899&idx=1&sn=1e3a86bb74b2005f8d79b3971a6cf14e&scene=0#wechat_redirect)
 
+[程序员简历应该怎么写？ - 知乎用户的回答 - 知乎](http://www.zhihu.com/question/25002833/answer/35421531)
+
