@@ -243,3 +243,5 @@ title:  fav
 
 [HMM与分词、词性标注、命名实体识别](http://mp.weixin.qq.com/s?__biz=MzIzMTA0NDU0MQ==&mid=208821790&idx=1&sn=d7aeea92de0499ac7a9b1650620e4250&scene=7#wechat_redirect)
 
+[谈创新，何不先想想什么驱动了创新。](http://mp.weixin.qq.com/s?__biz=MzA4MzU4ODMxMQ==&mid=206312761&idx=1&sn=54ee443af13935ff2fbc878c7c0993c3&scene=7#wechat_redirect)
+
