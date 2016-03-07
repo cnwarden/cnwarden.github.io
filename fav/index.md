@@ -235,3 +235,7 @@ title:  fav
 
 [约吗？我在昌平等你来~~](http://mp.weixin.qq.com/s?__biz=MzA4MTI4MDQzNQ==&mid=402238908&idx=1&sn=47ad6c4d4a7065e394d9921b07c6a57d&scene=0#wechat_redirect)
 
+[经典算法排行榜](http://mp.weixin.qq.com/s?__biz=MzA3NzM2Mjc4Mw==&mid=401641036&idx=1&sn=eb3831a6f22fd8d6ee6805e6c152a319&scene=7#wechat_redirect)
+
+[隐马尔科夫模型（HMM）基本原理](http://mp.weixin.qq.com/s?__biz=MzA3OTUzMjA0OQ==&mid=400337151&idx=1&sn=e1a6586b45534be792784f3727a694c1&scene=7#wechat_redirect)
+
