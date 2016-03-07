@@ -233,3 +233,5 @@ title:  fav
 
 [谁能通俗的讲解下viterbi算法吗？ - 算法 - 知乎](http://www.zhihu.com/question/20136144)
 
+[约吗？我在昌平等你来~~](http://mp.weixin.qq.com/s?__biz=MzA4MTI4MDQzNQ==&mid=402238908&idx=1&sn=47ad6c4d4a7065e394d9921b07c6a57d&scene=0#wechat_redirect)
+
