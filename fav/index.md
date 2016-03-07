@@ -229,3 +229,5 @@ title:  fav
 
 [你所在研究领域（ML\CV\NLP等AI子领域）在解决什么问题，最新进展是什么，有哪些重要文章？ - 人工智能 - 知乎](http://www.zhihu.com/question/39394409)
 
+[极品混血！](http://mp.weixin.qq.com/s?__biz=MzAxODIwNDkzMw==&mid=403980994&idx=1&sn=023bc5cb8bbfd6228ad17fd4dfca072b&scene=0#wechat_redirect)
+
