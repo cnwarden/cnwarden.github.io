@@ -231,3 +231,5 @@ title:  fav
 
 [极品混血！](http://mp.weixin.qq.com/s?__biz=MzAxODIwNDkzMw==&mid=403980994&idx=1&sn=023bc5cb8bbfd6228ad17fd4dfca072b&scene=0#wechat_redirect)
 
+[谁能通俗的讲解下viterbi算法吗？ - 算法 - 知乎](http://www.zhihu.com/question/20136144)
+
