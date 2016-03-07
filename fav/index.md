@@ -239,3 +239,7 @@ title:  fav
 
 [隐马尔科夫模型（HMM）基本原理](http://mp.weixin.qq.com/s?__biz=MzA3OTUzMjA0OQ==&mid=400337151&idx=1&sn=e1a6586b45534be792784f3727a694c1&scene=7#wechat_redirect)
 
+[HMM与分词、词性标注、命名实体识别](http://mp.weixin.qq.com/s?__biz=MzIzMTA0NDU0MQ==&mid=208821790&idx=1&sn=d7aeea92de0499ac7a9b1650620e4250&scene=7#wechat_redirect)
+
+[HMM与分词、词性标注、命名实体识别](http://mp.weixin.qq.com/s?__biz=MzIzMTA0NDU0MQ==&mid=208821790&idx=1&sn=d7aeea92de0499ac7a9b1650620e4250&scene=7#wechat_redirect)
+
