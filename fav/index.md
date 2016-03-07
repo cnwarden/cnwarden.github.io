@@ -251,3 +251,5 @@ title:  fav
 
 [prml有没有好的中文资料推荐一下？ - 机器学习 - 知乎](http://www.zhihu.com/question/22539138)
 
+[真不愧御姐！](http://mp.weixin.qq.com/s?__biz=MzAxODIwNDkzMw==&mid=404017899&idx=1&sn=1e3a86bb74b2005f8d79b3971a6cf14e&scene=0#wechat_redirect)
+
