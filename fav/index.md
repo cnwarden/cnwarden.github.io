@@ -245,3 +245,7 @@ title:  fav
 
 [谈创新，何不先想想什么驱动了创新。](http://mp.weixin.qq.com/s?__biz=MzA4MzU4ODMxMQ==&mid=206312761&idx=1&sn=54ee443af13935ff2fbc878c7c0993c3&scene=7#wechat_redirect)
 
+[对话&nbsp;|&nbsp;在十核Helio&nbsp;X20亮相前&nbsp;联发科这样反驳了多核无用论](http://mp.weixin.qq.com/s?__biz=MjM5ODgxNTk4Mw==&mid=440933394&idx=2&sn=5a3bb97b08f8961bdc23d16833ba62da&scene=0#wechat_redirect)
+
+[夏普卖身富士康日本人神评论：没卖给韩企就放心了](http://mp.weixin.qq.com/s?__biz=MjM5ODgxNTk4Mw==&mid=440933394&idx=1&sn=1b98ebaeb476669f9d8d811c84e49c93&scene=0#wechat_redirect)
+
