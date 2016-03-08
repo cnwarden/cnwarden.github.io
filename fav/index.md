@@ -265,3 +265,5 @@ title:  fav
 
 [始，于惊蛰——蟒山森林公园游记](http://mp.weixin.qq.com/s?__biz=MzA4MTI4MDQzNQ==&mid=402273043&idx=3&sn=348b8303c7b9bf43088eaad3fc60ae75&scene=0#wechat_redirect)
 
+[对冲基金里面的 Alpha 是什么？ - 宋思源的回答 - 知乎](http://www.zhihu.com/question/23543972/answer/24897387)
+
