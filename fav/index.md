@@ -255,3 +255,7 @@ title:  fav
 
 [程序员简历应该怎么写？ - 知乎用户的回答 - 知乎](http://www.zhihu.com/question/25002833/answer/35421531)
 
+[今日头条【你写过 Web 爬虫, 那么你写过 p2p 爬虫吗?】](http://toutiao.com/item/6259547025444962817/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【大数据：领英宣布开源数据挖掘软件WhereHows】](http://toutiao.com/item/6259494001880072706/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
