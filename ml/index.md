@@ -68,6 +68,7 @@ Stanford relation extractor is a Java implementation to find relations between t
 
 * [http://www-nlp.stanford.edu/links/statnlp.html](http://www-nlp.stanford.edu/links/statnlp.html)
 * [Penn Treebank](http://www.cis.upenn.edu/~treebank/)
+* [Senseval](http://www.senseval.org/)
 
 # BOOKS
 
