@@ -261,3 +261,5 @@ title:  fav
 
 [今日头条【Google手把手教你机器学习，创建推荐系统】](http://toutiao.com/item/6259362811349041665/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[汉王科技：一场官司带来的八个亿](http://mp.weixin.qq.com/s?__biz=MjM5NjE2NjgyMA==&mid=404522553&idx=1&sn=d0718a5292233cacadcd86faab88e713&scene=0#wechat_redirect)
+
