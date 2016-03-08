@@ -259,3 +259,5 @@ title:  fav
 
 [今日头条【大数据：领英宣布开源数据挖掘软件WhereHows】](http://toutiao.com/item/6259494001880072706/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【Google手把手教你机器学习，创建推荐系统】](http://toutiao.com/item/6259362811349041665/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
