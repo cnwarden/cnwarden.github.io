@@ -271,3 +271,5 @@ title:  fav
 
 [春暖花开，周边草原撒欢去！（附自驾线路）](http://mp.weixin.qq.com/s?__biz=MjM5NDcxMTE2NA==&mid=407274580&idx=3&sn=fc93a7c876ece791a0e6efd5c03584d0&scene=0#wechat_redirect)
 
+[今日头条【我们如何使用Go打造了Uber QPS最高的服务】](http://toutiao.com/item/6259849782181757441/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
