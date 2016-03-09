@@ -59,6 +59,7 @@ Stanford relation extractor is a Java implementation to find relations between t
 
 * [Precision and Recall](https://en.wikipedia.org/wiki/Precision_and_recall)
 * [F1 score](https://en.wikipedia.org/wiki/F1_score)
+* [线性分类器](https://en.wikipedia.org/wiki/Linear_classifier)
 
 # TASK
 
