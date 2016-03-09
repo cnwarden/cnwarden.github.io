@@ -89,5 +89,13 @@ Stanford relation extractor is a Java implementation to find relations between t
 
 [Markov Process](https://en.wikipedia.org/wiki/Markov_chain)
 
+# CoreNLP
+
+* [分箱法](http://baike.baidu.com/view/3680824.htm)
+* [http://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.binned_statistic.html](http://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.binned_statistic.html)
+* [google books](https://books.google.com/books?id=scua-qGbA2wC&pg=PA56&lpg=PA56&dq=%E5%88%86%E7%AE%B1%E6%95%B0%E6%8D%AE&source=bl&ots=qau3azwAUn&sig=ylo46akY_MZ8J3Hg7XVa4uAP7dY&hl=en&sa=X&ved=0ahUKEwis_LTVhrPLAhWFHB4KHZ8UBJ4Q6AEISDAF#v=onepage&q=%E5%88%86%E7%AE%B1%E6%95%B0%E6%8D%AE&f=false)
+
+> 通过分箱离散化_数据挖掘：概念与技术（原书第3版）
+
 
 
