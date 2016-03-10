@@ -273,3 +273,5 @@ title:  fav
 
 [今日头条【我们如何使用Go打造了Uber QPS最高的服务】](http://toutiao.com/item/6259849782181757441/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[为什么树懒动作这么迟缓，却没有灭绝？ - 王子冠的回答 - 知乎](http://www.zhihu.com/question/41119249/answer/89988963)
+
