@@ -281,3 +281,7 @@ title:  fav
 
 [今日头条【Linux bashrc和profile的用途和区别】](http://toutiao.com/item/6260128125816930818/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【深入浅出全栈工程师: Web编程基础】](http://toutiao.com/item/6260398416707191298/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【一页纸精华 | HBase】](http://toutiao.com/item/6260426562332525057/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
