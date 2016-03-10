@@ -277,3 +277,7 @@ title:  fav
 
 [今日头条【AlphaGo 这么火，你也想学机器学习了吗？这儿有攻略！】](http://toutiao.com/item/6260093599644385794/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【Stack Overflow：2016年的架构新变化】](http://toutiao.com/item/6260252082905809409/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【Linux bashrc和profile的用途和区别】](http://toutiao.com/item/6260128125816930818/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
