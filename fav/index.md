@@ -275,3 +275,5 @@ title:  fav
 
 [为什么树懒动作这么迟缓，却没有灭绝？ - 王子冠的回答 - 知乎](http://www.zhihu.com/question/41119249/answer/89988963)
 
+[今日头条【AlphaGo 这么火，你也想学机器学习了吗？这儿有攻略！】](http://toutiao.com/item/6260093599644385794/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
