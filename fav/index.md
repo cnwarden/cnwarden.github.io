@@ -293,3 +293,5 @@ title:  fav
 
 [百度内部如何看待 AlphaGo？ - 知乎用户的回答 - 知乎](http://www.zhihu.com/question/41172210/answer/90148916)
 
+[今日头条【源码推荐(03.11)：微信（高仿），单例封装Socket】](http://toutiao.com/item/6260550141975986690/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
