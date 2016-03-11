@@ -295,3 +295,5 @@ title:  fav
 
 [今日头条【源码推荐(03.11)：微信（高仿），单例封装Socket】](http://toutiao.com/item/6260550141975986690/?iid=3806939561&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[机器学习、深度学习等人工智能技术在工业界的应用状况是怎样的？人力供需状况如何？ - Tim Chen 的回答 - 知乎](http://www.zhihu.com/question/41012507/answer/90251033)
+
