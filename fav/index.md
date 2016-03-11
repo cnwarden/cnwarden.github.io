@@ -287,3 +287,9 @@ title:  fav
 
 [春天去哪玩？12条经典路线带您玩转昌平](http://mp.weixin.qq.com/s?__biz=MzA4MTI4MDQzNQ==&mid=402499910&idx=3&sn=0a97a89988e844327dc3b01f60c74b3e&scene=0#wechat_redirect)
 
+[参加kaggle竞赛是怎样一种体验？ - Naiyan Wang 的回答 - 知乎](http://www.zhihu.com/question/24533374/answer/34631808)
+
+[Deep Learning 的专家如此急缺，它难在何处？ - Naiyan Wang 的回答 - 知乎](http://www.zhihu.com/question/41168257/answer/90161322)
+
+[百度内部如何看待 AlphaGo？ - 知乎用户的回答 - 知乎](http://www.zhihu.com/question/41172210/answer/90148916)
+
