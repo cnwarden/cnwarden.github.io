@@ -89,7 +89,8 @@ Stanford relation extractor is a Java implementation to find relations between t
 
 # 学习笔记
 
-[Markov Process](https://en.wikipedia.org/wiki/Markov_chain)
+* [Markov Process](https://en.wikipedia.org/wiki/Markov_chain)
+* [隐马尔科夫模型HMM自学](http://www.comp.leeds.ac.uk/roger/HiddenMarkovModels/html_dev/main.html) [2](http://blog.csdn.net/daringpig/article/details/8072794) [3](http://www.52nlp.cn/hmm-learn-best-practices-one-introduction)
 
 # CoreNLP
 
