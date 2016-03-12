@@ -299,3 +299,5 @@ title:  fav
 
 [统计学习(statistical learning)怎么入门？ - 匿名用户的回答 - 知乎](http://www.zhihu.com/question/38972490/answer/79152697)
 
+[今日头条【elasticsearch2.2 集群搭建各种坑】](http://toutiao.com/item/6261006914277081601/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
