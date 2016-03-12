@@ -301,3 +301,5 @@ title:  fav
 
 [今日头条【elasticsearch2.2 集群搭建各种坑】](http://toutiao.com/item/6261006914277081601/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【互联网电商平台个性化智能推荐系统设计难在哪里】](http://toutiao.com/item/6259154582471967234/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
