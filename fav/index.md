@@ -297,3 +297,5 @@ title:  fav
 
 [机器学习、深度学习等人工智能技术在工业界的应用状况是怎样的？人力供需状况如何？ - Tim Chen 的回答 - 知乎](http://www.zhihu.com/question/41012507/answer/90251033)
 
+[统计学习(statistical learning)怎么入门？ - 匿名用户的回答 - 知乎](http://www.zhihu.com/question/38972490/answer/79152697)
+
