@@ -305,3 +305,5 @@ title:  fav
 
 [知乎专栏](http://zhuanlan.zhihu.com/haoqishiyanshi/20630122)
 
+[每个程序员都该了解的开源世界](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=402511862&idx=1&sn=b6f1b9b8992af9737b44ef1de30325f6&scene=0#wechat_redirect)
+
