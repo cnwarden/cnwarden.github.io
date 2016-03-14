@@ -311,3 +311,5 @@ title:  fav
 
 [今日头条【Win下最爱效率利器:AutoHotKey】](http://toutiao.com/item/6261745473682407938/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[南大周志华的《机器学习》这本书怎么样？ - 计算机 - 知乎](https://www.zhihu.com/question/39945249)
+
