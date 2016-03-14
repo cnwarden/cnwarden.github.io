@@ -3,6 +3,8 @@ layout: post_mine
 title:  machine learning
 ---
 
+![RoadMap](/images/mlcurve.jpg)
+
 [NLP](https://en.wikipedia.org/wiki/Natural_language_processing)
 
 ---------------------------------------------------------------
