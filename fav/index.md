@@ -307,3 +307,5 @@ title:  fav
 
 [每个程序员都该了解的开源世界](http://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=402511862&idx=1&sn=b6f1b9b8992af9737b44ef1de30325f6&scene=0#wechat_redirect)
 
+[今日头条【Upsync ——微博开源的基于 Nginx 容器动态流量管理方案】](http://toutiao.com/item/6261720936467137025/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
