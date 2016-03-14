@@ -313,3 +313,5 @@ title:  fav
 
 [南大周志华的《机器学习》这本书怎么样？ - 计算机 - 知乎](https://www.zhihu.com/question/39945249)
 
+[CFA考试全A怒过，关于CFA&nbsp;Level&nbsp;1&amp;2浅谈](http://mp.weixin.qq.com/s?__biz=MjM5NDI3NjE0MQ==&mid=402351371&idx=2&sn=ef20d3bb619d6c9fb6e61a5921d10450&scene=0#wechat_redirect)
+
