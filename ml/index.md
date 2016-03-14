@@ -89,6 +89,7 @@ Stanford relation extractor is a Java implementation to find relations between t
 # BOOKS
 
 * [Elements of Statistical Learning](#)
+* [周志华 机器学习](https://www.zhihu.com/question/39945249)
 
 * [Machine learning textbook](https://www.cs.ubc.ca/~murphyk/MLbook/)
 
