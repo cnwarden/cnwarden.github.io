@@ -315,3 +315,5 @@ title:  fav
 
 [CFA考试全A怒过，关于CFA&nbsp;Level&nbsp;1&amp;2浅谈](http://mp.weixin.qq.com/s?__biz=MjM5NDI3NjE0MQ==&mid=402351371&idx=2&sn=ef20d3bb619d6c9fb6e61a5921d10450&scene=0#wechat_redirect)
 
+[深度学习如何入门？ - 知乎用户的回答 - 知乎](http://www.zhihu.com/question/26006703/answer/63572833)
+
