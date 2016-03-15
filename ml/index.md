@@ -90,7 +90,7 @@ Stanford relation extractor is a Java implementation to find relations between t
 
 * [Elements of Statistical Learning](#)
 * [周志华 机器学习](https://www.zhihu.com/question/39945249)
-* [An Introduction to Statistical Learning](#) [Notes and Solution Manual](https://github.com/asadoughi/stat-learning)
+* [An Introduction to Statistical Learning](#) [Notes and Solution Manual](https://github.com/asadoughi/stat-learning) [Read Online](http://blog.princehonest.com/stat-learning/)
 * [Machine learning textbook](https://www.cs.ubc.ca/~murphyk/MLbook/)
 
 > 非常非常详细，1000多页，⊙﹏⊙b汗，MCMC，Deep Learning等内容都有涉及，可以说囊括了机器学习里面大部分的模型和方法了，而且非常新，是12年初的，ESL是09年出的。MLAPP还有个很大的优点就是有详细的Matlab代码，可以边看边自己实践一遍。[GitHub - probml/pmtk3: Probabilistic Modeling Toolkit for Matlab/Octave](https://github.com/probml/pmtk3) 虽然三本书里面MLAPP是最全的，但是系统性感觉比不上ESL和PRML。
