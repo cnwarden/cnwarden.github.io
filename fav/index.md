@@ -319,3 +319,5 @@ title:  fav
 
 [懵了！战略新兴板黄了！壳股你咋不上天呢？](http://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=1205262415&idx=1&sn=3be8de1143287b149a2d01b43e9a7da4&scene=0#wechat_redirect)
 
+[回龙观是什么？朋友圈都炸了，回龙观人必须要顶！](http://mp.weixin.qq.com/s?__biz=MjM5ODE2ODM0MA==&mid=411465487&idx=1&sn=42fa2d3085c2da900083530d4d8f43c1&scene=0#wechat_redirect)
+
