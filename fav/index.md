@@ -317,3 +317,5 @@ title:  fav
 
 [深度学习如何入门？ - 知乎用户的回答 - 知乎](http://www.zhihu.com/question/26006703/answer/63572833)
 
+[懵了！战略新兴板黄了！壳股你咋不上天呢？](http://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=1205262415&idx=1&sn=3be8de1143287b149a2d01b43e9a7da4&scene=0#wechat_redirect)
+
