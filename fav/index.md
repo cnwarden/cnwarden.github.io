@@ -329,3 +329,5 @@ title:  fav
 
 [长腿美女!&nbsp;清纯妹子！](http://mp.weixin.qq.com/s?__biz=MzAxODIwNDkzMw==&mid=404100914&idx=1&sn=e396f08b706ff01170cdf1780ded81a4&scene=0#wechat_redirect)
 
+[今日头条【前端资源-实用的JS插件】](http://toutiao.com/item/6262210586235372033/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
