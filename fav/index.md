@@ -325,3 +325,5 @@ title:  fav
 
 [今日头条【关于分布式数据库，你该了解的几件事】](http://toutiao.com/item/6262528382307664386/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【Java集合之TreeMap】](http://toutiao.com/item/6262558353780638210/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
