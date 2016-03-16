@@ -333,3 +333,7 @@ title:  fav
 
 [怎样应对习惯和自我成长所遇到的困难和阻力](http://mp.weixin.qq.com/s?__biz=MjM5NjA3OTM0MA==&mid=406460598&idx=1&sn=e0541bd1919e1d4d41345542b293def3&scene=0#wechat_redirect)
 
+[想参考一些用 Python 做机器学习或数据挖掘的例子和资源，如何获取？ - 李岩的回答 - 知乎](http://www.zhihu.com/question/24157579/answer/87845941)
+
+[想参考一些用 Python 做机器学习或数据挖掘的例子和资源，如何获取？ - 唐家声的回答 - 知乎](http://www.zhihu.com/question/24157579/answer/90975593)
+
