@@ -331,3 +331,5 @@ title:  fav
 
 [今日头条【前端资源-实用的JS插件】](http://toutiao.com/item/6262210586235372033/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[怎样应对习惯和自我成长所遇到的困难和阻力](http://mp.weixin.qq.com/s?__biz=MjM5NjA3OTM0MA==&mid=406460598&idx=1&sn=e0541bd1919e1d4d41345542b293def3&scene=0#wechat_redirect)
+
