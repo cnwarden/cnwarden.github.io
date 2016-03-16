@@ -323,3 +323,5 @@ title:  fav
 
 [还原李一男谜团真相&nbsp;发布会第二天即被带走](http://mp.weixin.qq.com/s?__biz=MjM5ODgxNTk4Mw==&mid=441406031&idx=1&sn=213805b08c603120a1fd61fff7f8fa2e&scene=0#wechat_redirect)
 
+[今日头条【关于分布式数据库，你该了解的几件事】](http://toutiao.com/item/6262528382307664386/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
