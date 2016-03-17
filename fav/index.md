@@ -339,3 +339,7 @@ title:  fav
 
 [Efficient Market Hypothesis 等不现实的理论在金融学术界为什么会如此流行？ - 吴致霆的回答 - 知乎](http://www.zhihu.com/question/19926286/answer/90711923)
 
+[今日头条【Apache五大主流流计算框架详细对比】](http://toutiao.com/item/6262842285696745985/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【是不是该转型搞机器学习呢？】](http://toutiao.com/item/6262712931142599169/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
