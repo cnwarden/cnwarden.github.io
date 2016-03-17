@@ -124,5 +124,7 @@ Stanford relation extractor is a Java implementation to find relations between t
 
 > 通过分箱离散化_数据挖掘：概念与技术（原书第3版）
 
+[定积分计算公式和性质](http://www.shuxuecheng.com/gaosuzk/content/lljx/wzja/5/5-2.htm)
+
 
 
