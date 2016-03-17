@@ -100,6 +100,10 @@ Stanford relation extractor is a Java implementation to find relations between t
 > 很不错的学习笔记,可以看看.
 
 * [The Handbook of Computational Linguistics and Natural Language Processing](https://books.google.com.hk/books?id=zBmom42eWPcC&pg=RA3-PT688&lpg=RA3-PT688&dq=Ratnaparkhi+thesis&source=bl&ots=N8F7p1qF62&sig=QS5ukHtyWeQYC_HOKsV1LfKZzmg&hl=zh-TW&sa=X&ved=0ahUKEwi05Pav-JvLAhWKl5QKHRXvDxcQ6AEIPTAE#v=onepage&q=Ratnaparkhi%20thesis&f=false)
+* 
+# Exercise
+
+* [Kaggle Solution](http://www.chioka.in/kaggle-competition-solutions/)
 
 # DISCUSSION
 
