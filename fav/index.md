@@ -337,3 +337,5 @@ title:  fav
 
 [想参考一些用 Python 做机器学习或数据挖掘的例子和资源，如何获取？ - 唐家声的回答 - 知乎](http://www.zhihu.com/question/24157579/answer/90975593)
 
+[Efficient Market Hypothesis 等不现实的理论在金融学术界为什么会如此流行？ - 吴致霆的回答 - 知乎](http://www.zhihu.com/question/19926286/answer/90711923)
+
