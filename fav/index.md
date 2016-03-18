@@ -343,3 +343,5 @@ title:  fav
 
 [今日头条【是不是该转型搞机器学习呢？】](http://toutiao.com/item/6262712931142599169/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[反正昌平也没啥！就是......](http://mp.weixin.qq.com/s?__biz=MzA4MTI4MDQzNQ==&mid=402706879&idx=1&sn=cc3a3a10eb8e3347ddf95339b7f6b11a&scene=0#wechat_redirect)
+
