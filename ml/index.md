@@ -126,5 +126,7 @@ Stanford relation extractor is a Java implementation to find relations between t
 
 [定积分计算公式和性质](http://www.shuxuecheng.com/gaosuzk/content/lljx/wzja/5/5-2.htm)
 
+[公式推导](http://blog.csdn.net/pipisorry/article/details/50638749)
+
 
 
