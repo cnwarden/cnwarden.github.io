@@ -359,3 +359,5 @@ title:  fav
 
 [目前机器学习在生物学领域有应用吗？ - 王龙腾的回答 - 知乎](http://www.zhihu.com/question/41428117/answer/91045285)
 
+[今日头条【谷歌宣布二进制文件对比工具BinDiff开源】](http://toutiao.com/item/6264515946669408770/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
