@@ -361,3 +361,5 @@ title:  fav
 
 [今日头条【谷歌宣布二进制文件对比工具BinDiff开源】](http://toutiao.com/item/6264515946669408770/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【Nginx实现内参 ：为什么架构很重要?】](http://toutiao.com/item/6264526583218831873/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
