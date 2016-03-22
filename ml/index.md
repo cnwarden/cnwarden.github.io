@@ -89,6 +89,7 @@ Stanford relation extractor is a Java implementation to find relations between t
 # BOOKS
 
 * [Elements of Statistical Learning](#)
+* [PRML](https://mqshen.gitbooks.io/prml/content/Chapter3/bias_variance_decomposition.html) [Bishop](http://research.microsoft.com/en-us/um/people/cmbishop/PRML/webfigs.htm)
 * [周志华 机器学习](https://www.zhihu.com/question/39945249)
 * [An Introduction to Statistical Learning](#) [Notes and Solution Manual](https://github.com/asadoughi/stat-learning) [Read Online](http://blog.princehonest.com/stat-learning/) [Official](http://www-bcf.usc.edu/~gareth/ISL/getbook.html)
 * [Machine learning textbook](https://www.cs.ubc.ca/~murphyk/MLbook/)
