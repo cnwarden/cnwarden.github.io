@@ -367,3 +367,5 @@ title:  fav
 
 [今日头条【一页纸精华 | Storm】](http://toutiao.com/item/6264507161003426305/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【有赞搜索引擎实践(工程篇)】](http://toutiao.com/group/6264739332251828481/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
