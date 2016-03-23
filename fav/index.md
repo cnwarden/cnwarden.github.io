@@ -369,3 +369,7 @@ title:  fav
 
 [今日头条【有赞搜索引擎实践(工程篇)】](http://toutiao.com/group/6264739332251828481/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【前沿 | 对话Carlos Guestrin：如何入门机器学习】](http://toutiao.com/group/6264828703730843906/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【小样本的类人概念学习与大数据的深度强化学习】](http://toutiao.com/group/6264014190672560385/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
