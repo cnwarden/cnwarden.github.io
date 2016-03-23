@@ -375,3 +375,11 @@ title:  fav
 
 [今日头条【迁移学习领军人物戴文渊：人工智能=大数据+机器学习】](http://toutiao.com/group/6265102251884478722/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【架构师实践日｜MongoDB的Docker化实践】](http://toutiao.com/group/6265191888011493633/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【围观：跟拍全球顶尖投行高盛里美女的一天】](http://toutiao.com/group/6265192699591409922/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【机器学习简易入门（四）- 逻辑回归】](http://toutiao.com/group/6265051897850691842/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【基于关联系数的社区划分算法】](http://toutiao.com/group/6252633244015411458/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
