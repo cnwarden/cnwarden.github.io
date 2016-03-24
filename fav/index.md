@@ -399,3 +399,5 @@ title:  fav
 
 [有哪些分布式数据库书籍或论文比较好？ - 陈志翰的回答 - 知乎](http://www.zhihu.com/question/37647788/answer/89845209)
 
+[今日头条【机器学习在金融大数据风险建模中的应用】](http://toutiao.com/group/6265207586057044225/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
