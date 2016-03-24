@@ -383,3 +383,5 @@ title:  fav
 
 [今日头条【基于关联系数的社区划分算法】](http://toutiao.com/group/6252633244015411458/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【技术大咖现身百度传课 解读NLP如何改变生活】](http://toutiao.com/group/6265190810657259777/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
