@@ -401,3 +401,9 @@ title:  fav
 
 [今日头条【机器学习在金融大数据风险建模中的应用】](http://toutiao.com/group/6265207586057044225/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【教程：引如何用AzureML构建简单的机器学习模型】](http://toutiao.com/group/6265523233467744513/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【JVM系列之内存模型（六）】](http://toutiao.com/group/6264420230195839233/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【腾讯刘黎春：社交数据在征信领域的应用探索】](http://toutiao.com/group/6265491059192037634/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
