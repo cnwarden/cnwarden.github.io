@@ -385,3 +385,5 @@ title:  fav
 
 [今日头条【技术大咖现身百度传课 解读NLP如何改变生活】](http://toutiao.com/group/6265190810657259777/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【数盟译文--如何使用R语言的Boruta包进行特征选择】](http://toutiao.com/group/6265166124527190273/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
