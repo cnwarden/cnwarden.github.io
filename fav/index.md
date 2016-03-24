@@ -387,3 +387,9 @@ title:  fav
 
 [今日头条【数盟译文--如何使用R语言的Boruta包进行特征选择】](http://toutiao.com/group/6265166124527190273/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【给下周要面试的你一套大数据技术Hadoop面试题（附答案）】](http://toutiao.com/group/6265457459515621889/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【给下周要面试的你一套大数据技术Hadoop面试题（附答案）】](http://toutiao.com/group/6265457459515621889/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【使用Redis的理由】](http://toutiao.com/group/6265495172580344065/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
