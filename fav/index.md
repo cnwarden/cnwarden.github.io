@@ -397,3 +397,5 @@ title:  fav
 
 [今日头条【NoSQL数据库在现代应用程序中的作用】](http://toutiao.com/group/6265170546524651777/?iid=3851293451&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[有哪些分布式数据库书籍或论文比较好？ - 陈志翰的回答 - 知乎](http://www.zhihu.com/question/37647788/answer/89845209)
+
