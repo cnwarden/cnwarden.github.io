@@ -407,3 +407,5 @@ title:  fav
 
 [今日头条【腾讯刘黎春：社交数据在征信领域的应用探索】](http://toutiao.com/group/6265491059192037634/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【JDK8内存模型-消失的永久代】](http://toutiao.com/group/6266401822911824130/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
