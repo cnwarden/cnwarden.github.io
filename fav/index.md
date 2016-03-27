@@ -409,3 +409,9 @@ title:  fav
 
 [今日头条【JDK8内存模型-消失的永久代】](http://toutiao.com/group/6266401822911824130/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[为什么其他网络社区无法像sc论坛那样出现《临高启明》这种群策群力的小说？ - 在线论坛 - 知乎](http://www.zhihu.com/question/40060206)
+
+[如何长时间高效学习？ - 匿名用户的回答 - 知乎](http://www.zhihu.com/question/28358499/answer/43002343)
+
+[Scala在挖财的应用实践丨视频PPT](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=403260065&idx=1&sn=d22ce69b284f56a60091bcc156d10f50&scene=0#rd)
+
