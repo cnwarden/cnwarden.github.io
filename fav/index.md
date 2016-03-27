@@ -415,3 +415,5 @@ title:  fav
 
 [Scala在挖财的应用实践丨视频PPT](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=403260065&idx=1&sn=d22ce69b284f56a60091bcc156d10f50&scene=0#rd)
 
+[如何看angularjs源代码？ - 徐飞的回答 - 知乎](http://www.zhihu.com/question/30154124/answer/92475463)
+
