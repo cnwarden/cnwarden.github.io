@@ -423,3 +423,5 @@ title:  fav
 
 [我们是如何一步一步走向平庸的？ - 生活 - 知乎](https://www.zhihu.com/question/33220674)
 
+[知乎专栏](http://zhuanlan.zhihu.com/purerender/20638731)
+
