@@ -421,3 +421,5 @@ title:  fav
 
 [大跃进时期的国家是怎么想的。? - 李亦可的回答 - 知乎](http://www.zhihu.com/question/29217693/answer/92523826)
 
+[我们是如何一步一步走向平庸的？ - 生活 - 知乎](https://www.zhihu.com/question/33220674)
+
