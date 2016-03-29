@@ -429,3 +429,9 @@ title:  fav
 
 [绝对尤物&nbsp;娜依灵儿性感写真](http://mp.weixin.qq.com/s?__biz=MzAxODIwNDkzMw==&mid=404359692&idx=1&sn=cf09244cf5e3c69500c2bc4e8dae1c85&scene=0#wechat_redirect)
 
+[今日头条【如何做数据分析挖掘—以电信行业为例】](http://toutiao.com/group/6267246860341117186/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【如何利用市场细分方法构建更好的预测模型？】](http://toutiao.com/group/6267314625710637314/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【mmTrix大数据分析平台构建实录】](http://toutiao.com/group/6266966848190726401/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
