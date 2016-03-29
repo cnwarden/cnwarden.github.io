@@ -435,3 +435,7 @@ title:  fav
 
 [今日头条【mmTrix大数据分析平台构建实录】](http://toutiao.com/group/6266966848190726401/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【写给新手，关于数据分析师职业前景】](http://toutiao.com/group/6267373716662599937/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【面试整理之DOM事件阶段】](http://toutiao.com/group/6267335337174696193/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
