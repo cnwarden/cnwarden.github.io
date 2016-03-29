@@ -425,3 +425,5 @@ title:  fav
 
 [知乎专栏](http://zhuanlan.zhihu.com/purerender/20638731)
 
+[今日头条【从大数据成熟度评估得来的3个有趣的结果】](http://toutiao.com/group/6267325376684343554/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
