@@ -453,3 +453,5 @@ title:  fav
 
 [今日头条【大型网站架构系列：电商网站架构案例(3)】](http://toutiao.com/group/6256663596694061314/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[有没有必要把机器学习算法自己实现一遍？ - 知乎用户的回答 - 知乎](http://www.zhihu.com/question/36768514/answer/82585953)
+
