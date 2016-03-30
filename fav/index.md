@@ -441,3 +441,9 @@ title:  fav
 
 [今日头条【使用Spark MLlib来培训并服务于自然语言处理模型】](http://toutiao.com/group/6267676834193375490/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【知乎观点收集：关于机器学习和数据挖掘找工作】](http://toutiao.com/group/6267493893932515585/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【第二篇：R语言数据可视化之数据塑形技术】](http://toutiao.com/group/6267437508101062913/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[Python 的练手项目有哪些值得推荐？ - 小小搬运工的回答 - 知乎](http://www.zhihu.com/question/29372574/answer/88624507)
+
