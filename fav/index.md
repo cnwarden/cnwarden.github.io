@@ -449,3 +449,5 @@ title:  fav
 
 [渤钢集团：一个世界500强企业的猝死](http://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=1264571410&idx=1&sn=c37107986309305c471e576ff396b869&scene=0#wechat_redirect)
 
+[知乎专栏](http://zhuanlan.zhihu.com/ricequant/20688517)
+
