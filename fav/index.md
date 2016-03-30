@@ -451,3 +451,5 @@ title:  fav
 
 [知乎专栏](http://zhuanlan.zhihu.com/ricequant/20688517)
 
+[今日头条【大型网站架构系列：电商网站架构案例(3)】](http://toutiao.com/group/6256663596694061314/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
