@@ -439,3 +439,5 @@ title:  fav
 
 [今日头条【面试整理之DOM事件阶段】](http://toutiao.com/group/6267335337174696193/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【使用Spark MLlib来培训并服务于自然语言处理模型】](http://toutiao.com/group/6267676834193375490/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
