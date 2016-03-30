@@ -461,3 +461,5 @@ title:  fav
 
 [泡沫轴是什么？ - 戴剑松的回答 - 知乎](http://www.zhihu.com/question/26442953/answer/49786685)
 
+[能不能用简单的例子解释下什么是 Generalized Method of Moments(GMM)？ - 刘澈的回答 - 知乎](http://www.zhihu.com/question/41312883/answer/92940470)
+
