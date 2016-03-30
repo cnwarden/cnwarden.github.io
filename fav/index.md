@@ -455,3 +455,9 @@ title:  fav
 
 [有没有必要把机器学习算法自己实现一遍？ - 知乎用户的回答 - 知乎](http://www.zhihu.com/question/36768514/answer/82585953)
 
+[有没有必要把机器学习算法自己实现一遍？ - 紫杉的回答 - 知乎](http://www.zhihu.com/question/36768514/answer/81937823)
+
+[有没有必要把机器学习算法自己实现一遍？ - 陈默的回答 - 知乎](http://www.zhihu.com/question/36768514/answer/83577695)
+
+[泡沫轴是什么？ - 戴剑松的回答 - 知乎](http://www.zhihu.com/question/26442953/answer/49786685)
+
