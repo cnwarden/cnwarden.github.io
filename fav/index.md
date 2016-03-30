@@ -447,3 +447,5 @@ title:  fav
 
 [Python 的练手项目有哪些值得推荐？ - 小小搬运工的回答 - 知乎](http://www.zhihu.com/question/29372574/answer/88624507)
 
+[渤钢集团：一个世界500强企业的猝死](http://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=1264571410&idx=1&sn=c37107986309305c471e576ff396b869&scene=0#wechat_redirect)
+
