@@ -463,3 +463,5 @@ title:  fav
 
 [能不能用简单的例子解释下什么是 Generalized Method of Moments(GMM)？ - 刘澈的回答 - 知乎](http://www.zhihu.com/question/41312883/answer/92940470)
 
+[今日头条【推荐系统算法初探】](http://toutiao.com/group/6268145066091757825/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
