@@ -465,3 +465,5 @@ title:  fav
 
 [今日头条【推荐系统算法初探】](http://toutiao.com/group/6268145066091757825/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【谁说机器学习遥不可及，你也可以用它写小说玩游戏 | 机器学习】](http://toutiao.com/group/6268002620524577026/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
