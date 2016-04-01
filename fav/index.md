@@ -479,3 +479,5 @@ title:  fav
 
 [机器学习有很多关于核函数的说法，核函数的定义和作用是什么？ - 知乎用户的回答 - 知乎](http://www.zhihu.com/question/24627666/answer/35507744)
 
+[竞技游戏的匹配系统要做到尽可能使双方实力接近有多难？ - SimonS 的回答 - 知乎](http://www.zhihu.com/question/41011877/answer/93203408)
+
