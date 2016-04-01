@@ -469,3 +469,5 @@ title:  fav
 
 [今日头条【科学玩转大数据，年薪岂止60万】](http://toutiao.com/group/6268389324426051841/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【你的大数据项目使用的工具正确吗？】](http://toutiao.com/group/6268364945722605826/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
