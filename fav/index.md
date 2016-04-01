@@ -477,3 +477,5 @@ title:  fav
 
 [今日头条【360数据中心总经理：搞定这三点你也能从大数据里挖出金子】](http://toutiao.com/group/6268388870799802625/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[机器学习有很多关于核函数的说法，核函数的定义和作用是什么？ - 知乎用户的回答 - 知乎](http://www.zhihu.com/question/24627666/answer/35507744)
+
