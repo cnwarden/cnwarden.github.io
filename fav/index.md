@@ -471,3 +471,9 @@ title:  fav
 
 [今日头条【你的大数据项目使用的工具正确吗？】](http://toutiao.com/group/6268364945722605826/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【R用户用ggplot2 package时，经常问的10个问题】](http://toutiao.com/group/6268157552653107458/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【机器学习系列之EM算法】](http://toutiao.com/group/6268451406979825921/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【360数据中心总经理：搞定这三点你也能从大数据里挖出金子】](http://toutiao.com/group/6268388870799802625/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
