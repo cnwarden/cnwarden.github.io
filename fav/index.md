@@ -481,3 +481,5 @@ title:  fav
 
 [竞技游戏的匹配系统要做到尽可能使双方实力接近有多难？ - SimonS 的回答 - 知乎](http://www.zhihu.com/question/41011877/answer/93203408)
 
+[量化交易领域有哪些经典学术论文？ - bh lin 的回答 - 知乎](http://www.zhihu.com/question/34178572/answer/58241365)
+
