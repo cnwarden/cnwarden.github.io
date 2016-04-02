@@ -483,3 +483,7 @@ title:  fav
 
 [量化交易领域有哪些经典学术论文？ - bh lin 的回答 - 知乎](http://www.zhihu.com/question/34178572/answer/58241365)
 
+[今日头条【开源搜索哪个快—SIGIR 2015挑战】](http://toutiao.com/group/6268584739571384578/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【hexo干货系列：（一）hexo+gitHub搭建个人独立博客】](http://toutiao.com/group/6268970902446424322/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
