@@ -489,3 +489,5 @@ title:  fav
 
 [很快，你将见证有史以来最重要的人口变化](http://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=1271998091&idx=1&sn=71307e50b4e0b180921028d2eab1556d&scene=0#wechat_redirect)
 
+[今日头条【天通苑物业谋上市 管理亚洲最大社区】](http://toutiao.com/group/6269147677162864898/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
