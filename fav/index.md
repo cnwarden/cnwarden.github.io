@@ -497,3 +497,7 @@ title:  fav
 
 [今日头条【第541期好RESTful API的设计原则】](http://toutiao.com/group/6267322906109395202/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[知乎专栏](http://zhuanlan.zhihu.com/p/20708281)
+
+[今日头条【开启认知之旅前，你需要一个脑力自动化的引擎】](http://toutiao.com/group/6269985106183061761/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
