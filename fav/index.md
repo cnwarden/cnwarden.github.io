@@ -503,3 +503,5 @@ title:  fav
 
 [今日头条【机器学习在交易中的应用】](http://toutiao.com/group/6258967441495818498/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[20160406的股市分析以及20160407的走势预测？ - 赋格square 的回答 - 知乎](http://www.zhihu.com/question/42183369/answer/93987258)
+
