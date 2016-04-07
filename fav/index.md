@@ -511,3 +511,5 @@ title:  fav
 
 [【AT】宜家有个很特别的店，里面全都是“黑科技”神器！](http://mp.weixin.qq.com/s?__biz=MjM5NzcwMzI0MA==&mid=402811744&idx=3&sn=8a046a1b66c706b2d29f2bf63818e7f6&scene=2&srcid=04052QLQOwxbSI6UBEP9e9z2&from=timeline&isappinstalled=0#wechat_redirect)
 
+[Pinterest主页的机器学习](http://mp.weixin.qq.com/s?__biz=MzI2MjE0MDUzNg==&mid=405292494&idx=1&sn=f4a421aeba38610d1eea0b476a8c2f78&scene=0#wechat_redirect)
+
