@@ -505,3 +505,7 @@ title:  fav
 
 [20160406的股市分析以及20160407的走势预测？ - 赋格square 的回答 - 知乎](http://www.zhihu.com/question/42183369/answer/93987258)
 
+[今日头条【如何在 Github 打造你的爆款开源项目】](http://toutiao.com/group/6269225690744406273/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【从统计看机器学习(一) 一元线性回归】](http://toutiao.com/group/6270482189537739010/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
