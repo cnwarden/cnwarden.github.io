@@ -527,3 +527,7 @@ title:  fav
 
 [今日头条【关于歼20窃取自F-22技术的终级答案 来看国外网友的神评论】](http://toutiao.com/group/6271447263118983425/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【美国为什么不吞并加拿大？杰斐逊总统曾说：今年将加拿大地区兼并】](http://toutiao.com/group/6271421142569992449/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【黄渤在海关被扣？机场海关大厅变成垃圾场刷爆朋友圈...真相】](http://toutiao.com/group/6271454798484553985/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
