@@ -533,3 +533,5 @@ title:  fav
 
 [知乎专栏](http://zhuanlan.zhihu.com/p/20727466)
 
+[爱奇艺基于容器技术的大规模弹性转码平台丨视频PPT](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=403467382&idx=1&sn=87259812fd48eb88d22976710989d25b&scene=0#rd)
+
