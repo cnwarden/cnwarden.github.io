@@ -535,3 +535,5 @@ title:  fav
 
 [爱奇艺基于容器技术的大规模弹性转码平台丨视频PPT](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=403467382&idx=1&sn=87259812fd48eb88d22976710989d25b&scene=0#rd)
 
+[你见过科学文献中最好看的 figure 是什么样的？ - 陈竹天的回答 - 知乎](http://www.zhihu.com/question/26529916/answer/33160645)
+
