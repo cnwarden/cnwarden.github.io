@@ -541,3 +541,5 @@ title:  fav
 
 [今日头条【《非诚勿扰》惊现“股神”惨遭全灭，全场女嘉宾得知结果后悔莫及】](http://toutiao.com/group/6271858956323258881/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【[Algorithm] 机器学习算法常用指标总结】](http://toutiao.com/group/6271892594890195202/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
