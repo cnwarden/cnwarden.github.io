@@ -543,3 +543,5 @@ title:  fav
 
 [今日头条【[Algorithm] 机器学习算法常用指标总结】](http://toutiao.com/group/6271892594890195202/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【面向程序员的数据挖掘指南】](http://toutiao.com/group/6272181988771021058/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
