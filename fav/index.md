@@ -545,3 +545,5 @@ title:  fav
 
 [今日头条【面向程序员的数据挖掘指南】](http://toutiao.com/group/6272181988771021058/?iid=3946525414&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【深入对比数据科学工具箱：Python和R之争】](http://toutiao.com/group/6270472849912774914/?iid=4056437762&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
