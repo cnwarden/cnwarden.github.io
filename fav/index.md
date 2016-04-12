@@ -549,3 +549,5 @@ title:  fav
 
 [今日头条【经验谈丨如何在一年之内成为一名数据挖掘工程师？】](http://toutiao.com/group/6272458491627290881/?iid=4056437762&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【StreamDM：基于Spark Streaming、支持在线学习的流式分析算法引擎】](http://toutiao.com/group/6272705546295230722/?iid=4056437762&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
