@@ -5,6 +5,9 @@ title:  kaggle cases
 
 Kaggle
 
+[ARXIV](http://arxiv.org)
+[ACLWeb](http://aclweb.org)
+
 ---------------------------------------------------------------
 
 # :star: 置顶
