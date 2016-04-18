@@ -561,3 +561,5 @@ title:  fav
 
 [程序员们有些什么好玩儿的程序分享？ - 岳大禹的回答 - 知乎](http://www.zhihu.com/question/29669428/answer/95783764)
 
+[有哪些鲜为人知的历史照片？ - 季清秋的回答 - 知乎](http://www.zhihu.com/question/23523696/answer/58921496)
+
