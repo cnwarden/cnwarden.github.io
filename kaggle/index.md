@@ -8,6 +8,8 @@ Kaggle
 [ARXIV](http://arxiv.org)
 [ACLWeb](http://aclweb.org)
 
+[Person-1](http://www.kazanovaforanalytics.com/tutorial.html) [Bio](http://blog.kaggle.com/2016/02/10/my-kaggle-experience-spot-chasing-retirement/)
+
 ---------------------------------------------------------------
 
 # :star: 置顶
