@@ -559,3 +559,5 @@ title:  fav
 
 [今日头条【免费传授红油做法超详细教程！】](http://toutiao.com/group/6273669383920222466/?iid=4098001378&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[程序员们有些什么好玩儿的程序分享？ - 岳大禹的回答 - 知乎](http://www.zhihu.com/question/29669428/answer/95783764)
+
