@@ -565,3 +565,7 @@ title:  fav
 
 [证券行业最火的“八大未解之谜”，今日谜底出齐了！](http://mp.weixin.qq.com/s?__biz=MjM5NTEzNjA2MA==&mid=2652002236&idx=1&sn=340096f2b66398bb20ddf78333d2fe4b&scene=0#wechat_redirect)
 
+[今日头条【一名合格的机器学习工程师需要具备的5项基本技能，你都get了吗?】](http://toutiao.com/group/6274854890423468290/?iid=4098001378&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【一款新型的数据可视化工具展示世界各国报道不足的故事】](http://toutiao.com/group/6275063991723639041/?iid=4098001378&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
