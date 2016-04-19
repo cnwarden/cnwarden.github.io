@@ -571,3 +571,7 @@ title:  fav
 
 [机器学习（非传统统计方法如回归）到底在量化金融里哪些方面有应用？ - Edward.Fu 的回答 - 知乎](http://www.zhihu.com/question/27420308/answer/95843549)
 
+[今日头条【保证分布式系统数据一致性的6种方案】](http://toutiao.com/group/6275053905785176322/?iid=4098001378&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【基于深度学习的个性化学习模型设计】](http://toutiao.com/group/6275149476010017026/?iid=4098001378&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
