@@ -575,3 +575,5 @@ title:  fav
 
 [今日头条【基于深度学习的个性化学习模型设计】](http://toutiao.com/group/6275149476010017026/?iid=4098001378&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[机器学习 - 收藏夹 - 知乎](http://www.zhihu.com/collection/62539844)
+
