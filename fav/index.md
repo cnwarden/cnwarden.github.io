@@ -577,3 +577,5 @@ title:  fav
 
 [机器学习 - 收藏夹 - 知乎](http://www.zhihu.com/collection/62539844)
 
+[今日头条【28款GitHub最流行的开源机器学习项目】](http://toutiao.com/group/6275148362224877825/?iid=4098001378&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
