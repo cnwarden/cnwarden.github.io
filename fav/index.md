@@ -581,3 +581,7 @@ title:  fav
 
 [今日头条【QCon北京：构建大数据生态需要哪些核心技术？】](http://toutiao.com/group/6276670777458852097/?iid=4138920489&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【基于Hadoop和关系型数据库的电力用采大数据混合服务架构】](http://toutiao.com/group/6277045312663601409/?iid=4138920489&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【Python小金库：渗透测试工具合集】](http://toutiao.com/group/6244672213783789825/?iid=4138920489&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
