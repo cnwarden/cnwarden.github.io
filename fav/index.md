@@ -589,3 +589,5 @@ title:  fav
 
 [线性代数有什么用？学习线性代数的意义在哪？ - 慧航的回答 - 知乎](http://www.zhihu.com/question/36845076/answer/74463428)
 
+[如何在两天内初步掌握线性代数，以应付考试？ - 匿名用户的回答 - 知乎](http://www.zhihu.com/question/20465968/answer/15207897)
+
