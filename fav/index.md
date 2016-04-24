@@ -585,3 +585,7 @@ title:  fav
 
 [今日头条【Python小金库：渗透测试工具合集】](http://toutiao.com/group/6244672213783789825/?iid=4138920489&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[机器学习应该准备哪些数学预备知识？ - 木柄的回答 - 知乎](http://www.zhihu.com/question/36324957/answer/66989594)
+
+[线性代数有什么用？学习线性代数的意义在哪？ - 慧航的回答 - 知乎](http://www.zhihu.com/question/36845076/answer/74463428)
+
