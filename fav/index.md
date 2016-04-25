@@ -593,3 +593,5 @@ title:  fav
 
 [今日头条【可视化：一张图看懂史上最完整的数据分析流程（新手学习）】](http://toutiao.com/group/6277312841812804097/?iid=4138920489&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【大数据：九大最适合实时数据分析的应用领域】](http://toutiao.com/group/6276309092693295362/?iid=4138920489&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
