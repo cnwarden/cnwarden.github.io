@@ -595,3 +595,5 @@ title:  fav
 
 [今日头条【大数据：九大最适合实时数据分析的应用领域】](http://toutiao.com/group/6276309092693295362/?iid=4138920489&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[如何理解矩阵特征值？ - 数学 - 知乎](https://www.zhihu.com/question/21874816)
+
