@@ -599,3 +599,5 @@ title:  fav
 
 [有什么好的模型可以做高精度的时间序列预测呢？ - 李轶睿的回答 - 知乎](http://www.zhihu.com/question/21229371/answer/96978182)
 
+[想研读下spark的源码，怎么搭阅读和调试的环境呢？ - 连城的回答 - 知乎](http://www.zhihu.com/question/24869894/answer/97339151)
+
