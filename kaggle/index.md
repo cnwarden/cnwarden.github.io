@@ -10,6 +10,8 @@ Kaggle
 
 [Person-1](http://www.kazanovaforanalytics.com/tutorial.html) [Bio](http://blog.kaggle.com/2016/02/10/my-kaggle-experience-spot-chasing-retirement/)
 
+[VueJS-awesome](https://github.com/vuejs/awesome-vue#projects-using-vuejs)
+
 ---------------------------------------------------------------
 
 # 分布式平台
