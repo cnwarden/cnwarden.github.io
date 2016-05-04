@@ -643,3 +643,9 @@ title:  fav
 
 [今日头条【卡方检验原理与应用实例】](http://toutiao.com/group/6280482220180996354/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【Python爬虫和情感分析简介】](http://toutiao.com/group/6280754502786089218/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【机器学习在互联网金融中的应用】](http://toutiao.com/group/6280600052562460930/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【透彻理解Spark流处理(一)】](http://toutiao.com/group/6280663807757500674/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
