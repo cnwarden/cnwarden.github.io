@@ -601,3 +601,45 @@ title:  fav
 
 [想研读下spark的源码，怎么搭阅读和调试的环境呢？ - 连城的回答 - 知乎](http://www.zhihu.com/question/24869894/answer/97339151)
 
+[今日头条【2016全球人工智能技术大会杨铭：深度学习发展的新趋势】](http://toutiao.com/group/6277815887228961025/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【专访余凯：希望深度学习与人工智能成为数博会上的亮点】](http://toutiao.com/group/6277545354900685058/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【能模仿韩寒小四写作的神奇递归神经网络（附代码）】](http://toutiao.com/group/6278011731965231361/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【Mesos架构与去哪儿的统一框架实践】](http://toutiao.com/group/6278023651796074753/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【AI爱好者的入门级学习工具：谷歌TensorFlow】](http://toutiao.com/group/6278524936307245314/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[如何在人山人海的景点中拍出非「到此一游」感觉的照片？ - 陈楠NanC 的回答 - 知乎](http://www.zhihu.com/question/22134174/answer/97979207)
+
+[如何成为一个撩妹高手？ - 江畅的回答 - 知乎](http://www.zhihu.com/question/37313072/answer/98064530)
+
+[今日头条【斌哥的 Docker 进阶指南】](http://toutiao.com/group/6278799106468528385/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【微博数据分析黑科技。你用了么？】](http://toutiao.com/group/6278806976857604353/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[知乎专栏](https://zhuanlan.zhihu.com/p/208...http://www.zhihu.com/question/27621722/answer/98251098)
+
+[今日头条【你在 “淘宝” 的时候，这位妹纸做出了一个酷炫到爆炸的科学博客】](http://toutiao.com/group/6278501545701703937/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【从日志统计到大数据分析】](http://toutiao.com/group/6279482597106417921/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[设计低延迟应用，你必须知道这8点经验](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650992306&idx=1&sn=9a2135e2c226d04655a96871c95aa6a5&scene=0#wechat_redirect)
+
+[怎么用最短时间高效而踏实地学习 Python？ - 挖数的回答 - 知乎](http://www.zhihu.com/question/28530832/answer/98331065)
+
+[今日头条【学界 | 数据科学家应该掌握的12种机器学习算法（附信息图）】](http://toutiao.com/group/6280077072120381697/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【深度学习平台的分布式实现综述】](http://toutiao.com/group/6280373126325354754/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【Redis实战：如何构建类微博的亿级社交平台】](http://toutiao.com/group/6280281680851353857/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【学界｜ICLR 2016 会议，不可错过 Facebook 提交的七篇论文】](http://toutiao.com/group/6280457882521993473/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【基于MIMO的单基站混合定位算法研究】](http://toutiao.com/group/6280408606505353473/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[怎样安排时间读书？ - 尤文文的回答 - 知乎](http://www.zhihu.com/question/20069551/answer/98551178)
+
+[今日头条【卡方检验原理与应用实例】](http://toutiao.com/group/6280482220180996354/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
