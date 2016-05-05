@@ -655,3 +655,5 @@ title:  fav
 
 [今日头条【干货｜如何利用人工智能实现数据分类？】](http://toutiao.com/group/6280678966353772802/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【逻辑回归：从入门到精通（全文20页下载）】](http://toutiao.com/group/6280965949357162754/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
