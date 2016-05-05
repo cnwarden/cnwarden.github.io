@@ -661,3 +661,5 @@ title:  fav
 
 [今日头条【数据挖掘系列篇(19):视频网站个性化推荐Hulu&土豆】](http://toutiao.com/group/6280927870157291777/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【大数据：大数据课堂之概念学习29篇（建议收藏）】](http://toutiao.com/group/6281028810901897474/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
