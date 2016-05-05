@@ -671,3 +671,5 @@ title:  fav
 
 [有哪些好的网站，让人第一眼看了就怦然心动，流连忘返？ - 康石石的回答 - 知乎](http://www.zhihu.com/question/26380791/answer/99071598)
 
+[今日头条【高大上的自然语言处理，从这三本书开始丨语言学午餐】](http://toutiao.com/group/6281134119019987201/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
