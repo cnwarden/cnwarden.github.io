@@ -657,3 +657,5 @@ title:  fav
 
 [今日头条【逻辑回归：从入门到精通（全文20页下载）】](http://toutiao.com/group/6280965949357162754/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[北大美女博士：如何将大数据建模在商业领域玩转得风声水起](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650992328&idx=1&sn=5db83eaac75ea70335983ca7dde491a1&scene=0&key=b28b03434249256b06c7db90c301649af6f92d09bd36267f071d8e9ef90d969ab461c4d9a78fd2e837bbdfa143cabdb0&ascene=7&uin=MjI4OTg2NjU%3D&devicetype=android-21&version=26031031&nettype=cmnet&pass_ticket=vaH7aUaXsplQHm6sZHUPVn%2FzhKDcn%2FDseRtRPRuSxwc%3D)
+
