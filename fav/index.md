@@ -651,3 +651,7 @@ title:  fav
 
 [今日头条【大数据工程师技能图谱】](http://toutiao.com/item/6267683222369337858/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【对话：一个工程师在蘑菇街4年的架构感悟】](http://toutiao.com/group/6280648245003174146/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【干货｜如何利用人工智能实现数据分类？】](http://toutiao.com/group/6280678966353772802/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
