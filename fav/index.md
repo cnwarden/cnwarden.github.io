@@ -649,3 +649,5 @@ title:  fav
 
 [今日头条【透彻理解Spark流处理(一)】](http://toutiao.com/group/6280663807757500674/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【大数据工程师技能图谱】](http://toutiao.com/item/6267683222369337858/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
