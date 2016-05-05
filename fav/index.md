@@ -663,3 +663,5 @@ title:  fav
 
 [今日头条【大数据：大数据课堂之概念学习29篇（建议收藏）】](http://toutiao.com/group/6281028810901897474/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[如何基于（超）高频数据作配对交易？ - 郭小贤的回答 - 知乎](http://www.zhihu.com/question/30874742/answer/98994419)
+
