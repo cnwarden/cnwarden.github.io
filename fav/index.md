@@ -665,3 +665,9 @@ title:  fav
 
 [如何基于（超）高频数据作配对交易？ - 郭小贤的回答 - 知乎](http://www.zhihu.com/question/30874742/answer/98994419)
 
+[类似海龟交易系统这样的趋势跟踪如果执行得好，真的可以长期稳定盈利吗？ - 刘大的回答 - 知乎](http://www.zhihu.com/question/28490009/answer/41093956)
+
+[如何成为一名职业健身教练？ - 冉苒的回答 - 知乎](http://www.zhihu.com/question/19608683/answer/98957641)
+
+[有哪些好的网站，让人第一眼看了就怦然心动，流连忘返？ - 康石石的回答 - 知乎](http://www.zhihu.com/question/26380791/answer/99071598)
+
