@@ -673,3 +673,5 @@ title:  fav
 
 [今日头条【高大上的自然语言处理，从这三本书开始丨语言学午餐】](http://toutiao.com/group/6281134119019987201/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[哪些阅读论文的好习惯让你受益无穷？ - 知乎用户的回答 - 知乎](http://www.zhihu.com/question/35930686/answer/95686620)
+
