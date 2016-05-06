@@ -681,3 +681,5 @@ title:  fav
 
 [今日头条【[译]解密Airbnb的数据科学部门如何使用R语言】](http://toutiao.com/group/6280864418223309058/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【统计，R ,SPSS，可视化相关书籍推荐】](http://toutiao.com/group/6281590544242295042/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
