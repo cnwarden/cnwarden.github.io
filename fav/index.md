@@ -677,3 +677,5 @@ title:  fav
 
 [最小二乘法和梯度下降法有哪些区别？ - 最优化 - 知乎](https://www.zhihu.com/question/20822481)
 
+[最小二乘、极大似然、梯度下降有何区别？ - 数学 - 知乎](https://www.zhihu.com/question/24900876)
+
