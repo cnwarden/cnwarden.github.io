@@ -679,3 +679,5 @@ title:  fav
 
 [最小二乘、极大似然、梯度下降有何区别？ - 数学 - 知乎](https://www.zhihu.com/question/24900876)
 
+[今日头条【[译]解密Airbnb的数据科学部门如何使用R语言】](http://toutiao.com/group/6280864418223309058/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
