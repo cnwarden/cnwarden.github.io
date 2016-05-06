@@ -675,3 +675,5 @@ title:  fav
 
 [哪些阅读论文的好习惯让你受益无穷？ - 知乎用户的回答 - 知乎](http://www.zhihu.com/question/35930686/answer/95686620)
 
+[最小二乘法和梯度下降法有哪些区别？ - 最优化 - 知乎](https://www.zhihu.com/question/20822481)
+
