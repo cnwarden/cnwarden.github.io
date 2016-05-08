@@ -683,3 +683,5 @@ title:  fav
 
 [今日头条【统计，R ,SPSS，可视化相关书籍推荐】](http://toutiao.com/group/6281590544242295042/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【为啥是“咸鸭蛋”而不是“咸鸡蛋”】](http://toutiao.com/group/6280500303322398978/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
