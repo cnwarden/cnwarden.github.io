@@ -685,3 +685,5 @@ title:  fav
 
 [今日头条【为啥是“咸鸭蛋”而不是“咸鸡蛋”】](http://toutiao.com/group/6280500303322398978/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【香辣花生米 下酒好菜 比卖的黄飞鸿还好吃】](http://toutiao.com/group/6282090845824221442/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
