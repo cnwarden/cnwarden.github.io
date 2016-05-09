@@ -695,3 +695,5 @@ title:  fav
 
 [上海迪士尼乐园试运营，去玩一趟要花多少钱？看完震惊了！](https://mp.weixin.qq.com/s?__biz=MTcxMjcyNjY2MQ==&mid=2649376702&idx=1&sn=ae4ec86a778fb4fd25344b1c62d5f2e3&scene=0&key=b28b03434249256b01453fd67da2087958bee01ae7ab54dd1428c24b54f56a4ced0babebe3afd0b24572f3ff84f6d9dd&ascene=7&uin=MjI4OTg2NjU%3D&devicetype=android-21&version=26031031&nettype=cmnet&pass_ticket=pltI2q3u162hYLJwvjkJaOGa6GmGzB5CXbXTqOujcuE%3D)
 
+[今日头条【cuDNN 5对RNN模型的性能优化】](http://toutiao.com/group/6282497154481193217/?iid=4287561083&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
