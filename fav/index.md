@@ -687,3 +687,5 @@ title:  fav
 
 [今日头条【香辣花生米 下酒好菜 比卖的黄飞鸿还好吃】](http://toutiao.com/group/6282090845824221442/?iid=4181619100&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【太帅了，简直是字体界的黑科技啊！】](http://toutiao.com/group/6281761249899823362/?iid=4287561083&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
