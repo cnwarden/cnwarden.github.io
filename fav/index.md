@@ -689,3 +689,7 @@ title:  fav
 
 [今日头条【太帅了，简直是字体界的黑科技啊！】](http://toutiao.com/group/6281761249899823362/?iid=4287561083&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【在高维空间学习】](http://toutiao.com/group/6282588882761777409/?iid=4287561083&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[在高维空间学习](https://mp.weixin.qq.com/s?__biz=MzA3NTM4NDE2Mw==&mid=2649545480&idx=2&sn=b24e703df80cc2ab53aa5bccd5b5532a&scene=4&uin=MjI4OTg2NjU%3D&key=b28b03434249256bdae94bb1a4a30532554a64abb5de10872c519516e07d292377107fa32d6b094f38e993fc593babaa&devicetype=android-21&version=26031031&lang=zh_CN&nettype=cmnet&pass_ticket=pltI2q3u162hYLJwvjkJaOGa6GmGzB5CXbXTqOujcuE%3D)
+
