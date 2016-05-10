@@ -697,3 +697,7 @@ title:  fav
 
 [今日头条【cuDNN 5对RNN模型的性能优化】](http://toutiao.com/group/6282497154481193217/?iid=4287561083&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【Hype：组合机器学习和超参数优化】](http://toutiao.com/group/6282815140296442114/?iid=4287561083&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【ICLR 2016最佳论文DeepMind 开发 NPI，有望取代初级程序员（附下载）】](http://toutiao.com/group/6282712644546101505/?iid=4287561083&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
