@@ -701,3 +701,5 @@ title:  fav
 
 [今日头条【ICLR 2016最佳论文DeepMind 开发 NPI，有望取代初级程序员（附下载）】](http://toutiao.com/group/6282712644546101505/?iid=4287561083&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【吐血整理，北京三甲医院和各大医院王牌科室，实用收好了！】](http://toutiao.com/group/6282680745279652097/?iid=4287561083&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
