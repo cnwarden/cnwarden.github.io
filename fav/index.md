@@ -703,3 +703,5 @@ title:  fav
 
 [今日头条【吐血整理，北京三甲医院和各大医院王牌科室，实用收好了！】](http://toutiao.com/group/6282680745279652097/?iid=4287561083&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[简单介绍一下EM算法（附实例）](http://mp.weixin.qq.com/s?__biz=MjM5NTE1NjQ0NA==&mid=405128003&idx=1&sn=a4cf02e35144cfd0efb84ced49343da3&scene=21#wechat_redirect)
+
