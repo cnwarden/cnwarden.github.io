@@ -705,3 +705,5 @@ title:  fav
 
 [简单介绍一下EM算法（附实例）](http://mp.weixin.qq.com/s?__biz=MjM5NTE1NjQ0NA==&mid=405128003&idx=1&sn=a4cf02e35144cfd0efb84ced49343da3&scene=21#wechat_redirect)
 
+[既然 LDA 是一种比 PLSA 更高级的模型，为啥百度还在用 PLSA？ - weizier 的回答 - 知乎](http://www.zhihu.com/question/23642556/answer/38969800)
+
