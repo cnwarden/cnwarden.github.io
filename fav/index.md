@@ -711,3 +711,5 @@ title:  fav
 
 [《欢乐颂》完美收官，白富美同款高科技，你也可以拥有！](http://mp.weixin.qq.com/s?__biz=MzA4MjE4OTkwMQ==&mid=2657645141&idx=1&sn=a0143dfd5e82c4a78bfab0db6fc4e261&scene=0#wechat_redirect)
 
+[今日头条【书单｜机器学习、数据挖掘和自然语言处理，机器学习工程师和数据科学家最应该读的16本书】](http://toutiao.com/group/6284157348052402434/?iid=4287561083&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
