@@ -713,3 +713,5 @@ title:  fav
 
 [今日头条【书单｜机器学习、数据挖掘和自然语言处理，机器学习工程师和数据科学家最应该读的16本书】](http://toutiao.com/group/6284157348052402434/?iid=4287561083&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【业界｜Spark、kafka和机器学习：这10家创业公司将大数据分析推向全新高度】](http://toutiao.com/group/6284548735189106946/?iid=4287561083&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
