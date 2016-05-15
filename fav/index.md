@@ -715,3 +715,5 @@ title:  fav
 
 [今日头条【业界｜Spark、kafka和机器学习：这10家创业公司将大数据分析推向全新高度】](http://toutiao.com/group/6284548735189106946/?iid=4287561083&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[得痔疮是怎样一种体验？ - 知乎用户的回答 - 知乎](http://www.zhihu.com/question/27451585/answer/57743038)
+
