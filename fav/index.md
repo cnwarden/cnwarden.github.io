@@ -717,3 +717,5 @@ title:  fav
 
 [得痔疮是怎样一种体验？ - 知乎用户的回答 - 知乎](http://www.zhihu.com/question/27451585/answer/57743038)
 
+[在 Deep Learning / Machine Learning 领域，C++ 应如何学习？ - 刘一佳的回答 - 知乎](http://www.zhihu.com/question/41816315/answer/100935224)
+
