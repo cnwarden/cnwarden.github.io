@@ -721,3 +721,5 @@ title:  fav
 
 [中晋系涉案399亿背后：月支出超1.5亿，视投资人为现金奶牛](http://mp.weixin.qq.com/s?__biz=MzA3MTI4MTgzNA==&mid=2651779536&idx=1&sn=062c95a49780e21af67b04c73e58f28b&scene=0#wechat_redirect)
 
+[开奥运会、办汉服大典--回龙观的这两所小学太会玩儿了！](http://mp.weixin.qq.com/s?__biz=MjM5ODE2ODM0MA==&mid=2661618803&idx=1&sn=dfcc13e2d2a5c5497ba1a44ac8c42cbb&scene=0#wechat_redirect)
+
