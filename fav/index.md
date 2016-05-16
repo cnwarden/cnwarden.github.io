@@ -719,3 +719,5 @@ title:  fav
 
 [在 Deep Learning / Machine Learning 领域，C++ 应如何学习？ - 刘一佳的回答 - 知乎](http://www.zhihu.com/question/41816315/answer/100935224)
 
+[中晋系涉案399亿背后：月支出超1.5亿，视投资人为现金奶牛](http://mp.weixin.qq.com/s?__biz=MzA3MTI4MTgzNA==&mid=2651779536&idx=1&sn=062c95a49780e21af67b04c73e58f28b&scene=0#wechat_redirect)
+
