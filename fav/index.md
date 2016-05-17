@@ -723,3 +723,5 @@ title:  fav
 
 [开奥运会、办汉服大典--回龙观的这两所小学太会玩儿了！](http://mp.weixin.qq.com/s?__biz=MjM5ODE2ODM0MA==&mid=2661618803&idx=1&sn=dfcc13e2d2a5c5497ba1a44ac8c42cbb&scene=0#wechat_redirect)
 
+[夏日炎炎，快到昌平水库觅清凉！](http://mp.weixin.qq.com/s?__biz=MzA4MTYxNjE4Mw==&mid=2655031794&idx=1&sn=6695b56f7bb501dd6bb3251eacc429eb&scene=0#wechat_redirect)
+
