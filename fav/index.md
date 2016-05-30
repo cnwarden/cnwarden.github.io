@@ -725,3 +725,57 @@ title:  fav
 
 [夏日炎炎，快到昌平水库觅清凉！](http://mp.weixin.qq.com/s?__biz=MzA4MTYxNjE4Mw==&mid=2655031794&idx=1&sn=6695b56f7bb501dd6bb3251eacc429eb&scene=0#wechat_redirect)
 
+[今日头条【辨识度强：专为编程设计的免费字体Mononoki】](http://toutiao.com/group/6285947087374057730/?iid=4349023929&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【深度 | 自然语言处理在 Quora 的应用，如何保持社区的信息质量和文明程度】](http://toutiao.com/group/6286033218727936257/?iid=4349023929&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【逻辑回归算法的原理及实现(LR)】](http://toutiao.com/group/6286034059241292034/?iid=4349023929&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【大数据技术个人博客收集】](http://toutiao.com/group/6286080618640048386/?iid=4349023929&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【专题 | 自然语言处理学习笔记（一）：自动摘要技术简介】](http://toutiao.com/group/6286757286824771841/?iid=4349023929&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【白剑波：文本大数据挖掘应用剖析】](http://toutiao.com/group/6283401884238364929/?iid=4349023929&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[一个人可以 DIY 出什么有意思的东西？ - Hing 的回答 - 知乎](http://zhihu.com/question/36255080/answer/101694364)
+
+[【上周精华版Ubuntu&nbsp;Linux上从零开始搭建一个深度学习机器以供研究的详细指南等文章](http://mp.weixin.qq.com/s?__biz=MzAxNTE2MjcxNw==&mid=2652694912&idx=1&sn=9641d68cc7fef52c455315a6add7d038&scene=0#wechat_redirect)
+
+[零基础自学如何成为合格的数据挖掘工程师？ - SS Wang 的回答 - 知乎](http://zhihu.com/question/38770400/answer/101640137)
+
+[《神奈川冲浪里》有哪些有趣的恶搞作品？ - Kenny MacCormick 的回答 - 知乎](http://zhihu.com/question/46592966/answer/102051719)
+
+[去哪里找到好看又实用的餐具？ - 小辛zing 的回答 - 知乎](http://zhihu.com/question/22468846/answer/102007369)
+
+[今日头条【专题 | 自然语言处理学习笔记（二）：encoder-decoder框架和attention mechanism两种研究】](http://toutiao.com/group/6287514716622422273/?iid=4349023929&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[知乎专栏](http://zhuanlan.zhihu.com/p/20756711)
+
+[知乎专栏](http://zhuanlan.zhihu.com/p/20625154)
+
+[知乎专栏](http://zhuanlan.zhihu.com/p/20946022)
+
+[今日头条【12个行业月均阅读超100亿，看Spark如何助力微博Feed算法提升活跃度】](http://toutiao.com/group/6287825445431034113/?iid=4349023929&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【记者调查：北京国际学校现状】](http://toutiao.com/group/6287701170471403778/?iid=4349023929&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【十分全面！作为前端应当了解的那些Web缓存知识】](http://toutiao.com/group/6287817483648008449/?iid=4349023929&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【学界｜谷歌发布论文：递归神经网络用于大规模语言模型的进展】](http://toutiao.com/group/6287886394745749762/?iid=4349023929&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【资料｜Skymind创始人：分布式深度学习综述（PPT全文下载）】](http://toutiao.com/group/6287886358544384258/?iid=4349023929&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[如何通俗易懂地介绍 Gaussian Process？ - 知乎用户的回答 - 知乎](http://zhihu.com/question/46631426/answer/102319379)
+
+[今日头条【大数据：文本数据的机器学习自动分类方法（上、下）】](http://toutiao.com/group/6288447400067498241/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【看图说话，Zookeeper基本概念详解】](http://toutiao.com/group/6289178261054652673/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【数据挖掘哪家强？谈谈数据科学家们眼中的Kaggle、天池和DataCastle】](http://toutiao.com/group/6289252471404642562/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[知乎专栏](http://zhuanlan.zhihu.com/p/20885568)
+
+[天苍苍野茫茫，咱到北京周边草原去“放羊”！](http://mp.weixin.qq.com/s?__biz=MjM5NDcxMTE2NA==&mid=2656822348&idx=1&sn=d92d4b63d76db13a612d00fa40c7a927&scene=0#wechat_redirect)
+
+[今日头条【机器学习系统丛林迷路指南】](http://toutiao.com/group/6290341973182480642/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
