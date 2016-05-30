@@ -779,3 +779,7 @@ title:  fav
 
 [今日头条【机器学习系统丛林迷路指南】](http://toutiao.com/group/6290341973182480642/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【享受周末的时光——京津自驾之旅！】](http://toutiao.com/group/6290336213795062017/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[知乎专栏](http://zhuanlan.zhihu.com/p/21263408)
+
