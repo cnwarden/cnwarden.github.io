@@ -789,3 +789,5 @@ title:  fav
 
 [今日头条【干货阿里巴巴 开源软件列表】](http://toutiao.com/group/6285633356227608834/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【深度学习最新梳理：OpenAI研究骨干博士论文（PDF167页）】](http://toutiao.com/group/6290849926880870658/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
