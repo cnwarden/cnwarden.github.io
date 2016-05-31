@@ -787,3 +787,5 @@ title:  fav
 
 [今日头条【机器学习专题研究:SVM算法选股以及Adaboost增强】](http://toutiao.com/group/6290782779866480898/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【干货阿里巴巴 开源软件列表】](http://toutiao.com/group/6285633356227608834/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
