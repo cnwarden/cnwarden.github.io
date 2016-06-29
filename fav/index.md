@@ -791,3 +791,33 @@ title:  fav
 
 [今日头条【深度学习最新梳理：OpenAI研究骨干博士论文（PDF167页）】](http://toutiao.com/group/6290849926880870658/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【六一献礼：这是迄今为止，AlphaGo算法最清晰的解读】](http://toutiao.com/group/6290309783032758529/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【网易视频云：分布式搜索elasticsearch中文分词集成】](http://toutiao.com/group/6291043333692408065/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[高级语言虚拟机的计算模型？ - RednaxelaFX 的回答 - 知乎](http://zhihu.com/question/46971023/answer/103690143)
+
+[如何掌握做超级好吃便当的技能？ - 张小叶子的回答 - 知乎](http://zhihu.com/question/23879135/answer/103763281)
+
+[今日头条【❲实现❳基于内容推荐的个性化新闻阅读实现】](http://toutiao.com/group/6291367644448686337/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【专题|大数据挖掘技术—高效Apriori算法】](http://toutiao.com/group/6291839529629499650/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[知乎专栏](http://zhuanlan.zhihu.com/p/21294526?f3fb8ead20=4605582ef5230c5eba64f3c83ae505ed)
+
+[今日头条【业界 | 提供算法、应用和框架，2016年机器学习全力变革十大商业领域】](http://toutiao.com/group/6292690590246322433/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【重磅启动！翻译斯坦福大学课程：深度学习与自然语言处理】](http://toutiao.com/group/6291523095808721153/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【大数据：机器学习专家带你实践LSTM语言模型】](http://toutiao.com/group/6292896764307783937/?iid=4429180444&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【学界 | 2010-2016年被引用次数最多的深度学习论文（附论文下载）】](http://toutiao.com/group/6295656418150777090/?iid=4582517842&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[极简后，我家的样子](http://mp.weixin.qq.com/s?__biz=MjM5NjA3OTM0MA==&mid=2655709030&idx=1&sn=3dd37e7e9a67e64cfbd1a2fc60f4798a&scene=0#wechat_redirect)
+
+[参加kaggle竞赛是怎样一种体验？ - Naiyan Wang 的回答 - 知乎](http://www.zhihu.com/question/24533374/answer/34631808?f3fb8ead20=4605582ef5230c5eba64f3c83ae505ed)
+
+[今日头条【深度 | Nature论文详解概率机器学习：从不确定性表征到自动建模（附论文）】](http://toutiao.com/group/6301189824498008321/?iid=4646149818&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
+[今日头条【二部图聚类的Spark实现及改进】](http://toutiao.com/group/6301222958334886146/?iid=4646149818&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
