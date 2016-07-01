@@ -825,3 +825,5 @@ title:  fav
 
 [今日头条【华为天天跑国际会议的是一群什么人？| 内部揭密】](http://toutiao.com/group/6301166130947047681/?iid=4646149818&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【IBM将如何支持Spark?】](http://toutiao.com/group/6301715251503546625/?iid=4646149818&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
