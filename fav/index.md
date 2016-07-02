@@ -827,3 +827,5 @@ title:  fav
 
 [今日头条【IBM将如何支持Spark?】](http://toutiao.com/group/6301715251503546625/?iid=4646149818&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【深度｜ICML 2016大会最具影响力的三个机器学习话题】](http://toutiao.com/group/6302656099540893954/?iid=4646149818&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
