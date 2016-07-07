@@ -837,3 +837,5 @@ title:  fav
 
 [今日头条【数据挖掘，并不是想象的那么神秘！】](http://toutiao.com/group/6303948836516184321/?iid=4646149818&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[消息队列设计的精髓基本都藏在本文里了](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993240&idx=1&sn=bb2c943ee7aeabc3b5962056534d36b5&scene=0#wechat_redirect)
+
