@@ -839,3 +839,5 @@ title:  fav
 
 [消息队列设计的精髓基本都藏在本文里了](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993240&idx=1&sn=bb2c943ee7aeabc3b5962056534d36b5&scene=0#wechat_redirect)
 
+[今日头条【word2vec + transE 知识表示模型】](http://toutiao.com/group/6304497659210940673/?iid=4771598002&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
