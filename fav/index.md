@@ -841,3 +841,5 @@ title:  fav
 
 [今日头条【word2vec + transE 知识表示模型】](http://toutiao.com/group/6304497659210940673/?iid=4771598002&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[如何评价微软高级工程师痴迷于soft link这一linux常见概念？ - 叛逆者的回答 - 知乎](http://www.zhihu.com/question/48244674/answer/109948517?f3fb8ead20=4605582ef5230c5eba64f3c83ae505ed)
+
