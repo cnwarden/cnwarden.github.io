@@ -15,3 +15,10 @@ title:  spark
 [Spark性能优化指南——基础篇](http://mp.weixin.qq.com/s?__biz=MzA4OTk3NzIzMA==&mid=2652288759&idx=4&sn=3f2dede05234eded78d4bd196a8e2ecf&scene=0#wechat_redirect)
 
 # SPARK 例子
+
+
+# 参考
+
+## Scala
+
+- [Scala Cookbook Japanese](http://xerial.org/scala-cookbook/)
