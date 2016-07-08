@@ -16,9 +16,10 @@ title:  spark
 
 # SPARK 例子
 
+# PPT
+
+- [X] [Spark Internals](http://www.slideshare.net/taroleo/spark-internal-hadoop-source-code-reading-16-in-japan)
 
 # 参考
-
-## Scala
 
 - [Scala Cookbook Japanese](http://xerial.org/scala-cookbook/)
