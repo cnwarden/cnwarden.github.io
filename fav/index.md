@@ -845,3 +845,5 @@ title:  fav
 
 [今日头条【网站文章如何能自动判定是抄袭？一种算法和实践架构剖析】](http://toutiao.com/group/6305326791432601858/?iid=4771598002&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【如何成为一个高段位的学习者？】](http://toutiao.com/group/6305516112642031873/?iid=4771598002&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
