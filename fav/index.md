@@ -849,3 +849,5 @@ title:  fav
 
 [今日头条【深度｜大师领路：机器学习进阶路上不可错过的28个视频】](http://toutiao.com/group/6305624101646696706/?iid=4771598002&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【常见机器学习算法比较】](http://toutiao.com/group/6305883092544389378/?iid=4771598002&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
