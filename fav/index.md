@@ -851,3 +851,5 @@ title:  fav
 
 [今日头条【常见机器学习算法比较】](http://toutiao.com/group/6305883092544389378/?iid=4771598002&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
 
+[今日头条【设计消息中间件时我关心什么?(解密电商数据一致性与完整性实现,含PPT)】](http://toutiao.com/group/6303246968119935233/?iid=4771598002&app=news_article&tt_from=android_share&utm_source=email&utm_medium=toutiao_android&utm_campaign=client_share)
+
