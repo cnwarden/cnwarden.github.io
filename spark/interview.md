@@ -14,3 +14,10 @@ Simplicity, Flexibility and Performance are the major advantages of using Spark 
 # What is Shark?
 
 Most of the data users know only SQL and are not good at programming. Shark is a tool, developed for people who are from a database background - to access Scala MLib capabilities through Hive like SQL interface. Shark tool helps data users run Hive on Spark - offering compatibility with Hive metastore, queries and data.
+
+# List some use cases where Spark outperforms Hadoop in processing.
+
+1. Sensor Data Processing –Apache Spark’s ‘In-memory computing’ works best here, as data is retrieved and combined from different sources.
+1. Spark is preferred over Hadoop for real time querying of data.
+1. Stream Processing – For processing logs and detecting frauds in live streams for alerts, Apache Spark is the best solution.
+
