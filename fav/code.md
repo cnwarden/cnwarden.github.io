@@ -11,8 +11,11 @@ title:  code
 ### 初始化NPM
 ```
 npm init
-npm install -g glup
+npm install -g gulp-cli
 npm install -g browser-sync
+
+npm install express --save
+npm install gulp --save-dev
 ```
 
 
