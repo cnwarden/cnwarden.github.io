@@ -20,6 +20,9 @@ npm install -g browser-sync
 
 | Key | Comment |
 |-----|---------|
+|ctrl+k, ctrl+0|Fold All|
+|ctrl+k, ctrl+[n]|Fold Level [n]|
+|ctrl+k, ctrl+j|Unfold All|
 |ctrl+shift+[| Fold |
 |ctrl+shift+]| Unfold |
 
