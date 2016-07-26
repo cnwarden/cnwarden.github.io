@@ -16,3 +16,5 @@ K-Means
 
 参考:
 - [1](https://www.zhihu.com/question/31296149)
+- [https://zhuanlan.zhihu.com/p/20432322](https://zhuanlan.zhihu.com/p/20432322) 
+- [https://zhuanlan.zhihu.com/p/20445085](https://zhuanlan.zhihu.com/p/20445085)
