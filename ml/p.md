@@ -47,6 +47,9 @@ K-Means
 
 - GBDT（利用损失函数的负梯度在当前模型的值作为回归问题提升树算法中的残差的近似值，拟合一个回归树）
 - 随机森林（Bagging+CART）
+
+[Spark 随机森林算法原理、源码分析及案例实战](https://www.ibm.com/developerworks/cn/opensource/os-cn-spark-random-forest/)
+
 - SVM与随机森林比较
 - 改变随机森林的训练样本数据量，是否会影响到随机森林学习到的模型的复杂度
 - Logistics与随机森林比较
