@@ -19,7 +19,7 @@ K-Means
 - [https://zhuanlan.zhihu.com/p/20432322](https://zhuanlan.zhihu.com/p/20432322) 
 - [https://zhuanlan.zhihu.com/p/20445085](https://zhuanlan.zhihu.com/p/20445085)
 - [99%](http://blog.csdn.net/v_july_v/article/details/7382693)
-
+- [常见面试之机器学习算法思想简单梳理](http://www.cnblogs.com/tornadomeet/p/3395593.html)
 
 - SVM的原理，SVM里面的核
 - K-means，如何用hadoop实现k-means
