@@ -23,6 +23,11 @@ K-Means
 - [分类回归树CART](http://www.cnblogs.com/zhangchaoyang/articles/2709922.html)
 
 - SVM的原理，SVM里面的核
+  - [支持向量机SVM-1](http://www.cnblogs.com/jerrylead/archive/2011/03/13/1982639.html)
+  - [支持向量机SVM-2](http://www.cnblogs.com/jerrylead/archive/2011/03/13/1982684.html)
+  - [支持向量机SVM-3](http://www.cnblogs.com/jerrylead/archive/2011/03/18/1988406.html)
+  - [支持向量机SVM-4](http://www.cnblogs.com/jerrylead/archive/2011/03/18/1988415.html)
+  - [支持向量机SVM-5-SMO算法](http://www.cnblogs.com/jerrylead/archive/2011/03/18/1988419.html)
 - K-means，如何用hadoop实现k-means
 - naive bayes和logistic regression的区别
 - LDA的原理和推导
