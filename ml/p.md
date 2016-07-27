@@ -28,6 +28,7 @@ K-Means
   - [支持向量机SVM-3](http://www.cnblogs.com/jerrylead/archive/2011/03/18/1988406.html)
   - [支持向量机SVM-4](http://www.cnblogs.com/jerrylead/archive/2011/03/18/1988415.html)
   - [支持向量机SVM-5-SMO算法](http://www.cnblogs.com/jerrylead/archive/2011/03/18/1988419.html)
+  - [支持向量机(SVM)是否适合大规模数据](https://www.zhihu.com/question/19591450)
 - K-means，如何用hadoop实现k-means
 - naive bayes和logistic regression的区别
 - LDA的原理和推导
